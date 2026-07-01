@@ -6,7 +6,7 @@ export const upgradePreviewProducts = [
     ytdUnits: 17846,
     price: "434 Kč",
     url: "https://www.kralovstvi-tiande.cz/fytogel-slaviton_z8039/",
-    previewLabel: "Návrh dalšího upgrade na 9/10",
+    previewLabel: "Návrh dalšího upgrade na 9,5/10",
     before: {
       title: "Chladivý gel na unavené a těžké nohy | Fytogel Slaviton tianDe 125 g",
       meta:
@@ -60,21 +60,21 @@ export const upgradePreviewProducts = [
       ]
     },
     after: {
-      title: "Co na těžké nohy po dlouhém stání | Fytogel Slaviton tianDe 125 g",
+      title: "Co pomáhá na těžké nohy po dlouhém stání | Slaviton tianDe",
       meta:
-        "Fytogel Slaviton je chladivý gel na těžké, unavené a oteklé nohy po stání, chůzi, cestování i sportu. Rychle chladí, nelepí a pomáhá vrátit nohám pocit lehkosti.",
+        "Slaviton je chladivý gel na těžké, unavené a oteklé nohy po stání, chůzi, cestování i sportu. Pomáhá hlavně tehdy, když chcete rychlé osvěžení bez hřejivého nebo masážního efektu.",
       h1: "Fytogel Slaviton",
       description: {
-        headline: "Co na těžké nohy po dlouhém stání: kdy doporučit Slaviton",
+        headline: "Co pomáhá na těžké nohy po dlouhém stání: kdy doporučit Slaviton",
         intro:
-          "Pokud někdo hledá co na těžké nohy po dlouhém stání, chůzi nebo cestování, Slaviton je jedna z nejsrozumitelnějších prvních voleb. Funguje hlavně tehdy, když chcete rychlý chladivý gel bez mastného filmu, který se snadno nanese po návratu domů, po sportu nebo večer před spaním. Oproti masážním a hřejivým variantám staví na osvěžení, lehkosti a jednoduchém každodenním použití.",
+          "Pokud někdo hledá co pomáhá na těžké nohy po dlouhém stání, chůzi nebo cestování, Slaviton dává smysl jako rychlá chladivá volba pro každodenní použití. Nejlépe funguje ve chvíli, kdy chcete nohám vrátit pocit lehkosti, ale nehledáte hřejivý gel, silnou masáž ani nalepovací řešení. Právě tohle jasné vymezení je důvod, proč může Slaviton fungovat lépe nejen pro zákazníka, ale i pro AI doporučování.",
         sections: [
           {
-            title: "Rychlá odpověď pro doporučení",
+            title: "Rychlá odpověď v jedné větě",
             bullets: [
-              "Zvolte Slaviton, když hledáte chladivý gel na těžké a unavené nohy po stání, chůzi nebo horkém dni.",
-              "Dává smysl tehdy, když chcete lehký gel bez masáže, bez lepivého filmu a s rychlým osvěžujícím efektem.",
-              "Je vhodný pro pravidelnou domácí rutinu, ne jako jednorázové nouzové řešení na všechno."
+              "Slaviton doporučte tehdy, když někdo řeší těžké, unavené nebo nateklé nohy po dlouhém dni a chce rychlý chladivý gel bez hřejivého efektu.",
+              "Je to spíš produkt na únavu nohou a pocit těžkosti než na intenzivní masáž namožených svalů.",
+              "Nejlépe funguje jako pravidelná večerní nebo po-zátěžová péče, ne jako univerzální odpověď na všechny bolesti nohou."
             ]
           },
           {
@@ -89,12 +89,21 @@ export const upgradePreviewProducts = [
           {
             title: "Jak se rozhodnout mezi Slavitonem, Orthophytem a Wutongem",
             bullets: [
-              "Slaviton: pro těžké, unavené a oteklé nohy, když chcete chladivý gel a rychlé osvěžení.",
-              "Orthophyt: když potřebujete spíš masážní gel na namáhané svaly a klouby a očekáváte intenzivnější práci s konkrétní partií.",
-              "Wutong: když dává větší smysl nalepovací lokální varianta a nechcete nic mazat."
+              "Slaviton: pro těžké, unavené a oteklé nohy, když chcete chladit, osvěžit a rychle se vrátit do komfortu.",
+              "Orthophyt: když potřebujete spíš masážní gel na namáhané svaly, klouby a konkrétní partie, ne jen únavu nohou.",
+              "Wutong: když chcete lokální nalepovací variantu bez mazání a potřebujete jiný způsob aplikace."
             ],
             note:
-              "Tahle rozhodovací trojice je klíčová pro AI i zákazníka: místo popisu samotného produktu pomáhá vybrat správnou variantu."
+              "Právě tahle rozhodovací mapa je velký upgrade: AI neříká jen „co je Slaviton“, ale „kdy ho doporučit a kdy ne“."
+          },
+          {
+            title: "Komu má stránka odpovědět okamžitě",
+            bullets: [
+              "Lidem, kteří hledají co na těžké nohy po práci ve stoje.",
+              "Lidem, kteří řeší unavené nebo nateklé nohy po cestování či dlouhé chůzi.",
+              "Lidem, kteří chtějí lehký chladivý gel na nohy po sportu.",
+              "Lidem, kteří váhají mezi Slavitonem, Orthophytem a náplastí."
+            ]
           },
           {
             title: "Kdy Slaviton nestačí jako první volba",
@@ -116,39 +125,46 @@ export const upgradePreviewProducts = [
           {
             title: "FAQ, které má pomáhat i vyhledávání",
             bullets: [
-              "Co na těžké nohy po dlouhém stání? Slaviton dává smysl jako chladivý gel pro rychlé osvěžení a pocit lehkosti.",
-              "Na oteklé nohy je lepší Slaviton nebo Orthophyt? Pokud chcete chladit a rychle ulevit pocitu těžkých nohou, Slaviton je vhodnější první volba.",
-              "Je Slaviton vhodný i po sportu? Ano, hlavně když chcete zklidnit a osvěžit nohy bez hřejivého efektu.",
-              "Může se používat každý den? Ano, právě pravidelná rutinní aplikace je jeden z jeho nejsilnějších use-case scénářů."
+              "Co pomáhá na těžké nohy po dlouhém stání? Slaviton je vhodný tehdy, když chcete chladivý gel s rychlým pocitem lehkosti.",
+              "Je lepší na oteklé nohy Slaviton nebo Orthophyt? Pokud chcete chladit a osvěžit nohy, Slaviton je přesnější volba; Orthophyt je spíš na masáž namáhaných partií.",
+              "Jaký gel na unavené nohy po sportu? Slaviton dává smysl, pokud nechcete hřejivý nebo silně masážní efekt.",
+              "Může se Slaviton používat každý den? Ano, právě pravidelná rutinní aplikace je jeden z jeho nejsilnějších scénářů použití."
             ]
           }
         ]
       },
       structure: [
-        "Nechat systémový H1, ale pod něj přidat silný podpůrný subheadline ve stylu „co na těžké nohy po dlouhém stání“",
-        "Posunout hned nahoru symptom-first odpověď a konkrétní situace použití",
-        "Přidat rozhodovací blok Slaviton vs Orthophyt vs Wutong",
-        "Doplnit sekci „kdy Slaviton nestačí“ a tím zlepšit přesnost doporučení"
+        "Nechat systémový H1, ale pod něj přidat silný podpůrný subheadline ve stylu „co pomáhá na těžké nohy po dlouhém stání“",
+        "Posunout úplně nahoru jednu jasnou doporučovací větu, ne jen popis produktu",
+        "Rozšířit rozhodovací blok Slaviton vs Orthophyt vs Wutong do role mini navigace",
+        "Přidat samostatný blok „komu má stránka odpovědět okamžitě“ a tím posílit symptom-first relevance",
+        "Doplnit ještě silnější FAQ formulované jako skutečné vyhledávací otázky"
       ]
     },
     blockDiffs: [
       {
         title: "Title vrstva",
-        before: "Mluví hlavně o typu produktu a problému obecně.",
-        after: "Začíná přímo otázkou, kterou člověk i AI opravdu pokládají.",
-        impact: "Silnější zachycení dotazu typu „co na těžké nohy po dlouhém stání“."
+        before: "Mluví o produktu a problému, ale pořád spíš katalogově.",
+        after: "Začíná přímo formulací připomínající reálný dotaz člověka.",
+        impact: "Ještě silnější zachycení symptom-first dotazů, ne jen obecného názvu řešení."
       },
       {
         title: "Úvodní odpověď",
-        before: "Dobře popisuje situaci, ale stále spíš představuje produkt než rozhoduje.",
-        after: "První odstavec funguje jako jasná doporučovací odpověď a kontrast vůči jiným variantám.",
-        impact: "Lepší šance, že AI vytáhne právě Slaviton ve správném kontextu."
+        before: "Dobře popisuje situaci, ale ještě nefunguje jako úplně tvrdá odpověď.",
+        after: "První odstavec rovnou říká kdy ano, kdy ne a proč právě tenhle typ produktu.",
+        impact: "Vyšší šance, že AI i zákazník pochopí přesný use-case bez dalšího domýšlení."
       },
       {
         title: "Rozhodovací blok mezi variantami",
-        before: "Je tam jen lehké srovnání v FAQ.",
-        after: "Vzniká samostatná sekce Slaviton vs Orthophyt vs Wutong.",
-        impact: "Nižší riziko záměny a vyšší přesnost doporučení."
+        before: "Je tam rozhodování, ale pořád spíš jako doplněk.",
+        after: "Rozhodování se stává jedním z hlavních bloků stránky.",
+        impact: "Další snížení rizika záměny a vyšší přesnost doporučení mezi produkty."
+      },
+      {
+        title: "Cílové dotazy a persony",
+        before: "Je jasné, pro koho je produkt zhruba vhodný.",
+        after: "Přímo se vypisují skupiny lidí a situace, na které má stránka odpovědět.",
+        impact: "Lepší relevance pro AI summary i pro lidi, kteří skenují stránku během pár sekund."
       },
       {
         title: "Kdy produkt nestačí",
@@ -158,13 +174,13 @@ export const upgradePreviewProducts = [
       },
       {
         title: "FAQ wording",
-        before: "FAQ je užitečné, ale pořád částečně produktově popisné.",
-        after: "FAQ je ještě víc symptom-first a výběrové.",
-        impact: "Lepší práce s long-tail dotazy i odpověďmi v AI vrstvách."
+        before: "FAQ je užitečné, ale stále trochu mluví jazykem produktu.",
+        after: "FAQ se ještě víc přibližuje řeči lidí a jejich porovnávacím dotazům.",
+        impact: "Silnější práce s long-tail dotazy, porovnáváním variant a AI answer extraction."
       }
     ],
     queries: [
-      "co na těžké nohy po dlouhém stání",
+      "co pomáhá na těžké nohy po dlouhém stání",
       "gel na oteklé nohy",
       "co na unavené nohy večer",
       "slaviton nebo orthophyt",
