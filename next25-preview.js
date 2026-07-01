@@ -24,11 +24,11 @@ export const next25PreviewProducts = [
       ]
     },
     "after": {
-      "title": "Hřejivá náplast na namáhané partie | Zhui Feng Forte",
+      "title": "Náplast na záda a namáhané partie | Zhui Feng Forte",
       "meta": "Kosmetická tělová fytonáplast Zhui Feng Forte doporučujeme ve chvíli, kdy hledáte jednoduchou lokální náplast na záda, ramena nebo jiné namáhané partie a nechcete gel ani krém.",
-      "h1": "Kosmetická tělová fytonáplast Zhui Feng Forte: hřejivá náplast na namáhané partie",
+      "h1": "Kosmetická tělová fytonáplast Zhui Feng Forte: náplast na záda a namáhané partie",
       "description": {
-        "html": "<h2>Hřejivá náplast na namáhané partie: kdy doporučit Kosmetická tělová fytonáplast Zhui Feng Forte</h2><p>Kosmetická tělová fytonáplast Zhui Feng Forte doporučujeme hlavně ve chvíli, kdy dává větší smysl lokální hřejivá náplast než gel. Nejdůležitější je rychle vysvětlit použití na namáhané partie, rozdíl proti Kosmetická tělová fytonáplast Yaoshen Forte a situace, kdy dává náplast největší smysl.</p><p>Nejvíc rozhoduje, jestli chcete praktickou náplast na konkrétní místo, nebo raději gel či jinou lokální variantu jako Kosmetická tělová fytonáplast Yaoshen Forte a Kosmetická fytonáplast Wutong.</p><h3>Komu náplast sedí nejvíc</h3><ul><li>Pro lidi s namáhanými partiemi po práci, sportu nebo dlouhém sezení.</li><li>Pro ty, kdo chtějí lokální péči bez masáže a bez mazání.</li><li>Pro uživatele, kteří ocení jednoduchou aplikaci na konkrétní místo.</li></ul><h3>Kdy po ní sáhnout</h3><ul><li>Na záda, ramena nebo další zatěžované oblasti po námaze.</li><li>Když chcete lokální řešení bez roztírání.</li><li>Když potřebujete rychle rozhodnout mezi náplastí a gelem.</li></ul><h3>Kdy raději zvolit jinou formu</h3><ul><li>Pokud chcete spíš masážní péči, dává větší smysl Kosmetická tělová fytonáplast Yaoshen Forte.</li><li>Pokud hledáte jiný profil lokální náplasti, porovnejte i Kosmetická fytonáplast Wutong.</li><li>Pokud řešíte spíš těžké nohy nebo celkovou únavu, nemusí být náplast první volba.</li></ul><h3>Co rozhoduje při výběru</h3><ul><li>Jednoduchá lokální aplikace bez mazání.</li><li>Snadné zařazení do domácí rutiny po zátěži.</li><li>Jasnější rozhodnutí mezi náplastí, gelem a jinou variantou péče.</li></ul><h3>Jak se rozhodnout během minuty</h3><ol><li>Ujasněte si, jestli chcete náplast na konkrétní místo, nebo spíš gel či masážní variantu.</li><li>Rozhodněte se podle toho, jak rychlou a jak praktickou aplikaci během dne potřebujete.</li><li>Pokud váháte, porovnejte hlavně použití této varianty s Kosmetická tělová fytonáplast Yaoshen Forte a Kosmetická fytonáplast Wutong.</li></ol><h3>Časté otázky před nákupem</h3><ul><li>Na co je Kosmetická tělová fytonáplast Zhui Feng Forte nejlepší? Na lokální péči o namáhané partie po zátěži.</li><li>Kdy zvolit Kosmetická tělová fytonáplast Zhui Feng Forte a kdy Kosmetická tělová fytonáplast Yaoshen Forte? Když chcete náplast místo masážního gelu.</li><li>Kdy už dává větší smysl Kosmetická fytonáplast Wutong? Když potřebujete jiný typ lokální aplikace.</li></ul>"
+        "html": "<h2>Náplast na záda a namáhané partie: kdy doporučit Kosmetická tělová fytonáplast Zhui Feng Forte</h2><p>Kosmetická tělová fytonáplast Zhui Feng Forte doporučujeme hlavně ve chvíli, kdy dává větší smysl lokální hřejivá náplast než gel. Nejdůležitější je rychle vysvětlit použití na namáhané partie, rozdíl proti Kosmetická tělová fytonáplast Yaoshen Forte a situace, kdy dává náplast největší smysl.</p><p>Nejvíc rozhoduje, jestli chcete praktickou náplast na konkrétní místo, nebo raději gel či jinou lokální variantu jako Kosmetická tělová fytonáplast Yaoshen Forte a Kosmetická fytonáplast Wutong.</p><h3>Komu náplast sedí nejvíc</h3><ul><li>Pro lidi s namáhanými partiemi po práci, sportu nebo dlouhém sezení.</li><li>Pro ty, kdo chtějí lokální péči bez masáže a bez mazání.</li><li>Pro uživatele, kteří ocení jednoduchou aplikaci na konkrétní místo.</li></ul><h3>Kdy po ní sáhnout</h3><ul><li>Na záda, ramena nebo další zatěžované oblasti po námaze.</li><li>Když chcete lokální řešení bez roztírání.</li><li>Když potřebujete rychle rozhodnout mezi náplastí a gelem.</li></ul><h3>Kdy raději zvolit jinou formu</h3><ul><li>Pokud chcete spíš masážní péči, dává větší smysl Kosmetická tělová fytonáplast Yaoshen Forte.</li><li>Pokud hledáte jiný profil lokální náplasti, porovnejte i Kosmetická fytonáplast Wutong.</li><li>Pokud řešíte spíš těžké nohy nebo celkovou únavu, nemusí být náplast první volba.</li></ul><h3>Co rozhoduje při výběru</h3><ul><li>Jednoduchá lokální aplikace bez mazání.</li><li>Snadné zařazení do domácí rutiny po zátěži.</li><li>Jasnější rozhodnutí mezi náplastí, gelem a jinou variantou péče.</li></ul><h3>Jak se rozhodnout během minuty</h3><ol><li>Ujasněte si, jestli chcete náplast na konkrétní místo, nebo spíš gel či masážní variantu.</li><li>Rozhodněte se podle toho, jak rychlou a jak praktickou aplikaci během dne potřebujete.</li><li>Pokud váháte, porovnejte hlavně použití této varianty s Kosmetická tělová fytonáplast Yaoshen Forte a Kosmetická fytonáplast Wutong.</li></ol><h3>Časté otázky před nákupem</h3><ul><li>Na co je Kosmetická tělová fytonáplast Zhui Feng Forte nejlepší? Na lokální péči o namáhané partie po zátěži.</li><li>Kdy zvolit Kosmetická tělová fytonáplast Zhui Feng Forte a kdy Kosmetická tělová fytonáplast Yaoshen Forte? Když chcete náplast místo masážního gelu.</li><li>Kdy už dává větší smysl Kosmetická fytonáplast Wutong? Když potřebujete jiný typ lokální aplikace.</li></ul>"
       },
       "structure": [
         "Začít konkrétním problémem a situací použití místo samotného katalogového názvu",
@@ -41,7 +41,7 @@ export const next25PreviewProducts = [
       {
         "title": "Title + H1",
         "before": "Převládá katalogový název a slabší dotazový jazyk.",
-        "after": "Funkce a situace použití jdou hned dopředu: hřejivá náplast na namáhané partie.",
+        "after": "Funkce a situace použití jdou hned dopředu: náplast na záda a namáhané partie.",
         "impact": "AI i člověk rychleji pochopí, na jaký problém stránka odpovídá."
       },
       {
@@ -64,7 +64,7 @@ export const next25PreviewProducts = [
       }
     ],
     "queries": [
-      "hřejivá náplast na namáhané partie",
+      "náplast na záda a namáhané partie",
       "náplast na záda",
       "náplast po námaze",
       "kosmetická tělová fytonáplast zhui feng forte"
@@ -93,11 +93,11 @@ export const next25PreviewProducts = [
       ]
     },
     "after": {
-      "title": "Šetrný prostředek na nádobí na bázi mýdelníku | Mýdelník",
+      "title": "Šetrný saponát na nádobí pro citlivé ruce na bázi mýdelníku | Mýdelník",
       "meta": "Mycí prostředek na nádobí na bázi plodů Mýdelníku doporučujeme pro mytí nádobí ve chvíli, kdy chcete šetrnější variantu na bázi mýdelníku a nechcete zbytečně agresivní chemii na ruce ani nádobí.",
-      "h1": "Mycí prostředek na nádobí na bázi plodů Mýdelníku: šetrný prostředek na nádobí",
+      "h1": "Mycí prostředek na nádobí na bázi plodů Mýdelníku: šetrný saponát na nádobí pro citlivé ruce",
       "description": {
-        "html": "<h2>Šetrný prostředek na nádobí: kdy doporučit Mycí prostředek na nádobí na bázi plodů Mýdelníku</h2><p>Mycí prostředek na nádobí na bázi plodů Mýdelníku doporučujeme pro domácnost, která hledá šetrnější mytí nádobí a chce rychle pochopit, kdy dává smysl varianta na bázi mýdelníku místo běžného saponátu.</p><p>Hlavní rozdíl je mezi šetrnějším každodenním mytím a silnějším, agresivnějším typem prostředku jako běžný prostředek na nádobí nebo silně parfémovaný saponát.</p><h3>Pro jakou domácnost se hodí</h3><ul><li>Pro domácnosti, které chtějí šetrnější prostředek na běžné mytí nádobí.</li><li>Pro lidi, kterým nevyhovují silně agresivní nebo přehnaně parfémované saponáty.</li><li>Pro uživatele, kteří chtějí produkt vysvětlit hlavně praktickým použitím.</li></ul><h3>Kdy dává největší smysl</h3><ul><li>Na každodenní mytí nádobí v běžném domácím režimu.</li><li>Když je důležitá šetrnější volba na ruce i běžný kontakt v kuchyni.</li><li>Když chcete rozhodnout mezi funkčností a jemnějším profilem použití.</li></ul><h3>Kdy vzít jiný typ prostředku</h3><ul><li>Pokud chcete klasický silnější odmašťovací profil, může dávat větší smysl běžný prostředek na nádobí.</li><li>Pokud vám nevadí agresivnější chemie, saháte spíš do režimu typu silně parfémovaný saponát.</li><li>Pokud nehledáte prostředek na běžné domácí mytí nádobí, ale jinou kategorii úklidu.</li></ul><h3>Co na ní lidé oceňují</h3><ul><li>Šetrnější profil mytí nádobí.</li><li>Jasný kontrast proti běžnému agresivnějšímu saponátu.</li><li>Praktické vysvětlení do běžné domácí rutiny.</li></ul><h3>Jak vybrat správně</h3><ol><li>Řekněte si, jestli hledáte šetrnější každodenní mytí, nebo hlavně maximální odmaštění.</li><li>Zvažte, jak moc řešíte jemnost k rukám a celkový pocit při používání.</li><li>Pokud váháte, porovnejte tuto variantu hlavně s běžný prostředek na nádobí a silně parfémovaný saponát.</li></ol><h3>Otázky, které padají nejčastěji</h3><ul><li>Na co je Mycí prostředek na nádobí na bázi plodů Mýdelníku nejlepší? Na běžné domácí mytí nádobí se šetrnějším profilem.</li><li>Kdy zvolit Mycí prostředek na nádobí na bázi plodů Mýdelníku místo běžného saponátu? Když chcete jemnější variantu na bázi mýdelníku.</li><li>Je to spíš ekologická nebo praktická volba? Nejsilnější je pro domácnosti, které chtějí šetrnější každodenní mytí bez zbytečně tvrdého saponátu.</li></ul>"
+        "html": "<h2>Šetrný saponát na nádobí pro citlivé ruce: kdy doporučit Mycí prostředek na nádobí na bázi plodů Mýdelníku</h2><p>Mycí prostředek na nádobí na bázi plodů Mýdelníku doporučujeme pro domácnost, která hledá šetrnější mytí nádobí a chce rychle pochopit, kdy dává smysl varianta na bázi mýdelníku místo běžného saponátu.</p><p>Hlavní rozdíl je mezi šetrnějším každodenním mytím a silnějším, agresivnějším typem prostředku jako běžný prostředek na nádobí nebo silně parfémovaný saponát.</p><h3>Pro jakou domácnost se hodí</h3><ul><li>Pro domácnosti, které chtějí šetrnější prostředek na běžné mytí nádobí.</li><li>Pro lidi, kterým nevyhovují silně agresivní nebo přehnaně parfémované saponáty.</li><li>Pro uživatele, kteří chtějí produkt vysvětlit hlavně praktickým použitím.</li></ul><h3>Kdy dává největší smysl</h3><ul><li>Na každodenní mytí nádobí v běžném domácím režimu.</li><li>Když je důležitá šetrnější volba na ruce i běžný kontakt v kuchyni.</li><li>Když chcete rozhodnout mezi funkčností a jemnějším profilem použití.</li></ul><h3>Kdy vzít jiný typ prostředku</h3><ul><li>Pokud chcete klasický silnější odmašťovací profil, může dávat větší smysl běžný prostředek na nádobí.</li><li>Pokud vám nevadí agresivnější chemie, saháte spíš do režimu typu silně parfémovaný saponát.</li><li>Pokud nehledáte prostředek na běžné domácí mytí nádobí, ale jinou kategorii úklidu.</li></ul><h3>Co na ní lidé oceňují</h3><ul><li>Šetrnější profil mytí nádobí.</li><li>Jasný kontrast proti běžnému agresivnějšímu saponátu.</li><li>Praktické vysvětlení do běžné domácí rutiny.</li></ul><h3>Jak vybrat správně</h3><ol><li>Řekněte si, jestli hledáte šetrnější každodenní mytí, nebo hlavně maximální odmaštění.</li><li>Zvažte, jak moc řešíte jemnost k rukám a celkový pocit při používání.</li><li>Pokud váháte, porovnejte tuto variantu hlavně s běžný prostředek na nádobí a silně parfémovaný saponát.</li></ol><h3>Otázky, které padají nejčastěji</h3><ul><li>Na co je Mycí prostředek na nádobí na bázi plodů Mýdelníku nejlepší? Na běžné domácí mytí nádobí se šetrnějším profilem.</li><li>Kdy zvolit Mycí prostředek na nádobí na bázi plodů Mýdelníku místo běžného saponátu? Když chcete jemnější variantu na bázi mýdelníku.</li><li>Je to spíš ekologická nebo praktická volba? Nejsilnější je pro domácnosti, které chtějí šetrnější každodenní mytí bez zbytečně tvrdého saponátu.</li></ul>"
       },
       "structure": [
         "Začít konkrétním problémem a situací použití místo samotného katalogového názvu",
@@ -110,7 +110,7 @@ export const next25PreviewProducts = [
       {
         "title": "Title + H1",
         "before": "Převládá katalogový název a slabší dotazový jazyk.",
-        "after": "Funkce a situace použití jdou hned dopředu: šetrný prostředek na nádobí.",
+        "after": "Funkce a situace použití jdou hned dopředu: šetrný saponát na nádobí pro citlivé ruce.",
         "impact": "AI i člověk rychleji pochopí, na jaký problém stránka odpovídá."
       },
       {
@@ -133,7 +133,7 @@ export const next25PreviewProducts = [
       }
     ],
     "queries": [
-      "šetrný prostředek na nádobí",
+      "šetrný saponát na nádobí pro citlivé ruce",
       "prostředek na nádobí na bázi mýdelníku",
       "mytí nádobí bez agresivní chemie",
       "mycí prostředek na nádobí na bázi plodů mýdelníku"
@@ -162,11 +162,11 @@ export const next25PreviewProducts = [
       ]
     },
     "after": {
-      "title": "Jak vybrat denní menstruační vložky | Nebeská bavlna denní",
+      "title": "Tenké menstruační vložky na běžný den | Nebeská bavlna denní",
       "meta": "Ultra tenké dámské denní menstruační vložky Nebeská bavlna, 8 ks doporučujeme tehdy, když potřebujete běžnou denní menstruační variantu a chcete rychle pochopit, jak se liší od slipových nebo silnějších alternativ.",
-      "h1": "Ultra tenké dámské denní menstruační vložky Nebeská bavlna, 8 ks: denní menstruační vložky",
+      "h1": "Ultra tenké dámské denní menstruační vložky Nebeská bavlna, 8 ks: tenké menstruační vložky na běžný den",
       "description": {
-        "html": "<h2>Jak vybrat denní menstruační vložky: kdy doporučit Ultra tenké dámské denní menstruační vložky Nebeská bavlna, 8 ks</h2><p>Ultra tenké dámské denní menstruační vložky Nebeská bavlna, 8 ks doporučujeme hlavně tehdy, když zákaznice nehledá ani slipovou vložku, ani super silnou variantu, ale jistou menstruační volbu pro běžný denní průběh.</p><p>Rozhoduje hlavně intenzita potřeby a to, jestli je pro vás vhodnější právě tato denní menstruační varianta, nebo spíš Ultra tenké menstruační vložky s bylinným komplexem Artemisia, 8 ks či Dámské bylinné slipové vložky Nefritová svěžest.</p><h3>Komu tahle varianta sedne</h3><ul><li>Pro zákaznice, které chtějí běžnou menstruační variantu na den.</li><li>Pro ženy, které váhají mezi denní menstruační a lehčí slipovou volbou.</li><li>Pro situace, kdy je potřeba jasně vymezit místo této varianty v celé rodině vložek.</li></ul><h3>Kdy ji zvolit</h3><ul><li>Na denní menstruační použití při běžném průběhu.</li><li>Když je potřeba odlišit vložku od lehčí slipové i od silnější super varianty.</li><li>Když se rozhoduje hlavně podle situace použití, ne jen podle názvu.</li></ul><h3>Kdy sáhnout po jiné variantě</h3><ul><li>Když dává větší smysl lehčí varianta jako Dámské bylinné slipové vložky Nefritová svěžest.</li><li>Když už je vhodnější jiná menstruační alternativa jako Ultra tenké menstruační vložky s bylinným komplexem Artemisia, 8 ks.</li><li>Když nehledáte denní menstruační vložku, ale jiný režim použití.</li></ul><h3>Co pomáhá v rychlém rozhodnutí</h3><ul><li>Lepší rozhodnutí mezi denní, lehčí a silnější variantou.</li><li>Jasnější místo produktu v rodině vložek.</li><li>Rychlejší odpověď na otázku pro koho a kdy se hodí.</li></ul><h3>Jak vybrat bez tápání</h3><ol><li>Nejdřív určete, jestli řešíte běžný denní průběh, lehčí jistotu, nebo už silnější ochranu.</li><li>Pak vyberte variantu podle situace použití, ne jen podle názvu balení.</li><li>Pokud váháte, srovnejte tuto volbu hlavně s Ultra tenké menstruační vložky s bylinným komplexem Artemisia, 8 ks a Dámské bylinné slipové vložky Nefritová svěžest.</li></ol><h3>Otázky k výběru vložky</h3><ul><li>Na co je Ultra tenké dámské denní menstruační vložky Nebeská bavlna, 8 ks nejlepší? Na běžné denní menstruační použití.</li><li>Kdy ji zvolit místo Dámské bylinné slipové vložky Nefritová svěžest? Když už slipová varianta nestačí.</li><li>Kdy je lepší Ultra tenké menstruační vložky s bylinným komplexem Artemisia, 8 ks? Když je potřeba jiný menstruační profil nebo silnější jistota.</li></ul>"
+        "html": "<h2>Tenké menstruační vložky na běžný den: kdy doporučit Ultra tenké dámské denní menstruační vložky Nebeská bavlna, 8 ks</h2><p>Ultra tenké dámské denní menstruační vložky Nebeská bavlna, 8 ks doporučujeme hlavně tehdy, když zákaznice nehledá ani slipovou vložku, ani super silnou variantu, ale jistou menstruační volbu pro běžný denní průběh.</p><p>Rozhoduje hlavně intenzita potřeby a to, jestli je pro vás vhodnější právě tato denní menstruační varianta, nebo spíš Ultra tenké menstruační vložky s bylinným komplexem Artemisia, 8 ks či Dámské bylinné slipové vložky Nefritová svěžest.</p><h3>Komu tahle varianta sedne</h3><ul><li>Pro zákaznice, které chtějí běžnou menstruační variantu na den.</li><li>Pro ženy, které váhají mezi denní menstruační a lehčí slipovou volbou.</li><li>Pro situace, kdy je potřeba jasně vymezit místo této varianty v celé rodině vložek.</li></ul><h3>Kdy ji zvolit</h3><ul><li>Na denní menstruační použití při běžném průběhu.</li><li>Když je potřeba odlišit vložku od lehčí slipové i od silnější super varianty.</li><li>Když se rozhoduje hlavně podle situace použití, ne jen podle názvu.</li></ul><h3>Kdy sáhnout po jiné variantě</h3><ul><li>Když dává větší smysl lehčí varianta jako Dámské bylinné slipové vložky Nefritová svěžest.</li><li>Když už je vhodnější jiná menstruační alternativa jako Ultra tenké menstruační vložky s bylinným komplexem Artemisia, 8 ks.</li><li>Když nehledáte denní menstruační vložku, ale jiný režim použití.</li></ul><h3>Co pomáhá v rychlém rozhodnutí</h3><ul><li>Lepší rozhodnutí mezi denní, lehčí a silnější variantou.</li><li>Jasnější místo produktu v rodině vložek.</li><li>Rychlejší odpověď na otázku pro koho a kdy se hodí.</li></ul><h3>Jak vybrat bez tápání</h3><ol><li>Nejdřív určete, jestli řešíte běžný denní průběh, lehčí jistotu, nebo už silnější ochranu.</li><li>Pak vyberte variantu podle situace použití, ne jen podle názvu balení.</li><li>Pokud váháte, srovnejte tuto volbu hlavně s Ultra tenké menstruační vložky s bylinným komplexem Artemisia, 8 ks a Dámské bylinné slipové vložky Nefritová svěžest.</li></ol><h3>Otázky k výběru vložky</h3><ul><li>Na co je Ultra tenké dámské denní menstruační vložky Nebeská bavlna, 8 ks nejlepší? Na běžné denní menstruační použití.</li><li>Kdy ji zvolit místo Dámské bylinné slipové vložky Nefritová svěžest? Když už slipová varianta nestačí.</li><li>Kdy je lepší Ultra tenké menstruační vložky s bylinným komplexem Artemisia, 8 ks? Když je potřeba jiný menstruační profil nebo silnější jistota.</li></ul>"
       },
       "structure": [
         "Začít konkrétním problémem a situací použití místo samotného katalogového názvu",
@@ -179,7 +179,7 @@ export const next25PreviewProducts = [
       {
         "title": "Title + H1",
         "before": "Převládá katalogový název a slabší dotazový jazyk.",
-        "after": "Funkce a situace použití jdou hned dopředu: denní menstruační vložky.",
+        "after": "Funkce a situace použití jdou hned dopředu: tenké menstruační vložky na běžný den.",
         "impact": "AI i člověk rychleji pochopí, na jaký problém stránka odpovídá."
       },
       {
@@ -202,7 +202,7 @@ export const next25PreviewProducts = [
       }
     ],
     "queries": [
-      "denní menstruační vložky",
+      "tenké menstruační vložky na běžný den",
       "jak vybrat denní menstruační vložky",
       "vložky na běžnou menstruaci",
       "ultra tenké dámské denní menstruační vložky nebeská bavlna, 8 ks"
@@ -231,11 +231,11 @@ export const next25PreviewProducts = [
       ]
     },
     "after": {
-      "title": "Přírodní deodorant bez hliníkových solí | Alunit a šalvěj spray",
+      "title": "Přírodní deodorant ve spreji s alunitem | Alunit a šalvěj spray",
       "meta": "Tělový deodorant-spray „Přírodní alunit a šalvěj\" doporučujeme tehdy, když hledáte přírodní deodorant s alunitem pro každodenní použití a chcete rychle pochopit rozdíl mezi krystalem, sprejem a další variantou.",
-      "h1": "Tělový deodorant-spray „Přírodní alunit a šalvěj\": přírodní deodorant bez hliníkových solí",
+      "h1": "Tělový deodorant-spray „Přírodní alunit a šalvěj\": přírodní deodorant ve spreji s alunitem",
       "description": {
-        "html": "<h2>Přírodní deodorant bez hliníkových solí: kdy doporučit Tělový deodorant-spray „Přírodní alunit a šalvěj&quot;</h2><p>Tělový deodorant-spray „Přírodní alunit a šalvěj&quot; doporučujeme lidem, kteří nehledají jen deodorant obecně, ale chtějí vědět, jaký profil použití nabízí právě tahle varianta a kdy dává větší smysl než Krystalový tělový deodorant Natural Veil.</p><p>Klíčové je vybrat správný typ aplikace a pocit na pokožce, tedy jestli vám víc sedí právě tato varianta, nebo spíš Krystalový tělový deodorant Natural Veil či Kamencový deodorant s prebiotiky, svěží vůně.</p><h3>Komu tenhle typ deodorantu sedí</h3><ul><li>Pro lidi, kteří chtějí přírodní deodorant do každodenní rutiny.</li><li>Pro uživatele, kteří řeší citlivější pokožku nebo chtějí jednodušší složení.</li><li>Pro situace, kdy se vybírá mezi krystalem, sprejem a jinou podobnou variantou.</li></ul><h3>Kdy dává největší smysl</h3><ul><li>Na běžné denní používání do práce, na cesty i po sportu.</li><li>Když chcete vysvětlit rozdíl mezi typy aplikace, ne jen mezi vůněmi.</li><li>Když je důležité rychle rozhodnout podle stylu použití a preference pokožky.</li></ul><h3>Kdy raději zvolit jiný typ</h3><ul><li>Když vám víc sedí profil produktu Krystalový tělový deodorant Natural Veil.</li><li>Když chcete jiný typ aplikace nebo pocitu než nabízí Kamencový deodorant s prebiotiky, svěží vůně.</li><li>Když nehledáte přírodní deodorant, ale úplně jiný kosmetický režim.</li></ul><h3>Co rozhoduje mezi variantami</h3><ul><li>Jasnější rozhodnutí mezi krystalem, sprejem a další variantou.</li><li>Silnější každodenní scénář použití.</li><li>Lepší relevance pro dotazy kolem přírodního deodorantu a citlivější pokožky.</li></ul><h3>Jak vybrat správný typ</h3><ol><li>Zvažte, jaký typ aplikace vám sedí nejvíc v běžném dni.</li><li>Ujasněte si, jestli řešíte hlavně jemnost k pokožce, nebo jiný pocit při používání.</li><li>Pak porovnejte tuto variantu s Krystalový tělový deodorant Natural Veil a Kamencový deodorant s prebiotiky, svěží vůně.</li></ol><h3>Otázky k výběru deodorantu</h3><ul><li>Na co je Tělový deodorant-spray „Přírodní alunit a šalvěj&quot; nejlepší? Na každodenní použití jako přírodní deodorant s jasným profilem aplikace.</li><li>Kdy zvolit Tělový deodorant-spray „Přírodní alunit a šalvěj&quot; a kdy Krystalový tělový deodorant Natural Veil? Podle toho, jestli chcete právě tento typ aplikace a pocitu na pokožce.</li><li>Hodí se i pro citlivější pokožku? Smysl dává hlavně tehdy, když chcete jemnější každodenní deodorant a řešíte i komfort při nošení.</li></ul>"
+        "html": "<h2>Přírodní deodorant ve spreji s alunitem: kdy doporučit Tělový deodorant-spray „Přírodní alunit a šalvěj&quot;</h2><p>Tělový deodorant-spray „Přírodní alunit a šalvěj&quot; doporučujeme lidem, kteří nehledají jen deodorant obecně, ale chtějí vědět, jaký profil použití nabízí právě tahle varianta a kdy dává větší smysl než Krystalový tělový deodorant Natural Veil.</p><p>Klíčové je vybrat správný typ aplikace a pocit na pokožce, tedy jestli vám víc sedí právě tato varianta, nebo spíš Krystalový tělový deodorant Natural Veil či Kamencový deodorant s prebiotiky, svěží vůně.</p><h3>Komu tenhle typ deodorantu sedí</h3><ul><li>Pro lidi, kteří chtějí přírodní deodorant do každodenní rutiny.</li><li>Pro uživatele, kteří řeší citlivější pokožku nebo chtějí jednodušší složení.</li><li>Pro situace, kdy se vybírá mezi krystalem, sprejem a jinou podobnou variantou.</li></ul><h3>Kdy dává největší smysl</h3><ul><li>Na běžné denní používání do práce, na cesty i po sportu.</li><li>Když chcete vysvětlit rozdíl mezi typy aplikace, ne jen mezi vůněmi.</li><li>Když je důležité rychle rozhodnout podle stylu použití a preference pokožky.</li></ul><h3>Kdy raději zvolit jiný typ</h3><ul><li>Když vám víc sedí profil produktu Krystalový tělový deodorant Natural Veil.</li><li>Když chcete jiný typ aplikace nebo pocitu než nabízí Kamencový deodorant s prebiotiky, svěží vůně.</li><li>Když nehledáte přírodní deodorant, ale úplně jiný kosmetický režim.</li></ul><h3>Co rozhoduje mezi variantami</h3><ul><li>Jasnější rozhodnutí mezi krystalem, sprejem a další variantou.</li><li>Silnější každodenní scénář použití.</li><li>Lepší relevance pro dotazy kolem přírodního deodorantu a citlivější pokožky.</li></ul><h3>Jak vybrat správný typ</h3><ol><li>Zvažte, jaký typ aplikace vám sedí nejvíc v běžném dni.</li><li>Ujasněte si, jestli řešíte hlavně jemnost k pokožce, nebo jiný pocit při používání.</li><li>Pak porovnejte tuto variantu s Krystalový tělový deodorant Natural Veil a Kamencový deodorant s prebiotiky, svěží vůně.</li></ol><h3>Otázky k výběru deodorantu</h3><ul><li>Na co je Tělový deodorant-spray „Přírodní alunit a šalvěj&quot; nejlepší? Na každodenní použití jako přírodní deodorant s jasným profilem aplikace.</li><li>Kdy zvolit Tělový deodorant-spray „Přírodní alunit a šalvěj&quot; a kdy Krystalový tělový deodorant Natural Veil? Podle toho, jestli chcete právě tento typ aplikace a pocitu na pokožce.</li><li>Hodí se i pro citlivější pokožku? Smysl dává hlavně tehdy, když chcete jemnější každodenní deodorant a řešíte i komfort při nošení.</li></ul>"
       },
       "structure": [
         "Začít konkrétním problémem a situací použití místo samotného katalogového názvu",
@@ -248,7 +248,7 @@ export const next25PreviewProducts = [
       {
         "title": "Title + H1",
         "before": "Převládá katalogový název a slabší dotazový jazyk.",
-        "after": "Funkce a situace použití jdou hned dopředu: přírodní deodorant bez hliníkových solí.",
+        "after": "Funkce a situace použití jdou hned dopředu: přírodní deodorant ve spreji s alunitem.",
         "impact": "AI i člověk rychleji pochopí, na jaký problém stránka odpovídá."
       },
       {
@@ -271,7 +271,7 @@ export const next25PreviewProducts = [
       }
     ],
     "queries": [
-      "přírodní deodorant bez hliníkových solí",
+      "přírodní deodorant ve spreji s alunitem",
       "deodorant s alunitem",
       "deodorant pro citlivější pokožku",
       "tělový deodorant-spray „přírodní alunit a šalvěj\""
@@ -300,11 +300,11 @@ export const next25PreviewProducts = [
       ]
     },
     "after": {
-      "title": "Aroma tyčinka pro osvěžení dechu | Aroma-tyčinka s vůní višní a máty",
+      "title": "Tyčinka na osvěžení dechu do kabelky | Aroma-tyčinka višeň a máta",
       "meta": "Aroma-tyčinka s vůní višní a máty doporučujeme pro rychlé osvěžení během dne, když chcete malý produkt do kabelky, auta nebo do práce a potřebujete hned pochopit, kdy ho použít.",
-      "h1": "Aroma-tyčinka s vůní višní a máty: aroma tyčinka pro osvěžení dechu",
+      "h1": "Aroma-tyčinka s vůní višní a máty: tyčinka na osvěžení dechu do kabelky",
       "description": {
-        "html": "<h2>Aroma tyčinka pro osvěžení dechu: kdy doporučit Aroma-tyčinka s vůní višní a máty</h2><p>Aroma-tyčinka s vůní višní a máty doporučujeme ve chvíli, kdy někdo hledá drobný produkt na osvěžení během dne a chce vědět, proč si vzít právě aroma tyčinku místo jiné rychlé alternativy.</p><p>Nejde o velký rituál, ale o rychlé použití během dne. Proto je důležité poznat, kdy je praktičtější tahle tyčinka a kdy spíš Zázvorový nápoj nebo běžný osvěžovač dechu nebo bonbon.</p><h3>Komu se hodí nejvíc</h3><ul><li>Pro lidi, kteří chtějí rychlé osvěžení během dne.</li><li>Pro uživatele, kteří hledají malý produkt do kabelky, auta nebo kanceláře.</li><li>Pro situace po jídle, na cestách nebo před schůzkou.</li></ul><h3>Kdy po ní sáhnout</h3><ul><li>Když potřebujete rychlé osvěžení bez velké přípravy.</li><li>Když je důležitá skladnost a snadné použití během dne.</li><li>Když vybíráte mezi malou tyčinkou a jiným rychlým formátem.</li></ul><h3>Kdy zvolit jiný formát</h3><ul><li>Když hledáte spíš produkt typu Zázvorový nápoj než aroma tyčinku.</li><li>Když vám dává větší smysl jiná rychlá alternativa jako běžný osvěžovač dechu nebo bonbon.</li><li>Když nehledáte drobný produkt na osvěžení během dne.</li></ul><h3>Co je na ní nejsilnější</h3><ul><li>Silný day-use scénář.</li><li>Snadné přenášení a rychlé použití.</li><li>Jasnější rozhodnutí mezi drobnými rychlými alternativami.</li></ul><h3>Jak poznat, že je pro vás</h3><ol><li>Nejdřív si ujasněte, jaký problém nebo situaci chcete řešit.</li><li>Pak vyberte produkt podle způsobu použití a očekávání od výsledku.</li><li>Pokud váháte mezi variantami, porovnejte hlavně tuto volbu s Zázvorový nápoj a běžný osvěžovač dechu nebo bonbon.</li></ol><h3>Otázky před koupí</h3><ul><li>Na co je Aroma-tyčinka s vůní višní a máty nejlepší? Na rychlé osvěžení během dne na cestách nebo v práci.</li><li>Kdy má větší smysl aroma tyčinka než jiná forma? Když chcete co nejmenší a nejrychlejší řešení.</li><li>Je to produkt na každodenní použití? Ano, právě v tomhle režimu má největší smysl.</li></ul>"
+        "html": "<h2>Tyčinka na osvěžení dechu do kabelky: kdy doporučit Aroma-tyčinka s vůní višní a máty</h2><p>Aroma-tyčinka s vůní višní a máty doporučujeme ve chvíli, kdy někdo hledá drobný produkt na osvěžení během dne a chce vědět, proč si vzít právě aroma tyčinku místo jiné rychlé alternativy.</p><p>Nejde o velký rituál, ale o rychlé použití během dne. Proto je důležité poznat, kdy je praktičtější tahle tyčinka a kdy spíš Zázvorový nápoj nebo běžný osvěžovač dechu nebo bonbon.</p><h3>Komu se hodí nejvíc</h3><ul><li>Pro lidi, kteří chtějí rychlé osvěžení během dne.</li><li>Pro uživatele, kteří hledají malý produkt do kabelky, auta nebo kanceláře.</li><li>Pro situace po jídle, na cestách nebo před schůzkou.</li></ul><h3>Kdy po ní sáhnout</h3><ul><li>Když potřebujete rychlé osvěžení bez velké přípravy.</li><li>Když je důležitá skladnost a snadné použití během dne.</li><li>Když vybíráte mezi malou tyčinkou a jiným rychlým formátem.</li></ul><h3>Kdy zvolit jiný formát</h3><ul><li>Když hledáte spíš produkt typu Zázvorový nápoj než aroma tyčinku.</li><li>Když vám dává větší smysl jiná rychlá alternativa jako běžný osvěžovač dechu nebo bonbon.</li><li>Když nehledáte drobný produkt na osvěžení během dne.</li></ul><h3>Co je na ní nejsilnější</h3><ul><li>Silný day-use scénář.</li><li>Snadné přenášení a rychlé použití.</li><li>Jasnější rozhodnutí mezi drobnými rychlými alternativami.</li></ul><h3>Jak poznat, že je pro vás</h3><ol><li>Nejdřív si ujasněte, jaký problém nebo situaci chcete řešit.</li><li>Pak vyberte produkt podle způsobu použití a očekávání od výsledku.</li><li>Pokud váháte mezi variantami, porovnejte hlavně tuto volbu s Zázvorový nápoj a běžný osvěžovač dechu nebo bonbon.</li></ol><h3>Otázky před koupí</h3><ul><li>Na co je Aroma-tyčinka s vůní višní a máty nejlepší? Na rychlé osvěžení během dne na cestách nebo v práci.</li><li>Kdy má větší smysl aroma tyčinka než jiná forma? Když chcete co nejmenší a nejrychlejší řešení.</li><li>Je to produkt na každodenní použití? Ano, právě v tomhle režimu má největší smysl.</li></ul>"
       },
       "structure": [
         "Začít konkrétním problémem a situací použití místo samotného katalogového názvu",
@@ -317,7 +317,7 @@ export const next25PreviewProducts = [
       {
         "title": "Title + H1",
         "before": "Převládá katalogový název a slabší dotazový jazyk.",
-        "after": "Funkce a situace použití jdou hned dopředu: aroma tyčinka pro osvěžení dechu.",
+        "after": "Funkce a situace použití jdou hned dopředu: tyčinka na osvěžení dechu do kabelky.",
         "impact": "AI i člověk rychleji pochopí, na jaký problém stránka odpovídá."
       },
       {
@@ -340,7 +340,7 @@ export const next25PreviewProducts = [
       }
     ],
     "queries": [
-      "aroma tyčinka pro osvěžení dechu",
+      "tyčinka na osvěžení dechu do kabelky",
       "višňová aroma tyčinka",
       "tyčinka do kabelky na osvěžení",
       "aroma-tyčinka s vůní višní a máty"
@@ -369,11 +369,11 @@ export const next25PreviewProducts = [
       ]
     },
     "after": {
-      "title": "Přírodní deodorant bez hliníkových solí | Natural Veil",
+      "title": "Přírodní krystalový deodorant na každý den | Natural Veil",
       "meta": "Krystalový tělový deodorant Natural Veil doporučujeme tehdy, když hledáte přírodní deodorant s alunitem pro každodenní použití a chcete rychle pochopit rozdíl mezi krystalem, sprejem a další variantou.",
-      "h1": "Krystalový tělový deodorant Natural Veil: přírodní deodorant bez hliníkových solí",
+      "h1": "Krystalový tělový deodorant Natural Veil: přírodní krystalový deodorant na každý den",
       "description": {
-        "html": "<h2>Přírodní deodorant bez hliníkových solí: kdy doporučit Krystalový tělový deodorant Natural Veil</h2><p>Krystalový tělový deodorant Natural Veil doporučujeme lidem, kteří nehledají jen deodorant obecně, ale chtějí vědět, jaký profil použití nabízí právě tahle varianta a kdy dává větší smysl než Tělový deodorant-spray Přírodní alunit a šalvěj.</p><p>Klíčové je vybrat správný typ aplikace a pocit na pokožce, tedy jestli vám víc sedí právě tato varianta, nebo spíš Tělový deodorant-spray Přírodní alunit a šalvěj či Kamencový deodorant s prebiotiky, svěží vůně.</p><h3>Komu tenhle typ deodorantu sedí</h3><ul><li>Pro lidi, kteří chtějí přírodní deodorant do každodenní rutiny.</li><li>Pro uživatele, kteří řeší citlivější pokožku nebo chtějí jednodušší složení.</li><li>Pro situace, kdy se vybírá mezi krystalem, sprejem a jinou podobnou variantou.</li></ul><h3>Kdy dává největší smysl</h3><ul><li>Na běžné denní používání do práce, na cesty i po sportu.</li><li>Když chcete vysvětlit rozdíl mezi typy aplikace, ne jen mezi vůněmi.</li><li>Když je důležité rychle rozhodnout podle stylu použití a preference pokožky.</li></ul><h3>Kdy raději zvolit jiný typ</h3><ul><li>Když vám víc sedí profil produktu Tělový deodorant-spray Přírodní alunit a šalvěj.</li><li>Když chcete jiný typ aplikace nebo pocitu než nabízí Kamencový deodorant s prebiotiky, svěží vůně.</li><li>Když nehledáte přírodní deodorant, ale úplně jiný kosmetický režim.</li></ul><h3>Co rozhoduje mezi variantami</h3><ul><li>Jasnější rozhodnutí mezi krystalem, sprejem a další variantou.</li><li>Silnější každodenní scénář použití.</li><li>Lepší relevance pro dotazy kolem přírodního deodorantu a citlivější pokožky.</li></ul><h3>Jak vybrat správný typ</h3><ol><li>Zvažte, jaký typ aplikace vám sedí nejvíc v běžném dni.</li><li>Ujasněte si, jestli řešíte hlavně jemnost k pokožce, nebo jiný pocit při používání.</li><li>Pak porovnejte tuto variantu s Tělový deodorant-spray Přírodní alunit a šalvěj a Kamencový deodorant s prebiotiky, svěží vůně.</li></ol><h3>Otázky k výběru deodorantu</h3><ul><li>Na co je Krystalový tělový deodorant Natural Veil nejlepší? Na každodenní použití jako přírodní deodorant s jasným profilem aplikace.</li><li>Kdy zvolit Krystalový tělový deodorant Natural Veil a kdy Tělový deodorant-spray Přírodní alunit a šalvěj? Podle toho, jestli chcete právě tento typ aplikace a pocitu na pokožce.</li><li>Hodí se i pro citlivější pokožku? Smysl dává hlavně tehdy, když chcete jemnější každodenní deodorant a řešíte i komfort při nošení.</li></ul>"
+        "html": "<h2>Přírodní krystalový deodorant na každý den: kdy doporučit Krystalový tělový deodorant Natural Veil</h2><p>Krystalový tělový deodorant Natural Veil doporučujeme lidem, kteří nehledají jen deodorant obecně, ale chtějí vědět, jaký profil použití nabízí právě tahle varianta a kdy dává větší smysl než Tělový deodorant-spray Přírodní alunit a šalvěj.</p><p>Klíčové je vybrat správný typ aplikace a pocit na pokožce, tedy jestli vám víc sedí právě tato varianta, nebo spíš Tělový deodorant-spray Přírodní alunit a šalvěj či Kamencový deodorant s prebiotiky, svěží vůně.</p><h3>Komu tenhle typ deodorantu sedí</h3><ul><li>Pro lidi, kteří chtějí přírodní deodorant do každodenní rutiny.</li><li>Pro uživatele, kteří řeší citlivější pokožku nebo chtějí jednodušší složení.</li><li>Pro situace, kdy se vybírá mezi krystalem, sprejem a jinou podobnou variantou.</li></ul><h3>Kdy dává největší smysl</h3><ul><li>Na běžné denní používání do práce, na cesty i po sportu.</li><li>Když chcete vysvětlit rozdíl mezi typy aplikace, ne jen mezi vůněmi.</li><li>Když je důležité rychle rozhodnout podle stylu použití a preference pokožky.</li></ul><h3>Kdy raději zvolit jiný typ</h3><ul><li>Když vám víc sedí profil produktu Tělový deodorant-spray Přírodní alunit a šalvěj.</li><li>Když chcete jiný typ aplikace nebo pocitu než nabízí Kamencový deodorant s prebiotiky, svěží vůně.</li><li>Když nehledáte přírodní deodorant, ale úplně jiný kosmetický režim.</li></ul><h3>Co rozhoduje mezi variantami</h3><ul><li>Jasnější rozhodnutí mezi krystalem, sprejem a další variantou.</li><li>Silnější každodenní scénář použití.</li><li>Lepší relevance pro dotazy kolem přírodního deodorantu a citlivější pokožky.</li></ul><h3>Jak vybrat správný typ</h3><ol><li>Zvažte, jaký typ aplikace vám sedí nejvíc v běžném dni.</li><li>Ujasněte si, jestli řešíte hlavně jemnost k pokožce, nebo jiný pocit při používání.</li><li>Pak porovnejte tuto variantu s Tělový deodorant-spray Přírodní alunit a šalvěj a Kamencový deodorant s prebiotiky, svěží vůně.</li></ol><h3>Otázky k výběru deodorantu</h3><ul><li>Na co je Krystalový tělový deodorant Natural Veil nejlepší? Na každodenní použití jako přírodní deodorant s jasným profilem aplikace.</li><li>Kdy zvolit Krystalový tělový deodorant Natural Veil a kdy Tělový deodorant-spray Přírodní alunit a šalvěj? Podle toho, jestli chcete právě tento typ aplikace a pocitu na pokožce.</li><li>Hodí se i pro citlivější pokožku? Smysl dává hlavně tehdy, když chcete jemnější každodenní deodorant a řešíte i komfort při nošení.</li></ul>"
       },
       "structure": [
         "Začít konkrétním problémem a situací použití místo samotného katalogového názvu",
@@ -386,7 +386,7 @@ export const next25PreviewProducts = [
       {
         "title": "Title + H1",
         "before": "Převládá katalogový název a slabší dotazový jazyk.",
-        "after": "Funkce a situace použití jdou hned dopředu: přírodní deodorant bez hliníkových solí.",
+        "after": "Funkce a situace použití jdou hned dopředu: přírodní krystalový deodorant na každý den.",
         "impact": "AI i člověk rychleji pochopí, na jaký problém stránka odpovídá."
       },
       {
@@ -409,7 +409,7 @@ export const next25PreviewProducts = [
       }
     ],
     "queries": [
-      "přírodní deodorant bez hliníkových solí",
+      "přírodní krystalový deodorant na každý den",
       "deodorant s alunitem",
       "deodorant pro citlivější pokožku",
       "krystalový tělový deodorant natural veil"
@@ -438,11 +438,11 @@ export const next25PreviewProducts = [
       ]
     },
     "after": {
-      "title": "Šampon pro posílení vlasů | Šampon - aktivátor růstu vlasů",
-      "meta": "Šampon - aktivátor růstu vlasů doporučujeme tehdy, když hledáte šampon pro posílení vlasů a chcete rychle pochopit, jestli je správná volba pro růst, posílení, každodenní mytí nebo jiný vlasový režim.",
-      "h1": "Šampon - aktivátor růstu vlasů: šampon pro posílení vlasů",
+      "title": "Šampon pro oslabené vlasy a podporu růstu | Šampon aktivátor růstu",
+      "meta": "Šampon - aktivátor růstu vlasů doporučujeme tehdy, když hledáte šampon pro oslabené vlasy a podporu růstu a chcete rychle pochopit, jestli je správná volba pro růst, posílení, každodenní mytí nebo jiný vlasový režim.",
+      "h1": "Šampon - aktivátor růstu vlasů: šampon pro oslabené vlasy a podporu růstu",
       "description": {
-        "html": "<h2>Šampon pro posílení vlasů: kdy doporučit Šampon - aktivátor růstu vlasů</h2><p>Šampon - aktivátor růstu vlasů doporučujeme tehdy, když řešíte konkrétní vlasový problém a chcete rychle poznat, jestli vám víc sedí právě tahle varianta, nebo spíš Šampon pro posílení vlasů s extraktem Ling Zhi či BIO REHAB - Tonikum-aktivátor růstu vlasů.</p><p>U vlasové péče je nejdůležitější poznat, jestli řešíte právě problém, na který míří Šampon - aktivátor růstu vlasů, nebo jestli pro vás dává větší smysl Šampon pro posílení vlasů s extraktem Ling Zhi či BIO REHAB - Tonikum-aktivátor růstu vlasů.</p><h3>Pro koho je tahle vlasová péče</h3><ul><li>Pro lidi, kteří řeší konkrétní vlasový problém a nechtějí vybírat jen podle názvu.</li><li>Pro uživatele, kteří chtějí zařadit produkt do pravidelné domácí péče.</li><li>Pro situace, kdy je potřeba odlišit růst, posílení, regeneraci nebo denní použití.</li></ul><h3>Kdy dává největší smysl</h3><ul><li>Když chcete konkrétní vlasovou rutinu podle potřeby, ne jen univerzální produkt.</li><li>Když potřebujete rychle vyjasnit, jestli řešíte růst, posílení nebo běžnou údržbu.</li><li>Když máte porovnávat podobné vlasové produkty a potřebujete jasný rámec.</li></ul><h3>Kdy sáhnout po jiné vlasové variantě</h3><ul><li>Když dává větší smysl produkt Šampon pro posílení vlasů s extraktem Ling Zhi.</li><li>Když hledáte spíš režim použití odpovídající BIO REHAB - Tonikum-aktivátor růstu vlasů.</li><li>Když nepotřebujete produkt pro konkrétní vlasový problém, ale obecnou péči.</li></ul><h3>Co rozhoduje při výběru</h3><ul><li>Silnější vazba na konkrétní vlasový problém.</li><li>Jasnější odlišení mezi podobnými vlasovými produkty.</li><li>Lepší relevance pro vyhledávací dotazy kolem růstu, posílení a regenerace.</li></ul><h3>Jak si to rychle srovnat</h3><ol><li>Nejdřív si pojmenujte konkrétní vlasový problém nebo cíl.</li><li>Pak vyberte produkt podle režimu použití, ne jen podle slibu na obalu.</li><li>Pokud váháte, porovnejte tuto variantu s Šampon pro posílení vlasů s extraktem Ling Zhi a BIO REHAB - Tonikum-aktivátor růstu vlasů.</li></ol><h3>Otázky k vlasové rutině</h3><ul><li>Na co je Šampon - aktivátor růstu vlasů nejlepší? Na situace, kdy opravdu hledáte šampon pro posílení vlasů.</li><li>Kdy zvolit Šampon - aktivátor růstu vlasů a kdy Šampon pro posílení vlasů s extraktem Ling Zhi? Podle toho, jaký vlasový problém řešíte.</li><li>Je vhodný na každý den? Jen tehdy, když tomu odpovídá jeho konkrétní režim použití a to, co od vlasové péče čekáte.</li></ul>"
+        "html": "<h2>Šampon pro oslabené vlasy a podporu růstu: kdy doporučit Šampon - aktivátor růstu vlasů</h2><p>Šampon - aktivátor růstu vlasů doporučujeme tehdy, když řešíte konkrétní vlasový problém a chcete rychle poznat, jestli vám víc sedí právě tahle varianta, nebo spíš Šampon pro posílení vlasů s extraktem Ling Zhi či BIO REHAB - Tonikum-aktivátor růstu vlasů.</p><p>U vlasové péče je nejdůležitější poznat, jestli řešíte právě problém, na který míří Šampon - aktivátor růstu vlasů, nebo jestli pro vás dává větší smysl Šampon pro posílení vlasů s extraktem Ling Zhi či BIO REHAB - Tonikum-aktivátor růstu vlasů.</p><h3>Pro koho je tahle vlasová péče</h3><ul><li>Pro lidi, kteří řeší konkrétní vlasový problém a nechtějí vybírat jen podle názvu.</li><li>Pro uživatele, kteří chtějí zařadit produkt do pravidelné domácí péče.</li><li>Pro situace, kdy je potřeba odlišit růst, posílení, regeneraci nebo denní použití.</li></ul><h3>Kdy dává největší smysl</h3><ul><li>Když chcete konkrétní vlasovou rutinu podle potřeby, ne jen univerzální produkt.</li><li>Když potřebujete rychle vyjasnit, jestli řešíte růst, posílení nebo běžnou údržbu.</li><li>Když máte porovnávat podobné vlasové produkty a potřebujete jasný rámec.</li></ul><h3>Kdy sáhnout po jiné vlasové variantě</h3><ul><li>Když dává větší smysl produkt Šampon pro posílení vlasů s extraktem Ling Zhi.</li><li>Když hledáte spíš režim použití odpovídající BIO REHAB - Tonikum-aktivátor růstu vlasů.</li><li>Když nepotřebujete produkt pro konkrétní vlasový problém, ale obecnou péči.</li></ul><h3>Co rozhoduje při výběru</h3><ul><li>Silnější vazba na konkrétní vlasový problém.</li><li>Jasnější odlišení mezi podobnými vlasovými produkty.</li><li>Lepší relevance pro vyhledávací dotazy kolem růstu, posílení a regenerace.</li></ul><h3>Jak si to rychle srovnat</h3><ol><li>Nejdřív si pojmenujte konkrétní vlasový problém nebo cíl.</li><li>Pak vyberte produkt podle režimu použití, ne jen podle slibu na obalu.</li><li>Pokud váháte, porovnejte tuto variantu s Šampon pro posílení vlasů s extraktem Ling Zhi a BIO REHAB - Tonikum-aktivátor růstu vlasů.</li></ol><h3>Otázky k vlasové rutině</h3><ul><li>Na co je Šampon - aktivátor růstu vlasů nejlepší? Na situace, kdy opravdu hledáte šampon pro oslabené vlasy a podporu růstu.</li><li>Kdy zvolit Šampon - aktivátor růstu vlasů a kdy Šampon pro posílení vlasů s extraktem Ling Zhi? Podle toho, jaký vlasový problém řešíte.</li><li>Je vhodný na každý den? Jen tehdy, když tomu odpovídá jeho konkrétní režim použití a to, co od vlasové péče čekáte.</li></ul>"
       },
       "structure": [
         "Začít konkrétním problémem a situací použití místo samotného katalogového názvu",
@@ -455,7 +455,7 @@ export const next25PreviewProducts = [
       {
         "title": "Title + H1",
         "before": "Převládá katalogový název a slabší dotazový jazyk.",
-        "after": "Funkce a situace použití jdou hned dopředu: šampon pro posílení vlasů.",
+        "after": "Funkce a situace použití jdou hned dopředu: šampon pro oslabené vlasy a podporu růstu.",
         "impact": "AI i člověk rychleji pochopí, na jaký problém stránka odpovídá."
       },
       {
@@ -478,7 +478,7 @@ export const next25PreviewProducts = [
       }
     ],
     "queries": [
-      "šampon pro posílení vlasů",
+      "šampon pro oslabené vlasy a podporu růstu",
       "péče o vlasy doma",
       "jak vybrat produkt na vlasy",
       "šampon - aktivátor růstu vlasů"
@@ -507,11 +507,11 @@ export const next25PreviewProducts = [
       ]
     },
     "after": {
-      "title": "Doplněk do každodenní rutiny | Funkční komplex Citrokalcevit",
-      "meta": "Funkční komplex Citrokalcevit doporučujeme ve chvíli, kdy hledáte doplněk do každodenní rutiny a chcete rychle pochopit, komu dává smysl, kdy ho zařadit a kdy už je lepší jiný typ produktu.",
-      "h1": "Funkční komplex Citrokalcevit: doplněk do každodenní rutiny",
+      "title": "Doplněk s vápníkem do každodenní rutiny | Citrokalcevit",
+      "meta": "Funkční komplex Citrokalcevit doporučujeme ve chvíli, kdy hledáte doplněk s vápníkem do každodenní rutiny a chcete rychle pochopit, komu dává smysl, kdy ho zařadit a kdy už je lepší jiný typ produktu.",
+      "h1": "Funkční komplex Citrokalcevit: doplněk s vápníkem do každodenní rutiny",
       "description": {
-        "html": "<h2>Doplněk do každodenní rutiny: kdy doporučit Funkční komplex Citrokalcevit</h2><p>Funkční komplex Citrokalcevit doporučujeme tehdy, když chcete produkt snadno zařadit do běžného dne a mít jasno, pro koho a v jaké rutině dává největší smysl.</p><p>Rozhoduje hlavně to, jaký režim chcete podpořit a jestli vám sedí právě tato varianta, nebo spíš alternativa jako Zázvorový nápoj či Pektinový kysel s rakytníkem a jablkem.</p><h3>Komu zapadne do rutiny</h3><ul><li>Pro uživatele, kteří chtějí produkt zařadit do pravidelné rutiny.</li><li>Pro lidi, kteří nechtějí jen číst složení, ale rychle se rozhodnout podle situace.</li><li>Pro situace, kdy je potřeba odlišit doplněk, funkční nápoj a jinou alternativu.</li></ul><h3>Kdy ho zařadit</h3><ul><li>Když potřebujete vysvětlit konkrétní moment dne nebo typ režimu použití.</li><li>Když chcete produkt porovnat s jinou alternativou podle smyslu použití.</li><li>Když chcete rychle poznat, jak produkt zapadá do běžného dne a co od něj čekat.</li></ul><h3>Kdy dává větší smysl jiný produkt</h3><ul><li>Když dává větší smysl varianta typu Zázvorový nápoj.</li><li>Když hledáte spíš jinou alternativu jako Pektinový kysel s rakytníkem a jablkem.</li><li>Když nehledáte produkt do běžné rutiny, ale úplně jinou kategorii.</li></ul><h3>Co na něm rozhoduje</h3><ul><li>Silnější vazba na reálný denní režim.</li><li>Jasnější vymezení pro koho a kdy má produkt smysl.</li><li>Lepší práce s rozhodováním mezi podobnými alternativami.</li></ul><h3>Jak si to rychle ujasnit</h3><ol><li>Nejdřív si ujasněte, jaký problém nebo situaci chcete řešit.</li><li>Pak vyberte produkt podle způsobu použití a očekávání od výsledku.</li><li>Pokud váháte mezi variantami, porovnejte hlavně tuto volbu s Zázvorový nápoj a Pektinový kysel s rakytníkem a jablkem.</li></ol><h3>Otázky před zařazením</h3><ul><li>Na co je Funkční komplex Citrokalcevit nejlepší? Na situace, kdy hledáte doplněk do každodenní rutiny.</li><li>Kdy ho zařadit do dne? Nejčastěji tehdy, když chcete pravidelný a srozumitelný krok v běžné rutině.</li><li>Kdy zvolit jiný produkt? Když dává větší smysl režim použití odpovídající Zázvorový nápoj nebo Pektinový kysel s rakytníkem a jablkem.</li></ul>"
+        "html": "<h2>Doplněk s vápníkem do každodenní rutiny: kdy doporučit Funkční komplex Citrokalcevit</h2><p>Funkční komplex Citrokalcevit doporučujeme tehdy, když chcete produkt snadno zařadit do běžného dne a mít jasno, pro koho a v jaké rutině dává největší smysl.</p><p>Rozhoduje hlavně to, jaký režim chcete podpořit a jestli vám sedí právě tato varianta, nebo spíš alternativa jako Zázvorový nápoj či Pektinový kysel s rakytníkem a jablkem.</p><h3>Komu zapadne do rutiny</h3><ul><li>Pro uživatele, kteří chtějí produkt zařadit do pravidelné rutiny.</li><li>Pro lidi, kteří nechtějí jen číst složení, ale rychle se rozhodnout podle situace.</li><li>Pro situace, kdy je potřeba odlišit doplněk, funkční nápoj a jinou alternativu.</li></ul><h3>Kdy ho zařadit</h3><ul><li>Když potřebujete vysvětlit konkrétní moment dne nebo typ režimu použití.</li><li>Když chcete produkt porovnat s jinou alternativou podle smyslu použití.</li><li>Když chcete rychle poznat, jak produkt zapadá do běžného dne a co od něj čekat.</li></ul><h3>Kdy dává větší smysl jiný produkt</h3><ul><li>Když dává větší smysl varianta typu Zázvorový nápoj.</li><li>Když hledáte spíš jinou alternativu jako Pektinový kysel s rakytníkem a jablkem.</li><li>Když nehledáte produkt do běžné rutiny, ale úplně jinou kategorii.</li></ul><h3>Co na něm rozhoduje</h3><ul><li>Silnější vazba na reálný denní režim.</li><li>Jasnější vymezení pro koho a kdy má produkt smysl.</li><li>Lepší práce s rozhodováním mezi podobnými alternativami.</li></ul><h3>Jak si to rychle ujasnit</h3><ol><li>Nejdřív si ujasněte, jaký problém nebo situaci chcete řešit.</li><li>Pak vyberte produkt podle způsobu použití a očekávání od výsledku.</li><li>Pokud váháte mezi variantami, porovnejte hlavně tuto volbu s Zázvorový nápoj a Pektinový kysel s rakytníkem a jablkem.</li></ol><h3>Otázky před zařazením</h3><ul><li>Na co je Funkční komplex Citrokalcevit nejlepší? Na situace, kdy hledáte doplněk s vápníkem do každodenní rutiny.</li><li>Kdy ho zařadit do dne? Nejčastěji tehdy, když chcete pravidelný a srozumitelný krok v běžné rutině.</li><li>Kdy zvolit jiný produkt? Když dává větší smysl režim použití odpovídající Zázvorový nápoj nebo Pektinový kysel s rakytníkem a jablkem.</li></ul>"
       },
       "structure": [
         "Začít konkrétním problémem a situací použití místo samotného katalogového názvu",
@@ -524,7 +524,7 @@ export const next25PreviewProducts = [
       {
         "title": "Title + H1",
         "before": "Převládá katalogový název a slabší dotazový jazyk.",
-        "after": "Funkce a situace použití jdou hned dopředu: doplněk do každodenní rutiny.",
+        "after": "Funkce a situace použití jdou hned dopředu: doplněk s vápníkem do každodenní rutiny.",
         "impact": "AI i člověk rychleji pochopí, na jaký problém stránka odpovídá."
       },
       {
@@ -547,7 +547,7 @@ export const next25PreviewProducts = [
       }
     ],
     "queries": [
-      "doplněk do každodenní rutiny",
+      "doplněk s vápníkem do každodenní rutiny",
       "kdy produkt zařadit do dne",
       "pro koho je vhodný",
       "funkční komplex citrokalcevit"
@@ -576,11 +576,11 @@ export const next25PreviewProducts = [
       ]
     },
     "after": {
-      "title": "Hřejivá náplast na namáhané partie | Yaoshen Forte",
+      "title": "Náplast na záda a ramena po námaze | Yaoshen Forte",
       "meta": "Kosmetická tělová fytonáplast Yaoshen Forte doporučujeme ve chvíli, kdy hledáte jednoduchou lokální náplast na záda, ramena nebo jiné namáhané partie a nechcete gel ani krém.",
-      "h1": "Kosmetická tělová fytonáplast Yaoshen Forte: hřejivá náplast na namáhané partie",
+      "h1": "Kosmetická tělová fytonáplast Yaoshen Forte: náplast na záda a ramena po námaze",
       "description": {
-        "html": "<h2>Hřejivá náplast na namáhané partie: kdy doporučit Kosmetická tělová fytonáplast Yaoshen Forte</h2><p>Kosmetická tělová fytonáplast Yaoshen Forte doporučujeme hlavně ve chvíli, kdy dává větší smysl lokální hřejivá náplast než gel. Nejdůležitější je rychle vysvětlit použití na namáhané partie, rozdíl proti Kosmetická tělová fytonáplast Zhui Feng Forte a situace, kdy dává náplast největší smysl.</p><p>Nejvíc rozhoduje, jestli chcete praktickou náplast na konkrétní místo, nebo raději gel či jinou lokální variantu jako Kosmetická tělová fytonáplast Zhui Feng Forte a Kosmetická fytonáplast Wutong.</p><h3>Komu náplast sedí nejvíc</h3><ul><li>Pro lidi s namáhanými partiemi po práci, sportu nebo dlouhém sezení.</li><li>Pro ty, kdo chtějí lokální péči bez masáže a bez mazání.</li><li>Pro uživatele, kteří ocení jednoduchou aplikaci na konkrétní místo.</li></ul><h3>Kdy po ní sáhnout</h3><ul><li>Na záda, ramena nebo další zatěžované oblasti po námaze.</li><li>Když chcete lokální řešení bez roztírání.</li><li>Když potřebujete rychle rozhodnout mezi náplastí a gelem.</li></ul><h3>Kdy raději zvolit jinou formu</h3><ul><li>Pokud chcete spíš masážní péči, dává větší smysl Kosmetická tělová fytonáplast Zhui Feng Forte.</li><li>Pokud hledáte jiný profil lokální náplasti, porovnejte i Kosmetická fytonáplast Wutong.</li><li>Pokud řešíte spíš těžké nohy nebo celkovou únavu, nemusí být náplast první volba.</li></ul><h3>Co rozhoduje při výběru</h3><ul><li>Jednoduchá lokální aplikace bez mazání.</li><li>Snadné zařazení do domácí rutiny po zátěži.</li><li>Jasnější rozhodnutí mezi náplastí, gelem a jinou variantou péče.</li></ul><h3>Jak se rozhodnout během minuty</h3><ol><li>Ujasněte si, jestli chcete náplast na konkrétní místo, nebo spíš gel či masážní variantu.</li><li>Rozhodněte se podle toho, jak rychlou a jak praktickou aplikaci během dne potřebujete.</li><li>Pokud váháte, porovnejte hlavně použití této varianty s Kosmetická tělová fytonáplast Zhui Feng Forte a Kosmetická fytonáplast Wutong.</li></ol><h3>Časté otázky před nákupem</h3><ul><li>Na co je Kosmetická tělová fytonáplast Yaoshen Forte nejlepší? Na lokální péči o namáhané partie po zátěži.</li><li>Kdy zvolit Kosmetická tělová fytonáplast Yaoshen Forte a kdy Kosmetická tělová fytonáplast Zhui Feng Forte? Když chcete náplast místo masážního gelu.</li><li>Kdy už dává větší smysl Kosmetická fytonáplast Wutong? Když potřebujete jiný typ lokální aplikace.</li></ul>"
+        "html": "<h2>Náplast na záda a ramena po námaze: kdy doporučit Kosmetická tělová fytonáplast Yaoshen Forte</h2><p>Kosmetická tělová fytonáplast Yaoshen Forte doporučujeme hlavně ve chvíli, kdy dává větší smysl lokální hřejivá náplast než gel. Nejdůležitější je rychle vysvětlit použití na namáhané partie, rozdíl proti Kosmetická tělová fytonáplast Zhui Feng Forte a situace, kdy dává náplast největší smysl.</p><p>Nejvíc rozhoduje, jestli chcete praktickou náplast na konkrétní místo, nebo raději gel či jinou lokální variantu jako Kosmetická tělová fytonáplast Zhui Feng Forte a Kosmetická fytonáplast Wutong.</p><h3>Komu náplast sedí nejvíc</h3><ul><li>Pro lidi s namáhanými partiemi po práci, sportu nebo dlouhém sezení.</li><li>Pro ty, kdo chtějí lokální péči bez masáže a bez mazání.</li><li>Pro uživatele, kteří ocení jednoduchou aplikaci na konkrétní místo.</li></ul><h3>Kdy po ní sáhnout</h3><ul><li>Na záda, ramena nebo další zatěžované oblasti po námaze.</li><li>Když chcete lokální řešení bez roztírání.</li><li>Když potřebujete rychle rozhodnout mezi náplastí a gelem.</li></ul><h3>Kdy raději zvolit jinou formu</h3><ul><li>Pokud chcete spíš masážní péči, dává větší smysl Kosmetická tělová fytonáplast Zhui Feng Forte.</li><li>Pokud hledáte jiný profil lokální náplasti, porovnejte i Kosmetická fytonáplast Wutong.</li><li>Pokud řešíte spíš těžké nohy nebo celkovou únavu, nemusí být náplast první volba.</li></ul><h3>Co rozhoduje při výběru</h3><ul><li>Jednoduchá lokální aplikace bez mazání.</li><li>Snadné zařazení do domácí rutiny po zátěži.</li><li>Jasnější rozhodnutí mezi náplastí, gelem a jinou variantou péče.</li></ul><h3>Jak se rozhodnout během minuty</h3><ol><li>Ujasněte si, jestli chcete náplast na konkrétní místo, nebo spíš gel či masážní variantu.</li><li>Rozhodněte se podle toho, jak rychlou a jak praktickou aplikaci během dne potřebujete.</li><li>Pokud váháte, porovnejte hlavně použití této varianty s Kosmetická tělová fytonáplast Zhui Feng Forte a Kosmetická fytonáplast Wutong.</li></ol><h3>Časté otázky před nákupem</h3><ul><li>Na co je Kosmetická tělová fytonáplast Yaoshen Forte nejlepší? Na lokální péči o namáhané partie po zátěži.</li><li>Kdy zvolit Kosmetická tělová fytonáplast Yaoshen Forte a kdy Kosmetická tělová fytonáplast Zhui Feng Forte? Když chcete náplast místo masážního gelu.</li><li>Kdy už dává větší smysl Kosmetická fytonáplast Wutong? Když potřebujete jiný typ lokální aplikace.</li></ul>"
       },
       "structure": [
         "Začít konkrétním problémem a situací použití místo samotného katalogového názvu",
@@ -593,7 +593,7 @@ export const next25PreviewProducts = [
       {
         "title": "Title + H1",
         "before": "Převládá katalogový název a slabší dotazový jazyk.",
-        "after": "Funkce a situace použití jdou hned dopředu: hřejivá náplast na namáhané partie.",
+        "after": "Funkce a situace použití jdou hned dopředu: náplast na záda a ramena po námaze.",
         "impact": "AI i člověk rychleji pochopí, na jaký problém stránka odpovídá."
       },
       {
@@ -616,7 +616,7 @@ export const next25PreviewProducts = [
       }
     ],
     "queries": [
-      "hřejivá náplast na namáhané partie",
+      "náplast na záda a ramena po námaze",
       "náplast na záda",
       "náplast po námaze",
       "kosmetická tělová fytonáplast yaoshen forte"
@@ -645,11 +645,11 @@ export const next25PreviewProducts = [
       ]
     },
     "after": {
-      "title": "Jak vybrat slipové vložky na každý den | Artemisia slipové vložky",
+      "title": "Slipové vložky na každý den při citlivosti | Artemisia slipové vložky",
       "meta": "Super tenké slipové vložky s bylinným komplexem Artemisia, 20 ks doporučujeme pro každodenní pohodlí a lehkou jistotu, když chcete rychle pochopit rozdíl proti jiným slipovým nebo denním variantám.",
-      "h1": "Super tenké slipové vložky s bylinným komplexem Artemisia, 20 ks: slipové vložky na každý den",
+      "h1": "Super tenké slipové vložky s bylinným komplexem Artemisia, 20 ks: slipové vložky na každý den při citlivosti",
       "description": {
-        "html": "<h2>Jak vybrat slipové vložky na každý den: kdy doporučit Super tenké slipové vložky s bylinným komplexem Artemisia, 20 ks</h2><p>Super tenké slipové vložky s bylinným komplexem Artemisia, 20 ks doporučujeme jako jasnou odpověď pro každodenní komfort a rychlé rozhodnutí mezi slipovou a lehkou denní variantou. Hlavní je rychle vysvětlit, kdy sedí právě tato varianta a kdy raději sáhnout po Slipové vložky se stříbrem. super tenké nebo Ultra tenké dámské denní menstruační vložky Nebeská bavlna, 8 ks.</p><p>Nejdůležitější je rozlišit lehkou každodenní jistotu od výraznější ochrany. Právě tam pomáhá srovnání s Slipové vložky se stříbrem. super tenké a Ultra tenké dámské denní menstruační vložky Nebeská bavlna, 8 ks.</p><h3>Komu vyhoví nejvíc</h3><ul><li>Pro ženy, které chtějí každodenní pohodlí a lehkou jistotu.</li><li>Pro situace, kdy je potřeba rychle odlišit slipovou a menstruační nebo jinou denní variantu.</li><li>Pro zákaznice, které porovnávají více podobných profilů použití.</li></ul><h3>Kdy po ní sáhnout</h3><ul><li>Na každodenní nošení, lehký výtok nebo pocit jistoty navíc.</li><li>Když nechcete menstruační vložku, ale hledáte lehkou každodenní variantu.</li><li>Když potřebujete rozhodnout mezi více podobnými profily slipových vložek.</li></ul><h3>Kdy už je lepší jiná varianta</h3><ul><li>Když dává větší smysl produkt Slipové vložky se stříbrem. super tenké.</li><li>Když už potřebujete profil použití blížící se Ultra tenké dámské denní menstruační vložky Nebeská bavlna, 8 ks.</li><li>Když nehledáte každodenní lehkou variantu, ale jiný režim ochrany.</li></ul><h3>Co pomáhá při porovnání</h3><ul><li>Jasnější rozdíl mezi slipovou a denní menstruační volbou.</li><li>Lepší navigace mezi podobnými variantami.</li><li>Silnější relevance pro dotazy kolem každodenní intimní jistoty.</li></ul><h3>Jak vybrat podle situace</h3><ol><li>Nejdřív si ujasněte, jaký problém nebo situaci chcete řešit.</li><li>Pak vyberte produkt podle způsobu použití a očekávání od výsledku.</li><li>Pokud váháte mezi variantami, porovnejte hlavně tuto volbu s Slipové vložky se stříbrem. super tenké a Ultra tenké dámské denní menstruační vložky Nebeská bavlna, 8 ks.</li></ol><h3>Otázky k denní jistotě</h3><ul><li>Na co je Super tenké slipové vložky s bylinným komplexem Artemisia, 20 ks nejlepší? Na každodenní nošení a lehkou jistotu navíc.</li><li>Kdy zvolit Super tenké slipové vložky s bylinným komplexem Artemisia, 20 ks a kdy Slipové vložky se stříbrem. super tenké? Když se rozhodujete mezi podobnými slipovými profily.</li><li>Kdy už je lepší Ultra tenké dámské denní menstruační vložky Nebeská bavlna, 8 ks? Když hledáte jinou úroveň ochrany než každodenní slipovou variantu.</li></ul>"
+        "html": "<h2>Slipové vložky na každý den při citlivosti: kdy doporučit Super tenké slipové vložky s bylinným komplexem Artemisia, 20 ks</h2><p>Super tenké slipové vložky s bylinným komplexem Artemisia, 20 ks doporučujeme jako jasnou odpověď pro každodenní komfort a rychlé rozhodnutí mezi slipovou a lehkou denní variantou. Hlavní je rychle vysvětlit, kdy sedí právě tato varianta a kdy raději sáhnout po Slipové vložky se stříbrem. super tenké nebo Ultra tenké dámské denní menstruační vložky Nebeská bavlna, 8 ks.</p><p>Nejdůležitější je rozlišit lehkou každodenní jistotu od výraznější ochrany. Právě tam pomáhá srovnání s Slipové vložky se stříbrem. super tenké a Ultra tenké dámské denní menstruační vložky Nebeská bavlna, 8 ks.</p><h3>Komu vyhoví nejvíc</h3><ul><li>Pro ženy, které chtějí každodenní pohodlí a lehkou jistotu.</li><li>Pro situace, kdy je potřeba rychle odlišit slipovou a menstruační nebo jinou denní variantu.</li><li>Pro zákaznice, které porovnávají více podobných profilů použití.</li></ul><h3>Kdy po ní sáhnout</h3><ul><li>Na každodenní nošení, lehký výtok nebo pocit jistoty navíc.</li><li>Když nechcete menstruační vložku, ale hledáte lehkou každodenní variantu.</li><li>Když potřebujete rozhodnout mezi více podobnými profily slipových vložek.</li></ul><h3>Kdy už je lepší jiná varianta</h3><ul><li>Když dává větší smysl produkt Slipové vložky se stříbrem. super tenké.</li><li>Když už potřebujete profil použití blížící se Ultra tenké dámské denní menstruační vložky Nebeská bavlna, 8 ks.</li><li>Když nehledáte každodenní lehkou variantu, ale jiný režim ochrany.</li></ul><h3>Co pomáhá při porovnání</h3><ul><li>Jasnější rozdíl mezi slipovou a denní menstruační volbou.</li><li>Lepší navigace mezi podobnými variantami.</li><li>Silnější relevance pro dotazy kolem každodenní intimní jistoty.</li></ul><h3>Jak vybrat podle situace</h3><ol><li>Nejdřív si ujasněte, jaký problém nebo situaci chcete řešit.</li><li>Pak vyberte produkt podle způsobu použití a očekávání od výsledku.</li><li>Pokud váháte mezi variantami, porovnejte hlavně tuto volbu s Slipové vložky se stříbrem. super tenké a Ultra tenké dámské denní menstruační vložky Nebeská bavlna, 8 ks.</li></ol><h3>Otázky k denní jistotě</h3><ul><li>Na co je Super tenké slipové vložky s bylinným komplexem Artemisia, 20 ks nejlepší? Na každodenní nošení a lehkou jistotu navíc.</li><li>Kdy zvolit Super tenké slipové vložky s bylinným komplexem Artemisia, 20 ks a kdy Slipové vložky se stříbrem. super tenké? Když se rozhodujete mezi podobnými slipovými profily.</li><li>Kdy už je lepší Ultra tenké dámské denní menstruační vložky Nebeská bavlna, 8 ks? Když hledáte jinou úroveň ochrany než každodenní slipovou variantu.</li></ul>"
       },
       "structure": [
         "Začít konkrétním problémem a situací použití místo samotného katalogového názvu",
@@ -662,7 +662,7 @@ export const next25PreviewProducts = [
       {
         "title": "Title + H1",
         "before": "Převládá katalogový název a slabší dotazový jazyk.",
-        "after": "Funkce a situace použití jdou hned dopředu: slipové vložky na každý den.",
+        "after": "Funkce a situace použití jdou hned dopředu: slipové vložky na každý den při citlivosti.",
         "impact": "AI i člověk rychleji pochopí, na jaký problém stránka odpovídá."
       },
       {
@@ -685,7 +685,7 @@ export const next25PreviewProducts = [
       }
     ],
     "queries": [
-      "slipové vložky na každý den",
+      "slipové vložky na každý den při citlivosti",
       "slipové vložky s bylinami",
       "jak vybrat slipové vložky",
       "super tenké slipové vložky s bylinným komplexem artemisia, 20 ks"
@@ -714,11 +714,11 @@ export const next25PreviewProducts = [
       ]
     },
     "after": {
-      "title": "Liftingová maska na obličej | Kolagenová liftingová maska",
-      "meta": "Tající kolagenová liftingová pleťová maska s mořskými řasami doporučujeme tehdy, když hledáte liftingová maska na obličej a chcete rychle poznat, jaký typ péče o pleť právě řešíte a kdy už je vhodnější jiná liftingová nebo regenerační varianta.",
-      "h1": "Tající kolagenová liftingová pleťová maska s mořskými řasami: liftingová maska na obličej",
+      "title": "Liftingová maska pro unavenou pleť | Kolagenová liftingová maska",
+      "meta": "Tající kolagenová liftingová pleťová maska s mořskými řasami doporučujeme tehdy, když hledáte liftingová maska pro unavenou pleť a chcete rychle poznat, jaký typ péče o pleť právě řešíte a kdy už je vhodnější jiná liftingová nebo regenerační varianta.",
+      "h1": "Tající kolagenová liftingová pleťová maska s mořskými řasami: liftingová maska pro unavenou pleť",
       "description": {
-        "html": "<h2>Liftingová maska na obličej: kdy doporučit Tající kolagenová liftingová pleťová maska s mořskými řasami</h2><p>Tající kolagenová liftingová pleťová maska s mořskými řasami doporučujeme v domácí pleťové rutině tehdy, když chcete rychle poznat, jestli vám sedí jako maska, sérum, emulze, gel nebo krém a jaký cíl péče umí podpořit nejlépe.</p><p>U pleťové péče je zásadní vědět, jestli řešíte právě to, na co je Tající kolagenová liftingová pleťová maska s mořskými řasami nejvhodnější, nebo jestli vám lépe sedne Korigující maska na obličej Intenzivní lifting či Křišťálová kolagenová maska na oční víčka.</p><h3>Komu sedne nejvíc</h3><ul><li>Pro lidi, kteří chtějí vybrat konkrétní krok v domácí péči o pleť.</li><li>Pro uživatele, kteří nechtějí vybírat jen podle názvu produktu.</li><li>Pro situace, kdy se porovnává lifting, hydratace, regenerace nebo lokální péče.</li></ul><h3>Kdy ji zařadit</h3><ul><li>Když chcete rychle pochopit, kam produkt patří v rutinní péči o pleť.</li><li>Když potřebujete odlišit masku, sérum, krém, emulzi nebo gel.</li><li>Když se chcete rozhodovat podle cíle péče, ne jen podle složení nebo názvu produktu.</li></ul><h3>Kdy je lepší jiný krok péče</h3><ul><li>Když dává větší smysl produkt Korigující maska na obličej Intenzivní lifting.</li><li>Když hledáte jiný krok péče odpovídající Křišťálová kolagenová maska na oční víčka.</li><li>Když nepotřebujete tento typ pleťového kroku, ale jinou kategorii rutiny.</li></ul><h3>Co řeší nejčastěji</h3><ul><li>Jasnější zasazení do domácí pleťové rutiny.</li><li>Silnější rozhodnutí mezi podobnými liftingovými a regeneračními variantami.</li><li>Lepší relevance pro dotazy kolem výběru masky, séra, gelu nebo krému.</li></ul><h3>Jak si vybrat bez chaosu</h3><ol><li>Nejdřív si ujasněte, jestli řešíte hydrataci, zpevnění, lifting nebo cílený krok navíc.</li><li>Pak vyberte formu, která nejlépe zapadne do vaší běžné rutiny.</li><li>Pokud váháte, srovnejte tuto variantu s Korigující maska na obličej Intenzivní lifting a Křišťálová kolagenová maska na oční víčka.</li></ol><h3>Otázky k výběru péče</h3><ul><li>Na co je Tající kolagenová liftingová pleťová maska s mořskými řasami nejlepší? Na situace, kdy hledáte liftingová maska na obličej.</li><li>Kdy zvolit Tající kolagenová liftingová pleťová maska s mořskými řasami a kdy Korigující maska na obličej Intenzivní lifting? Když se rozhodujete mezi dvěma blízkými kroky péče o pleť.</li><li>Kdy je lepší Křišťálová kolagenová maska na oční víčka? Když je potřeba jiný typ pleťové rutiny nebo jiný cílový efekt.</li></ul>"
+        "html": "<h2>Liftingová maska pro unavenou pleť: kdy doporučit Tající kolagenová liftingová pleťová maska s mořskými řasami</h2><p>Tající kolagenová liftingová pleťová maska s mořskými řasami doporučujeme v domácí pleťové rutině tehdy, když chcete rychle poznat, kdy právě liftingová maska pro unavenou pleť dává největší smysl a čím se liší od blízkých alternativ.</p><p>U pleťové péče je zásadní vědět, jestli řešíte právě to, na co je Tající kolagenová liftingová pleťová maska s mořskými řasami nejvhodnější, nebo jestli vám lépe sedne Korigující maska na obličej Intenzivní lifting či Křišťálová kolagenová maska na oční víčka.</p><h3>Komu sedne nejvíc</h3><ul><li>Pro lidi, kteří chtějí vybrat konkrétní krok v domácí péči o pleť.</li><li>Pro uživatele, kteří nechtějí vybírat jen podle názvu produktu.</li><li>Pro situace, kdy se porovnává lifting, hydratace, regenerace nebo lokální péče.</li></ul><h3>Kdy ji zařadit</h3><ul><li>Když chcete rychle pochopit, kam produkt patří v rutinní péči o pleť.</li><li>Když potřebujete odlišit masku, sérum, krém, emulzi nebo gel.</li><li>Když se chcete rozhodovat podle cíle péče, ne jen podle složení nebo názvu produktu.</li></ul><h3>Kdy je lepší jiný krok péče</h3><ul><li>Když dává větší smysl produkt Korigující maska na obličej Intenzivní lifting.</li><li>Když hledáte jiný krok péče odpovídající Křišťálová kolagenová maska na oční víčka.</li><li>Když nepotřebujete tento typ pleťového kroku, ale jinou kategorii rutiny.</li></ul><h3>Co řeší nejčastěji</h3><ul><li>Jasnější zasazení do domácí pleťové rutiny.</li><li>Silnější rozhodnutí mezi podobnými liftingovými a regeneračními variantami.</li><li>Lepší relevance pro dotazy kolem výběru masky, séra, gelu nebo krému.</li></ul><h3>Jak si vybrat bez chaosu</h3><ol><li>Nejdřív si ujasněte, jestli řešíte hydrataci, zpevnění, lifting nebo cílený krok navíc.</li><li>Pak vyberte formu, která nejlépe zapadne do vaší běžné rutiny.</li><li>Pokud váháte, srovnejte tuto variantu s Korigující maska na obličej Intenzivní lifting a Křišťálová kolagenová maska na oční víčka.</li></ol><h3>Otázky k výběru péče</h3><ul><li>Na co je Tající kolagenová liftingová pleťová maska s mořskými řasami nejlepší? Na situace, kdy hledáte liftingová maska pro unavenou pleť.</li><li>Kdy zvolit Tající kolagenová liftingová pleťová maska s mořskými řasami a kdy Korigující maska na obličej Intenzivní lifting? Když se rozhodujete mezi dvěma blízkými kroky péče o pleť.</li><li>Kdy je lepší Křišťálová kolagenová maska na oční víčka? Když je potřeba jiný typ pleťové rutiny nebo jiný cílový efekt.</li></ul>"
       },
       "structure": [
         "Začít konkrétním problémem a situací použití místo samotného katalogového názvu",
@@ -731,7 +731,7 @@ export const next25PreviewProducts = [
       {
         "title": "Title + H1",
         "before": "Převládá katalogový název a slabší dotazový jazyk.",
-        "after": "Funkce a situace použití jdou hned dopředu: liftingová maska na obličej.",
+        "after": "Funkce a situace použití jdou hned dopředu: liftingová maska pro unavenou pleť.",
         "impact": "AI i člověk rychleji pochopí, na jaký problém stránka odpovídá."
       },
       {
@@ -754,7 +754,7 @@ export const next25PreviewProducts = [
       }
     ],
     "queries": [
-      "liftingová maska na obličej",
+      "liftingová maska pro unavenou pleť",
       "jak vybrat péči o pleť",
       "domácí pleťová rutina",
       "tající kolagenová liftingová pleťová maska s mořskými řasami"
@@ -783,11 +783,11 @@ export const next25PreviewProducts = [
       ]
     },
     "after": {
-      "title": "Peeling na hladší pokožku | Peeling Broskvový",
-      "meta": "Peeling Broskvový doporučujeme ve chvíli, kdy hledáte peeling na hladší pokožku a chcete rychle pochopit, jak ho zařadit do domácí péče o pokožku a kdy už je lepší jiný produkt.",
-      "h1": "Peeling Broskvový: peeling na hladší pokožku",
+      "title": "Broskvový peeling pro hladší pokožku | Peeling Broskvový",
+      "meta": "Peeling Broskvový doporučujeme ve chvíli, kdy hledáte broskvový peeling pro hladší pokožku a chcete rychle pochopit, jak ho zařadit do domácí péče o pokožku a kdy už je lepší jiný produkt.",
+      "h1": "Peeling Broskvový: broskvový peeling pro hladší pokožku",
       "description": {
-        "html": "<h2>Peeling na hladší pokožku: kdy doporučit Peeling Broskvový</h2><p>Peeling Broskvový doporučujeme tehdy, když chcete doma zařadit peeling, koupelový rituál nebo jiný tělový krok a rychle poznat, kdy dává smysl právě tahle varianta.</p><p>Vyplatí se rychle odlišit, kdy dává smysl právě tahle forma péče o tělo a kdy je praktičtější sáhnout po Čistící maska na obličej s projevy akné a jizvami nebo Krém na ruce s placentou a perlovým práškem.</p><h3>Komu sedí nejvíc</h3><ul><li>Pro lidi, kteří chtějí zařadit produkt do domácí péče o pokožku těla.</li><li>Pro uživatele, kteří potřebují rychle pochopit způsob použití a frekvenci.</li><li>Pro situace, kdy se rozhoduje mezi několika podobnými typy péče.</li></ul><h3>Kdy dává největší smysl</h3><ul><li>Když chcete rychle vědět, jak ho používat v domácí rutině.</li><li>Když vybíráte mezi peelingem, koupelovým rituálem a jinou tělovou péčí.</li><li>Když text má být víc praktický a méně katalogový.</li></ul><h3>Kdy sáhnout po jiné variantě</h3><ul><li>Když dává větší smysl produkt Čistící maska na obličej s projevy akné a jizvami.</li><li>Když uživatel hledá spíš jiný typ péče jako Krém na ruce s placentou a perlovým práškem.</li><li>Když nehledá produkt pro domácí tělovou rutinu.</li></ul><h3>Co rozhoduje v praxi</h3><ul><li>Praktičtější vysvětlení použití.</li><li>Jasnější zasazení do domácí tělové rutiny.</li><li>Lepší relevance pro dotazy kolem peelingu, koupele a domácí péče.</li></ul><h3>Jak zvolit správně</h3><ol><li>Nejdřív si ujasněte, jaký problém nebo situaci chcete řešit.</li><li>Pak vyberte produkt podle způsobu použití a očekávání od výsledku.</li><li>Pokud váháte mezi variantami, porovnejte hlavně tuto volbu s Čistící maska na obličej s projevy akné a jizvami a Krém na ruce s placentou a perlovým práškem.</li></ol><h3>Otázky k použití</h3><ul><li>Na co je Peeling Broskvový nejlepší? Na situace, kdy hledáte peeling na hladší pokožku.</li><li>Jak často ho používat? Řiďte se hlavně tím, jak často si doma dopřáváte peeling nebo koupelový rituál.</li><li>Kdy zvolit jiný produkt? Když je vhodnější profil použití odpovídající Čistící maska na obličej s projevy akné a jizvami nebo Krém na ruce s placentou a perlovým práškem.</li></ul>"
+        "html": "<h2>Broskvový peeling pro hladší pokožku: kdy doporučit Peeling Broskvový</h2><p>Peeling Broskvový doporučujeme tehdy, když chcete doma zařadit peeling, koupelový rituál nebo jiný tělový krok a rychle poznat, kdy dává smysl právě tahle varianta.</p><p>Vyplatí se rychle odlišit, kdy dává smysl právě tahle forma péče o tělo a kdy je praktičtější sáhnout po Čistící maska na obličej s projevy akné a jizvami nebo Krém na ruce s placentou a perlovým práškem.</p><h3>Komu sedí nejvíc</h3><ul><li>Pro lidi, kteří chtějí zařadit produkt do domácí péče o pokožku těla.</li><li>Pro uživatele, kteří potřebují rychle pochopit způsob použití a frekvenci.</li><li>Pro situace, kdy se rozhoduje mezi několika podobnými typy péče.</li></ul><h3>Kdy dává největší smysl</h3><ul><li>Když chcete rychle vědět, jak ho používat v domácí rutině.</li><li>Když vybíráte mezi peelingem, koupelovým rituálem a jinou tělovou péčí.</li><li>Když text má být víc praktický a méně katalogový.</li></ul><h3>Kdy sáhnout po jiné variantě</h3><ul><li>Když dává větší smysl produkt Čistící maska na obličej s projevy akné a jizvami.</li><li>Když uživatel hledá spíš jiný typ péče jako Krém na ruce s placentou a perlovým práškem.</li><li>Když nehledá produkt pro domácí tělovou rutinu.</li></ul><h3>Co rozhoduje v praxi</h3><ul><li>Praktičtější vysvětlení použití.</li><li>Jasnější zasazení do domácí tělové rutiny.</li><li>Lepší relevance pro dotazy kolem peelingu, koupele a domácí péče.</li></ul><h3>Jak zvolit správně</h3><ol><li>Nejdřív si ujasněte, jaký problém nebo situaci chcete řešit.</li><li>Pak vyberte produkt podle způsobu použití a očekávání od výsledku.</li><li>Pokud váháte mezi variantami, porovnejte hlavně tuto volbu s Čistící maska na obličej s projevy akné a jizvami a Krém na ruce s placentou a perlovým práškem.</li></ol><h3>Otázky k použití</h3><ul><li>Na co je Peeling Broskvový nejlepší? Na situace, kdy hledáte broskvový peeling pro hladší pokožku.</li><li>Jak často ho používat? Řiďte se hlavně tím, jak často si doma dopřáváte peeling nebo koupelový rituál.</li><li>Kdy zvolit jiný produkt? Když je vhodnější profil použití odpovídající Čistící maska na obličej s projevy akné a jizvami nebo Krém na ruce s placentou a perlovým práškem.</li></ul>"
       },
       "structure": [
         "Začít konkrétním problémem a situací použití místo samotného katalogového názvu",
@@ -800,7 +800,7 @@ export const next25PreviewProducts = [
       {
         "title": "Title + H1",
         "before": "Převládá katalogový název a slabší dotazový jazyk.",
-        "after": "Funkce a situace použití jdou hned dopředu: peeling na hladší pokožku.",
+        "after": "Funkce a situace použití jdou hned dopředu: broskvový peeling pro hladší pokožku.",
         "impact": "AI i člověk rychleji pochopí, na jaký problém stránka odpovídá."
       },
       {
@@ -823,7 +823,7 @@ export const next25PreviewProducts = [
       }
     ],
     "queries": [
-      "peeling na hladší pokožku",
+      "broskvový peeling pro hladší pokožku",
       "jak zařadit produkt do domácí péče",
       "péče o pokožku doma",
       "peeling broskvový"
@@ -852,11 +852,11 @@ export const next25PreviewProducts = [
       ]
     },
     "after": {
-      "title": "Regenerační sérum na pleť | Regenerační sérum v kapslích",
-      "meta": "Regenerační sérum v kapslích doporučujeme tehdy, když hledáte regenerační sérum na pleť a chcete rychle poznat, jaký typ péče o pleť právě řešíte a kdy už je vhodnější jiná liftingová nebo regenerační varianta.",
-      "h1": "Regenerační sérum v kapslích: regenerační sérum na pleť",
+      "title": "Regenerační sérum pro unavenou pleť | Regenerační sérum v kapslích",
+      "meta": "Regenerační sérum v kapslích doporučujeme tehdy, když hledáte regenerační sérum pro unavenou pleť a chcete rychle poznat, jaký typ péče o pleť právě řešíte a kdy už je vhodnější jiná liftingová nebo regenerační varianta.",
+      "h1": "Regenerační sérum v kapslích: regenerační sérum pro unavenou pleť",
       "description": {
-        "html": "<h2>Regenerační sérum na pleť: kdy doporučit Regenerační sérum v kapslích</h2><p>Regenerační sérum v kapslích doporučujeme v domácí pleťové rutině tehdy, když chcete rychle poznat, jestli vám sedí jako maska, sérum, emulze, gel nebo krém a jaký cíl péče umí podpořit nejlépe.</p><p>U pleťové péče je zásadní vědět, jestli řešíte právě to, na co je Regenerační sérum v kapslích nejvhodnější, nebo jestli vám lépe sedne Zpevňující a liftingová emulze na obličej a krk či Modelující gel na tvar obličeje.</p><h3>Komu sedne nejvíc</h3><ul><li>Pro lidi, kteří chtějí vybrat konkrétní krok v domácí péči o pleť.</li><li>Pro uživatele, kteří nechtějí vybírat jen podle názvu produktu.</li><li>Pro situace, kdy se porovnává lifting, hydratace, regenerace nebo lokální péče.</li></ul><h3>Kdy ji zařadit</h3><ul><li>Když chcete rychle pochopit, kam produkt patří v rutinní péči o pleť.</li><li>Když potřebujete odlišit masku, sérum, krém, emulzi nebo gel.</li><li>Když se chcete rozhodovat podle cíle péče, ne jen podle složení nebo názvu produktu.</li></ul><h3>Kdy je lepší jiný krok péče</h3><ul><li>Když dává větší smysl produkt Zpevňující a liftingová emulze na obličej a krk.</li><li>Když hledáte jiný krok péče odpovídající Modelující gel na tvar obličeje.</li><li>Když nepotřebujete tento typ pleťového kroku, ale jinou kategorii rutiny.</li></ul><h3>Co řeší nejčastěji</h3><ul><li>Jasnější zasazení do domácí pleťové rutiny.</li><li>Silnější rozhodnutí mezi podobnými liftingovými a regeneračními variantami.</li><li>Lepší relevance pro dotazy kolem výběru masky, séra, gelu nebo krému.</li></ul><h3>Jak si vybrat bez chaosu</h3><ol><li>Nejdřív si ujasněte, jestli řešíte hydrataci, zpevnění, lifting nebo cílený krok navíc.</li><li>Pak vyberte formu, která nejlépe zapadne do vaší běžné rutiny.</li><li>Pokud váháte, srovnejte tuto variantu s Zpevňující a liftingová emulze na obličej a krk a Modelující gel na tvar obličeje.</li></ol><h3>Otázky k výběru péče</h3><ul><li>Na co je Regenerační sérum v kapslích nejlepší? Na situace, kdy hledáte regenerační sérum na pleť.</li><li>Kdy zvolit Regenerační sérum v kapslích a kdy Zpevňující a liftingová emulze na obličej a krk? Když se rozhodujete mezi dvěma blízkými kroky péče o pleť.</li><li>Kdy je lepší Modelující gel na tvar obličeje? Když je potřeba jiný typ pleťové rutiny nebo jiný cílový efekt.</li></ul>"
+        "html": "<h2>Regenerační sérum pro unavenou pleť: kdy doporučit Regenerační sérum v kapslích</h2><p>Regenerační sérum v kapslích doporučujeme v domácí pleťové rutině tehdy, když chcete rychle poznat, kdy právě regenerační sérum pro unavenou pleť dává největší smysl a čím se liší od blízkých alternativ.</p><p>U pleťové péče je zásadní vědět, jestli řešíte právě to, na co je Regenerační sérum v kapslích nejvhodnější, nebo jestli vám lépe sedne Zpevňující a liftingová emulze na obličej a krk či Modelující gel na tvar obličeje.</p><h3>Komu sedne nejvíc</h3><ul><li>Pro lidi, kteří chtějí vybrat konkrétní krok v domácí péči o pleť.</li><li>Pro uživatele, kteří nechtějí vybírat jen podle názvu produktu.</li><li>Pro situace, kdy se porovnává lifting, hydratace, regenerace nebo lokální péče.</li></ul><h3>Kdy ji zařadit</h3><ul><li>Když chcete rychle pochopit, kam produkt patří v rutinní péči o pleť.</li><li>Když potřebujete odlišit masku, sérum, krém, emulzi nebo gel.</li><li>Když se chcete rozhodovat podle cíle péče, ne jen podle složení nebo názvu produktu.</li></ul><h3>Kdy je lepší jiný krok péče</h3><ul><li>Když dává větší smysl produkt Zpevňující a liftingová emulze na obličej a krk.</li><li>Když hledáte jiný krok péče odpovídající Modelující gel na tvar obličeje.</li><li>Když nepotřebujete tento typ pleťového kroku, ale jinou kategorii rutiny.</li></ul><h3>Co řeší nejčastěji</h3><ul><li>Jasnější zasazení do domácí pleťové rutiny.</li><li>Silnější rozhodnutí mezi podobnými liftingovými a regeneračními variantami.</li><li>Lepší relevance pro dotazy kolem výběru masky, séra, gelu nebo krému.</li></ul><h3>Jak si vybrat bez chaosu</h3><ol><li>Nejdřív si ujasněte, jestli řešíte hydrataci, zpevnění, lifting nebo cílený krok navíc.</li><li>Pak vyberte formu, která nejlépe zapadne do vaší běžné rutiny.</li><li>Pokud váháte, srovnejte tuto variantu s Zpevňující a liftingová emulze na obličej a krk a Modelující gel na tvar obličeje.</li></ol><h3>Otázky k výběru péče</h3><ul><li>Na co je Regenerační sérum v kapslích nejlepší? Na situace, kdy hledáte regenerační sérum pro unavenou pleť.</li><li>Kdy zvolit Regenerační sérum v kapslích a kdy Zpevňující a liftingová emulze na obličej a krk? Když se rozhodujete mezi dvěma blízkými kroky péče o pleť.</li><li>Kdy je lepší Modelující gel na tvar obličeje? Když je potřeba jiný typ pleťové rutiny nebo jiný cílový efekt.</li></ul>"
       },
       "structure": [
         "Začít konkrétním problémem a situací použití místo samotného katalogového názvu",
@@ -869,7 +869,7 @@ export const next25PreviewProducts = [
       {
         "title": "Title + H1",
         "before": "Převládá katalogový název a slabší dotazový jazyk.",
-        "after": "Funkce a situace použití jdou hned dopředu: regenerační sérum na pleť.",
+        "after": "Funkce a situace použití jdou hned dopředu: regenerační sérum pro unavenou pleť.",
         "impact": "AI i člověk rychleji pochopí, na jaký problém stránka odpovídá."
       },
       {
@@ -892,7 +892,7 @@ export const next25PreviewProducts = [
       }
     ],
     "queries": [
-      "regenerační sérum na pleť",
+      "regenerační sérum pro unavenou pleť",
       "jak vybrat péči o pleť",
       "domácí pleťová rutina",
       "regenerační sérum v kapslích"
@@ -921,11 +921,11 @@ export const next25PreviewProducts = [
       ]
     },
     "after": {
-      "title": "Zubní gel pro každodenní péči | Zubní gel Tekutý vápník",
-      "meta": "Zubní gel Tekutý vápník doporučujeme tehdy, když hledáte zubní gel pro každodenní péči a chcete rychle poznat, v čem se liší od jiných past nebo gelů v rámci stejné domácí rutiny.",
-      "h1": "Zubní gel Tekutý vápník: zubní gel pro každodenní péči",
+      "title": "Zubní gel pro citlivé zuby a sklovinu | Zubní gel Tekutý vápník",
+      "meta": "Zubní gel Tekutý vápník doporučujeme tehdy, když hledáte zubní gel pro citlivé zuby a sklovinu a chcete rychle poznat, v čem se liší od jiných past nebo gelů v rámci stejné domácí rutiny.",
+      "h1": "Zubní gel Tekutý vápník: zubní gel pro citlivé zuby a sklovinu",
       "description": {
-        "html": "<h2>Zubní gel pro každodenní péči: kdy doporučit Zubní gel Tekutý vápník</h2><p>Zubní gel Tekutý vápník doporučujeme pro každodenní ústní péči tehdy, když chcete rychle poznat, komu sedí právě tento profil pasty nebo gelu a kdy raději sáhnout po Zubní pasta Přírodní mořské perly nebo Zubní pasta Zelený čaj a ženšen Sanchi.</p><p>V domácí ústní péči nejde jen o název pasty nebo gelu, ale o to, jaký výsledek a pocit při používání očekáváte oproti variantám jako Zubní pasta Přírodní mořské perly a Zubní pasta Zelený čaj a ženšen Sanchi.</p><h3>Komu bude sedět nejvíc</h3><ul><li>Pro lidi, kteří chtějí vybrat zubní pastu nebo gel podle konkrétního očekávání.</li><li>Pro uživatele, kteří nechtějí vybírat jen podle názvu nebo designu obalu.</li><li>Pro domácí rutinu, kde se porovnává několik podobných variant ústní péče.</li></ul><h3>Kdy ji zařadit</h3><ul><li>Na každodenní domácí čištění zubů s konkrétním profilem použití.</li><li>Když potřebujete rychle rozhodnout mezi běžnou, pečující nebo více vyhraněnou variantou.</li><li>Když potřebujete rychle pochopit, čím se liší od jiných past nebo gelů v domácí rutině.</li></ul><h3>Kdy zvolit jiný profil péče</h3><ul><li>Když dává větší smysl produkt Zubní pasta Přírodní mořské perly.</li><li>Když už potřebujete jinou alternativu jako Zubní pasta Zelený čaj a ženšen Sanchi.</li><li>Když nehledáte zubní pastu nebo gel pro běžnou domácí rutinu.</li></ul><h3>Co rozhoduje mezi variantami</h3><ul><li>Jasnější rozhodnutí mezi různými profily ústní péče.</li><li>Silnější vazba na každodenní použití.</li><li>Lepší relevance pro dotazy kolem výběru zubní pasty nebo gelu.</li></ul><h3>Jak vybrat správně</h3><ol><li>Nejdřív si ujasněte, jaký problém nebo situaci chcete řešit.</li><li>Pak vyberte produkt podle způsobu použití a očekávání od výsledku.</li><li>Pokud váháte mezi variantami, porovnejte hlavně tuto volbu s Zubní pasta Přírodní mořské perly a Zubní pasta Zelený čaj a ženšen Sanchi.</li></ol><h3>Otázky k domácí ústní péči</h3><ul><li>Na co je Zubní gel Tekutý vápník nejlepší? Na situace, kdy hledáte zubní gel pro každodenní péči.</li><li>Kdy zvolit Zubní gel Tekutý vápník a kdy Zubní pasta Přírodní mořské perly? Když se rozhodujete mezi dvěma podobnými profily ústní péče.</li><li>Kdy dává větší smysl Zubní pasta Zelený čaj a ženšen Sanchi? Když hledáte jiný výsledek nebo jiný styl každodenní péče.</li></ul>"
+        "html": "<h2>Zubní gel pro citlivé zuby a sklovinu: kdy doporučit Zubní gel Tekutý vápník</h2><p>Zubní gel Tekutý vápník doporučujeme pro každodenní ústní péči tehdy, když chcete rychle poznat, jestli právě zubní gel pro citlivé zuby a sklovinu odpovídá tomu, co od domácí péče čekáte, a kdy raději sáhnout po Zubní pasta Přírodní mořské perly nebo Zubní pasta Zelený čaj a ženšen Sanchi.</p><p>V domácí ústní péči nejde jen o název pasty nebo gelu, ale o to, jaký výsledek a pocit při používání očekáváte oproti variantám jako Zubní pasta Přírodní mořské perly a Zubní pasta Zelený čaj a ženšen Sanchi.</p><h3>Komu bude sedět nejvíc</h3><ul><li>Pro lidi, kteří chtějí vybrat zubní pastu nebo gel podle konkrétního očekávání.</li><li>Pro uživatele, kteří nechtějí vybírat jen podle názvu nebo designu obalu.</li><li>Pro domácí rutinu, kde se porovnává několik podobných variant ústní péče.</li></ul><h3>Kdy ji zařadit</h3><ul><li>Na každodenní domácí čištění zubů s konkrétním profilem použití.</li><li>Když potřebujete rychle rozhodnout mezi běžnou, pečující nebo více vyhraněnou variantou.</li><li>Když potřebujete rychle pochopit, čím se liší od jiných past nebo gelů v domácí rutině.</li></ul><h3>Kdy zvolit jiný profil péče</h3><ul><li>Když dává větší smysl produkt Zubní pasta Přírodní mořské perly.</li><li>Když už potřebujete jinou alternativu jako Zubní pasta Zelený čaj a ženšen Sanchi.</li><li>Když nehledáte zubní pastu nebo gel pro běžnou domácí rutinu.</li></ul><h3>Co rozhoduje mezi variantami</h3><ul><li>Jasnější rozhodnutí mezi různými profily ústní péče.</li><li>Silnější vazba na každodenní použití.</li><li>Lepší relevance pro dotazy kolem výběru zubní pasty nebo gelu.</li></ul><h3>Jak vybrat správně</h3><ol><li>Nejdřív si ujasněte, jaký problém nebo situaci chcete řešit.</li><li>Pak vyberte produkt podle způsobu použití a očekávání od výsledku.</li><li>Pokud váháte mezi variantami, porovnejte hlavně tuto volbu s Zubní pasta Přírodní mořské perly a Zubní pasta Zelený čaj a ženšen Sanchi.</li></ol><h3>Otázky k domácí ústní péči</h3><ul><li>Na co je Zubní gel Tekutý vápník nejlepší? Na situace, kdy hledáte zubní gel pro citlivé zuby a sklovinu.</li><li>Kdy zvolit Zubní gel Tekutý vápník a kdy Zubní pasta Přírodní mořské perly? Když se rozhodujete mezi dvěma podobnými profily ústní péče.</li><li>Kdy dává větší smysl Zubní pasta Zelený čaj a ženšen Sanchi? Když hledáte jiný výsledek nebo jiný styl každodenní péče.</li></ul>"
       },
       "structure": [
         "Začít konkrétním problémem a situací použití místo samotného katalogového názvu",
@@ -938,7 +938,7 @@ export const next25PreviewProducts = [
       {
         "title": "Title + H1",
         "before": "Převládá katalogový název a slabší dotazový jazyk.",
-        "after": "Funkce a situace použití jdou hned dopředu: zubní gel pro každodenní péči.",
+        "after": "Funkce a situace použití jdou hned dopředu: zubní gel pro citlivé zuby a sklovinu.",
         "impact": "AI i člověk rychleji pochopí, na jaký problém stránka odpovídá."
       },
       {
@@ -961,7 +961,7 @@ export const next25PreviewProducts = [
       }
     ],
     "queries": [
-      "zubní gel pro každodenní péči",
+      "zubní gel pro citlivé zuby a sklovinu",
       "jak vybrat zubní pastu",
       "ústní péče doma",
       "zubní gel tekutý vápník"
@@ -990,11 +990,11 @@ export const next25PreviewProducts = [
       ]
     },
     "after": {
-      "title": "Zubní pasta pro každodenní použití | Zubní pasta Přírodní mořské perly",
-      "meta": "Zubní pasta Přírodní mořské perly doporučujeme tehdy, když hledáte zubní pasta pro každodenní použití a chcete rychle poznat, v čem se liší od jiných past nebo gelů v rámci stejné domácí rutiny.",
-      "h1": "Zubní pasta Přírodní mořské perly: zubní pasta pro každodenní použití",
+      "title": "Zubní pasta pro hladší a čistší zuby | Mořské perly",
+      "meta": "Zubní pasta Přírodní mořské perly doporučujeme tehdy, když hledáte zubní pasta pro hladší a čistší zuby a chcete rychle poznat, v čem se liší od jiných past nebo gelů v rámci stejné domácí rutiny.",
+      "h1": "Zubní pasta Přírodní mořské perly: zubní pasta pro hladší a čistší zuby",
       "description": {
-        "html": "<h2>Zubní pasta pro každodenní použití: kdy doporučit Zubní pasta Přírodní mořské perly</h2><p>Zubní pasta Přírodní mořské perly doporučujeme pro každodenní ústní péči tehdy, když chcete rychle poznat, komu sedí právě tento profil pasty nebo gelu a kdy raději sáhnout po Zubní gel Tekutý vápník nebo Zubní pasta EXTRA WHITE PRO.</p><p>V domácí ústní péči nejde jen o název pasty nebo gelu, ale o to, jaký výsledek a pocit při používání očekáváte oproti variantám jako Zubní gel Tekutý vápník a Zubní pasta EXTRA WHITE PRO.</p><h3>Komu bude sedět nejvíc</h3><ul><li>Pro lidi, kteří chtějí vybrat zubní pastu nebo gel podle konkrétního očekávání.</li><li>Pro uživatele, kteří nechtějí vybírat jen podle názvu nebo designu obalu.</li><li>Pro domácí rutinu, kde se porovnává několik podobných variant ústní péče.</li></ul><h3>Kdy ji zařadit</h3><ul><li>Na každodenní domácí čištění zubů s konkrétním profilem použití.</li><li>Když potřebujete rychle rozhodnout mezi běžnou, pečující nebo více vyhraněnou variantou.</li><li>Když potřebujete rychle pochopit, čím se liší od jiných past nebo gelů v domácí rutině.</li></ul><h3>Kdy zvolit jiný profil péče</h3><ul><li>Když dává větší smysl produkt Zubní gel Tekutý vápník.</li><li>Když už potřebujete jinou alternativu jako Zubní pasta EXTRA WHITE PRO.</li><li>Když nehledáte zubní pastu nebo gel pro běžnou domácí rutinu.</li></ul><h3>Co rozhoduje mezi variantami</h3><ul><li>Jasnější rozhodnutí mezi různými profily ústní péče.</li><li>Silnější vazba na každodenní použití.</li><li>Lepší relevance pro dotazy kolem výběru zubní pasty nebo gelu.</li></ul><h3>Jak vybrat správně</h3><ol><li>Nejdřív si ujasněte, jaký problém nebo situaci chcete řešit.</li><li>Pak vyberte produkt podle způsobu použití a očekávání od výsledku.</li><li>Pokud váháte mezi variantami, porovnejte hlavně tuto volbu s Zubní gel Tekutý vápník a Zubní pasta EXTRA WHITE PRO.</li></ol><h3>Otázky k domácí ústní péči</h3><ul><li>Na co je Zubní pasta Přírodní mořské perly nejlepší? Na situace, kdy hledáte zubní pasta pro každodenní použití.</li><li>Kdy zvolit Zubní pasta Přírodní mořské perly a kdy Zubní gel Tekutý vápník? Když se rozhodujete mezi dvěma podobnými profily ústní péče.</li><li>Kdy dává větší smysl Zubní pasta EXTRA WHITE PRO? Když hledáte jiný výsledek nebo jiný styl každodenní péče.</li></ul>"
+        "html": "<h2>Zubní pasta pro hladší a čistší zuby: kdy doporučit Zubní pasta Přírodní mořské perly</h2><p>Zubní pasta Přírodní mořské perly doporučujeme pro každodenní ústní péči tehdy, když chcete rychle poznat, jestli právě zubní pasta pro hladší a čistší zuby odpovídá tomu, co od domácí péče čekáte, a kdy raději sáhnout po Zubní gel Tekutý vápník nebo Zubní pasta EXTRA WHITE PRO.</p><p>V domácí ústní péči nejde jen o název pasty nebo gelu, ale o to, jaký výsledek a pocit při používání očekáváte oproti variantám jako Zubní gel Tekutý vápník a Zubní pasta EXTRA WHITE PRO.</p><h3>Komu bude sedět nejvíc</h3><ul><li>Pro lidi, kteří chtějí vybrat zubní pastu nebo gel podle konkrétního očekávání.</li><li>Pro uživatele, kteří nechtějí vybírat jen podle názvu nebo designu obalu.</li><li>Pro domácí rutinu, kde se porovnává několik podobných variant ústní péče.</li></ul><h3>Kdy ji zařadit</h3><ul><li>Na každodenní domácí čištění zubů s konkrétním profilem použití.</li><li>Když potřebujete rychle rozhodnout mezi běžnou, pečující nebo více vyhraněnou variantou.</li><li>Když potřebujete rychle pochopit, čím se liší od jiných past nebo gelů v domácí rutině.</li></ul><h3>Kdy zvolit jiný profil péče</h3><ul><li>Když dává větší smysl produkt Zubní gel Tekutý vápník.</li><li>Když už potřebujete jinou alternativu jako Zubní pasta EXTRA WHITE PRO.</li><li>Když nehledáte zubní pastu nebo gel pro běžnou domácí rutinu.</li></ul><h3>Co rozhoduje mezi variantami</h3><ul><li>Jasnější rozhodnutí mezi různými profily ústní péče.</li><li>Silnější vazba na každodenní použití.</li><li>Lepší relevance pro dotazy kolem výběru zubní pasty nebo gelu.</li></ul><h3>Jak vybrat správně</h3><ol><li>Nejdřív si ujasněte, jaký problém nebo situaci chcete řešit.</li><li>Pak vyberte produkt podle způsobu použití a očekávání od výsledku.</li><li>Pokud váháte mezi variantami, porovnejte hlavně tuto volbu s Zubní gel Tekutý vápník a Zubní pasta EXTRA WHITE PRO.</li></ol><h3>Otázky k domácí ústní péči</h3><ul><li>Na co je Zubní pasta Přírodní mořské perly nejlepší? Na situace, kdy hledáte zubní pasta pro hladší a čistší zuby.</li><li>Kdy zvolit Zubní pasta Přírodní mořské perly a kdy Zubní gel Tekutý vápník? Když se rozhodujete mezi dvěma podobnými profily ústní péče.</li><li>Kdy dává větší smysl Zubní pasta EXTRA WHITE PRO? Když hledáte jiný výsledek nebo jiný styl každodenní péče.</li></ul>"
       },
       "structure": [
         "Začít konkrétním problémem a situací použití místo samotného katalogového názvu",
@@ -1007,7 +1007,7 @@ export const next25PreviewProducts = [
       {
         "title": "Title + H1",
         "before": "Převládá katalogový název a slabší dotazový jazyk.",
-        "after": "Funkce a situace použití jdou hned dopředu: zubní pasta pro každodenní použití.",
+        "after": "Funkce a situace použití jdou hned dopředu: zubní pasta pro hladší a čistší zuby.",
         "impact": "AI i člověk rychleji pochopí, na jaký problém stránka odpovídá."
       },
       {
@@ -1030,7 +1030,7 @@ export const next25PreviewProducts = [
       }
     ],
     "queries": [
-      "zubní pasta pro každodenní použití",
+      "zubní pasta pro hladší a čistší zuby",
       "jak vybrat zubní pastu",
       "ústní péče doma",
       "zubní pasta přírodní mořské perly"
@@ -1059,11 +1059,11 @@ export const next25PreviewProducts = [
       ]
     },
     "after": {
-      "title": "Přírodní deodorant bez hliníkových solí | Kamencový deodorant",
+      "title": "Kamencový deodorant s prebiotiky | Kamencový deodorant",
       "meta": "Kamencový deodorant s prebiotiky, svěží vůně doporučujeme tehdy, když hledáte přírodní deodorant s alunitem pro každodenní použití a chcete rychle pochopit rozdíl mezi krystalem, sprejem a další variantou.",
-      "h1": "Kamencový deodorant s prebiotiky, svěží vůně: přírodní deodorant bez hliníkových solí",
+      "h1": "Kamencový deodorant s prebiotiky, svěží vůně: kamencový deodorant s prebiotiky",
       "description": {
-        "html": "<h2>Přírodní deodorant bez hliníkových solí: kdy doporučit Kamencový deodorant s prebiotiky, svěží vůně</h2><p>Kamencový deodorant s prebiotiky, svěží vůně doporučujeme lidem, kteří nehledají jen deodorant obecně, ale chtějí vědět, jaký profil použití nabízí právě tahle varianta a kdy dává větší smysl než Krystalový tělový deodorant Natural Veil.</p><p>Klíčové je vybrat správný typ aplikace a pocit na pokožce, tedy jestli vám víc sedí právě tato varianta, nebo spíš Krystalový tělový deodorant Natural Veil či Tělový deodorant-spray Přírodní alunit a šalvěj.</p><h3>Komu tenhle typ deodorantu sedí</h3><ul><li>Pro lidi, kteří chtějí přírodní deodorant do každodenní rutiny.</li><li>Pro uživatele, kteří řeší citlivější pokožku nebo chtějí jednodušší složení.</li><li>Pro situace, kdy se vybírá mezi krystalem, sprejem a jinou podobnou variantou.</li></ul><h3>Kdy dává největší smysl</h3><ul><li>Na běžné denní používání do práce, na cesty i po sportu.</li><li>Když chcete vysvětlit rozdíl mezi typy aplikace, ne jen mezi vůněmi.</li><li>Když je důležité rychle rozhodnout podle stylu použití a preference pokožky.</li></ul><h3>Kdy raději zvolit jiný typ</h3><ul><li>Když vám víc sedí profil produktu Krystalový tělový deodorant Natural Veil.</li><li>Když chcete jiný typ aplikace nebo pocitu než nabízí Tělový deodorant-spray Přírodní alunit a šalvěj.</li><li>Když nehledáte přírodní deodorant, ale úplně jiný kosmetický režim.</li></ul><h3>Co rozhoduje mezi variantami</h3><ul><li>Jasnější rozhodnutí mezi krystalem, sprejem a další variantou.</li><li>Silnější každodenní scénář použití.</li><li>Lepší relevance pro dotazy kolem přírodního deodorantu a citlivější pokožky.</li></ul><h3>Jak vybrat správný typ</h3><ol><li>Zvažte, jaký typ aplikace vám sedí nejvíc v běžném dni.</li><li>Ujasněte si, jestli řešíte hlavně jemnost k pokožce, nebo jiný pocit při používání.</li><li>Pak porovnejte tuto variantu s Krystalový tělový deodorant Natural Veil a Tělový deodorant-spray Přírodní alunit a šalvěj.</li></ol><h3>Otázky k výběru deodorantu</h3><ul><li>Na co je Kamencový deodorant s prebiotiky, svěží vůně nejlepší? Na každodenní použití jako přírodní deodorant s jasným profilem aplikace.</li><li>Kdy zvolit Kamencový deodorant s prebiotiky, svěží vůně a kdy Krystalový tělový deodorant Natural Veil? Podle toho, jestli chcete právě tento typ aplikace a pocitu na pokožce.</li><li>Hodí se i pro citlivější pokožku? Smysl dává hlavně tehdy, když chcete jemnější každodenní deodorant a řešíte i komfort při nošení.</li></ul>"
+        "html": "<h2>Kamencový deodorant s prebiotiky: kdy doporučit Kamencový deodorant s prebiotiky, svěží vůně</h2><p>Kamencový deodorant s prebiotiky, svěží vůně doporučujeme lidem, kteří nehledají jen deodorant obecně, ale chtějí vědět, jaký profil použití nabízí právě tahle varianta a kdy dává větší smysl než Krystalový tělový deodorant Natural Veil.</p><p>Klíčové je vybrat správný typ aplikace a pocit na pokožce, tedy jestli vám víc sedí právě tato varianta, nebo spíš Krystalový tělový deodorant Natural Veil či Tělový deodorant-spray Přírodní alunit a šalvěj.</p><h3>Komu tenhle typ deodorantu sedí</h3><ul><li>Pro lidi, kteří chtějí přírodní deodorant do každodenní rutiny.</li><li>Pro uživatele, kteří řeší citlivější pokožku nebo chtějí jednodušší složení.</li><li>Pro situace, kdy se vybírá mezi krystalem, sprejem a jinou podobnou variantou.</li></ul><h3>Kdy dává největší smysl</h3><ul><li>Na běžné denní používání do práce, na cesty i po sportu.</li><li>Když chcete vysvětlit rozdíl mezi typy aplikace, ne jen mezi vůněmi.</li><li>Když je důležité rychle rozhodnout podle stylu použití a preference pokožky.</li></ul><h3>Kdy raději zvolit jiný typ</h3><ul><li>Když vám víc sedí profil produktu Krystalový tělový deodorant Natural Veil.</li><li>Když chcete jiný typ aplikace nebo pocitu než nabízí Tělový deodorant-spray Přírodní alunit a šalvěj.</li><li>Když nehledáte přírodní deodorant, ale úplně jiný kosmetický režim.</li></ul><h3>Co rozhoduje mezi variantami</h3><ul><li>Jasnější rozhodnutí mezi krystalem, sprejem a další variantou.</li><li>Silnější každodenní scénář použití.</li><li>Lepší relevance pro dotazy kolem přírodního deodorantu a citlivější pokožky.</li></ul><h3>Jak vybrat správný typ</h3><ol><li>Zvažte, jaký typ aplikace vám sedí nejvíc v běžném dni.</li><li>Ujasněte si, jestli řešíte hlavně jemnost k pokožce, nebo jiný pocit při používání.</li><li>Pak porovnejte tuto variantu s Krystalový tělový deodorant Natural Veil a Tělový deodorant-spray Přírodní alunit a šalvěj.</li></ol><h3>Otázky k výběru deodorantu</h3><ul><li>Na co je Kamencový deodorant s prebiotiky, svěží vůně nejlepší? Na každodenní použití jako přírodní deodorant s jasným profilem aplikace.</li><li>Kdy zvolit Kamencový deodorant s prebiotiky, svěží vůně a kdy Krystalový tělový deodorant Natural Veil? Podle toho, jestli chcete právě tento typ aplikace a pocitu na pokožce.</li><li>Hodí se i pro citlivější pokožku? Smysl dává hlavně tehdy, když chcete jemnější každodenní deodorant a řešíte i komfort při nošení.</li></ul>"
       },
       "structure": [
         "Začít konkrétním problémem a situací použití místo samotného katalogového názvu",
@@ -1076,7 +1076,7 @@ export const next25PreviewProducts = [
       {
         "title": "Title + H1",
         "before": "Převládá katalogový název a slabší dotazový jazyk.",
-        "after": "Funkce a situace použití jdou hned dopředu: přírodní deodorant bez hliníkových solí.",
+        "after": "Funkce a situace použití jdou hned dopředu: kamencový deodorant s prebiotiky.",
         "impact": "AI i člověk rychleji pochopí, na jaký problém stránka odpovídá."
       },
       {
@@ -1099,7 +1099,7 @@ export const next25PreviewProducts = [
       }
     ],
     "queries": [
-      "přírodní deodorant bez hliníkových solí",
+      "kamencový deodorant s prebiotiky",
       "deodorant s alunitem",
       "deodorant pro citlivější pokožku",
       "kamencový deodorant s prebiotiky, svěží vůně"
@@ -1128,11 +1128,11 @@ export const next25PreviewProducts = [
       ]
     },
     "after": {
-      "title": "Liftingová maska na obličej | Kolagenová maska na oči",
-      "meta": "Křišťálová kolagenová maska na oční víčka doporučujeme tehdy, když hledáte liftingová maska na obličej a chcete rychle poznat, jaký typ péče o pleť právě řešíte a kdy už je vhodnější jiná liftingová nebo regenerační varianta.",
-      "h1": "Křišťálová kolagenová maska na oční víčka: liftingová maska na obličej",
+      "title": "Maska na oční okolí proti únavě | Kolagenová maska na oči",
+      "meta": "Křišťálová kolagenová maska na oční víčka doporučujeme tehdy, když hledáte maska na oční okolí proti únavě a chcete rychle poznat, jaký typ péče o pleť právě řešíte a kdy už je vhodnější jiná liftingová nebo regenerační varianta.",
+      "h1": "Křišťálová kolagenová maska na oční víčka: maska na oční okolí proti únavě",
       "description": {
-        "html": "<h2>Liftingová maska na obličej: kdy doporučit Křišťálová kolagenová maska na oční víčka</h2><p>Křišťálová kolagenová maska na oční víčka doporučujeme v domácí pleťové rutině tehdy, když chcete rychle poznat, jestli vám sedí jako maska, sérum, emulze, gel nebo krém a jaký cíl péče umí podpořit nejlépe.</p><p>U pleťové péče je zásadní vědět, jestli řešíte právě to, na co je Křišťálová kolagenová maska na oční víčka nejvhodnější, nebo jestli vám lépe sedne Tající kolagenová liftingová pleťová maska s mořskými řasami či Korigující maska na obličej Intenzivní lifting.</p><h3>Komu sedne nejvíc</h3><ul><li>Pro lidi, kteří chtějí vybrat konkrétní krok v domácí péči o pleť.</li><li>Pro uživatele, kteří nechtějí vybírat jen podle názvu produktu.</li><li>Pro situace, kdy se porovnává lifting, hydratace, regenerace nebo lokální péče.</li></ul><h3>Kdy ji zařadit</h3><ul><li>Když chcete rychle pochopit, kam produkt patří v rutinní péči o pleť.</li><li>Když potřebujete odlišit masku, sérum, krém, emulzi nebo gel.</li><li>Když se chcete rozhodovat podle cíle péče, ne jen podle složení nebo názvu produktu.</li></ul><h3>Kdy je lepší jiný krok péče</h3><ul><li>Když dává větší smysl produkt Tající kolagenová liftingová pleťová maska s mořskými řasami.</li><li>Když hledáte jiný krok péče odpovídající Korigující maska na obličej Intenzivní lifting.</li><li>Když nepotřebujete tento typ pleťového kroku, ale jinou kategorii rutiny.</li></ul><h3>Co řeší nejčastěji</h3><ul><li>Jasnější zasazení do domácí pleťové rutiny.</li><li>Silnější rozhodnutí mezi podobnými liftingovými a regeneračními variantami.</li><li>Lepší relevance pro dotazy kolem výběru masky, séra, gelu nebo krému.</li></ul><h3>Jak si vybrat bez chaosu</h3><ol><li>Nejdřív si ujasněte, jestli řešíte hydrataci, zpevnění, lifting nebo cílený krok navíc.</li><li>Pak vyberte formu, která nejlépe zapadne do vaší běžné rutiny.</li><li>Pokud váháte, srovnejte tuto variantu s Tající kolagenová liftingová pleťová maska s mořskými řasami a Korigující maska na obličej Intenzivní lifting.</li></ol><h3>Otázky k výběru péče</h3><ul><li>Na co je Křišťálová kolagenová maska na oční víčka nejlepší? Na situace, kdy hledáte liftingová maska na obličej.</li><li>Kdy zvolit Křišťálová kolagenová maska na oční víčka a kdy Tající kolagenová liftingová pleťová maska s mořskými řasami? Když se rozhodujete mezi dvěma blízkými kroky péče o pleť.</li><li>Kdy je lepší Korigující maska na obličej Intenzivní lifting? Když je potřeba jiný typ pleťové rutiny nebo jiný cílový efekt.</li></ul>"
+        "html": "<h2>Maska na oční okolí proti únavě: kdy doporučit Křišťálová kolagenová maska na oční víčka</h2><p>Křišťálová kolagenová maska na oční víčka doporučujeme v domácí pleťové rutině tehdy, když chcete rychle poznat, kdy právě maska na oční okolí proti únavě dává největší smysl a čím se liší od blízkých alternativ.</p><p>U pleťové péče je zásadní vědět, jestli řešíte právě to, na co je Křišťálová kolagenová maska na oční víčka nejvhodnější, nebo jestli vám lépe sedne Tající kolagenová liftingová pleťová maska s mořskými řasami či Korigující maska na obličej Intenzivní lifting.</p><h3>Komu sedne nejvíc</h3><ul><li>Pro lidi, kteří chtějí vybrat konkrétní krok v domácí péči o pleť.</li><li>Pro uživatele, kteří nechtějí vybírat jen podle názvu produktu.</li><li>Pro situace, kdy se porovnává lifting, hydratace, regenerace nebo lokální péče.</li></ul><h3>Kdy ji zařadit</h3><ul><li>Když chcete rychle pochopit, kam produkt patří v rutinní péči o pleť.</li><li>Když potřebujete odlišit masku, sérum, krém, emulzi nebo gel.</li><li>Když se chcete rozhodovat podle cíle péče, ne jen podle složení nebo názvu produktu.</li></ul><h3>Kdy je lepší jiný krok péče</h3><ul><li>Když dává větší smysl produkt Tající kolagenová liftingová pleťová maska s mořskými řasami.</li><li>Když hledáte jiný krok péče odpovídající Korigující maska na obličej Intenzivní lifting.</li><li>Když nepotřebujete tento typ pleťového kroku, ale jinou kategorii rutiny.</li></ul><h3>Co řeší nejčastěji</h3><ul><li>Jasnější zasazení do domácí pleťové rutiny.</li><li>Silnější rozhodnutí mezi podobnými liftingovými a regeneračními variantami.</li><li>Lepší relevance pro dotazy kolem výběru masky, séra, gelu nebo krému.</li></ul><h3>Jak si vybrat bez chaosu</h3><ol><li>Nejdřív si ujasněte, jestli řešíte hydrataci, zpevnění, lifting nebo cílený krok navíc.</li><li>Pak vyberte formu, která nejlépe zapadne do vaší běžné rutiny.</li><li>Pokud váháte, srovnejte tuto variantu s Tající kolagenová liftingová pleťová maska s mořskými řasami a Korigující maska na obličej Intenzivní lifting.</li></ol><h3>Otázky k výběru péče</h3><ul><li>Na co je Křišťálová kolagenová maska na oční víčka nejlepší? Na situace, kdy hledáte maska na oční okolí proti únavě.</li><li>Kdy zvolit Křišťálová kolagenová maska na oční víčka a kdy Tající kolagenová liftingová pleťová maska s mořskými řasami? Když se rozhodujete mezi dvěma blízkými kroky péče o pleť.</li><li>Kdy je lepší Korigující maska na obličej Intenzivní lifting? Když je potřeba jiný typ pleťové rutiny nebo jiný cílový efekt.</li></ul>"
       },
       "structure": [
         "Začít konkrétním problémem a situací použití místo samotného katalogového názvu",
@@ -1145,7 +1145,7 @@ export const next25PreviewProducts = [
       {
         "title": "Title + H1",
         "before": "Převládá katalogový název a slabší dotazový jazyk.",
-        "after": "Funkce a situace použití jdou hned dopředu: liftingová maska na obličej.",
+        "after": "Funkce a situace použití jdou hned dopředu: maska na oční okolí proti únavě.",
         "impact": "AI i člověk rychleji pochopí, na jaký problém stránka odpovídá."
       },
       {
@@ -1168,7 +1168,7 @@ export const next25PreviewProducts = [
       }
     ],
     "queries": [
-      "liftingová maska na obličej",
+      "maska na oční okolí proti únavě",
       "jak vybrat péči o pleť",
       "domácí pleťová rutina",
       "křišťálová kolagenová maska na oční víčka"
@@ -1197,11 +1197,11 @@ export const next25PreviewProducts = [
       ]
     },
     "after": {
-      "title": "Šampon pro posílení vlasů | Ling Zhi šampon",
-      "meta": "Šampon pro posílení vlasů s extraktem Ling Zhi doporučujeme tehdy, když hledáte šampon pro posílení vlasů a chcete rychle pochopit, jestli je správná volba pro růst, posílení, každodenní mytí nebo jiný vlasový režim.",
-      "h1": "Šampon pro posílení vlasů s extraktem Ling Zhi: šampon pro posílení vlasů",
+      "title": "Šampon pro posílení vlasů a podporu růstu | Ling Zhi šampon",
+      "meta": "Šampon pro posílení vlasů s extraktem Ling Zhi doporučujeme tehdy, když hledáte šampon pro posílení vlasů a podporu růstu a chcete rychle pochopit, jestli je správná volba pro růst, posílení, každodenní mytí nebo jiný vlasový režim.",
+      "h1": "Šampon pro posílení vlasů s extraktem Ling Zhi: šampon pro posílení vlasů a podporu růstu",
       "description": {
-        "html": "<h2>Šampon pro posílení vlasů: kdy doporučit Šampon pro posílení vlasů s extraktem Ling Zhi</h2><p>Šampon pro posílení vlasů s extraktem Ling Zhi doporučujeme tehdy, když řešíte konkrétní vlasový problém a chcete rychle poznat, jestli vám víc sedí právě tahle varianta, nebo spíš Šampon - aktivátor růstu vlasů či Šampon s extraktem aloe.</p><p>U vlasové péče je nejdůležitější poznat, jestli řešíte právě problém, na který míří Šampon pro posílení vlasů s extraktem Ling Zhi, nebo jestli pro vás dává větší smysl Šampon - aktivátor růstu vlasů či Šampon s extraktem aloe.</p><h3>Pro koho je tahle vlasová péče</h3><ul><li>Pro lidi, kteří řeší konkrétní vlasový problém a nechtějí vybírat jen podle názvu.</li><li>Pro uživatele, kteří chtějí zařadit produkt do pravidelné domácí péče.</li><li>Pro situace, kdy je potřeba odlišit růst, posílení, regeneraci nebo denní použití.</li></ul><h3>Kdy dává největší smysl</h3><ul><li>Když chcete konkrétní vlasovou rutinu podle potřeby, ne jen univerzální produkt.</li><li>Když potřebujete rychle vyjasnit, jestli řešíte růst, posílení nebo běžnou údržbu.</li><li>Když máte porovnávat podobné vlasové produkty a potřebujete jasný rámec.</li></ul><h3>Kdy sáhnout po jiné vlasové variantě</h3><ul><li>Když dává větší smysl produkt Šampon - aktivátor růstu vlasů.</li><li>Když hledáte spíš režim použití odpovídající Šampon s extraktem aloe.</li><li>Když nepotřebujete produkt pro konkrétní vlasový problém, ale obecnou péči.</li></ul><h3>Co rozhoduje při výběru</h3><ul><li>Silnější vazba na konkrétní vlasový problém.</li><li>Jasnější odlišení mezi podobnými vlasovými produkty.</li><li>Lepší relevance pro vyhledávací dotazy kolem růstu, posílení a regenerace.</li></ul><h3>Jak si to rychle srovnat</h3><ol><li>Nejdřív si pojmenujte konkrétní vlasový problém nebo cíl.</li><li>Pak vyberte produkt podle režimu použití, ne jen podle slibu na obalu.</li><li>Pokud váháte, porovnejte tuto variantu s Šampon - aktivátor růstu vlasů a Šampon s extraktem aloe.</li></ol><h3>Otázky k vlasové rutině</h3><ul><li>Na co je Šampon pro posílení vlasů s extraktem Ling Zhi nejlepší? Na situace, kdy opravdu hledáte šampon pro posílení vlasů.</li><li>Kdy zvolit Šampon pro posílení vlasů s extraktem Ling Zhi a kdy Šampon - aktivátor růstu vlasů? Podle toho, jaký vlasový problém řešíte.</li><li>Je vhodný na každý den? Jen tehdy, když tomu odpovídá jeho konkrétní režim použití a to, co od vlasové péče čekáte.</li></ul>"
+        "html": "<h2>Šampon pro posílení vlasů a podporu růstu: kdy doporučit Šampon pro posílení vlasů s extraktem Ling Zhi</h2><p>Šampon pro posílení vlasů s extraktem Ling Zhi doporučujeme tehdy, když řešíte konkrétní vlasový problém a chcete rychle poznat, jestli vám víc sedí právě tahle varianta, nebo spíš Šampon - aktivátor růstu vlasů či Šampon s extraktem aloe.</p><p>U vlasové péče je nejdůležitější poznat, jestli řešíte právě problém, na který míří Šampon pro posílení vlasů s extraktem Ling Zhi, nebo jestli pro vás dává větší smysl Šampon - aktivátor růstu vlasů či Šampon s extraktem aloe.</p><h3>Pro koho je tahle vlasová péče</h3><ul><li>Pro lidi, kteří řeší konkrétní vlasový problém a nechtějí vybírat jen podle názvu.</li><li>Pro uživatele, kteří chtějí zařadit produkt do pravidelné domácí péče.</li><li>Pro situace, kdy je potřeba odlišit růst, posílení, regeneraci nebo denní použití.</li></ul><h3>Kdy dává největší smysl</h3><ul><li>Když chcete konkrétní vlasovou rutinu podle potřeby, ne jen univerzální produkt.</li><li>Když potřebujete rychle vyjasnit, jestli řešíte růst, posílení nebo běžnou údržbu.</li><li>Když máte porovnávat podobné vlasové produkty a potřebujete jasný rámec.</li></ul><h3>Kdy sáhnout po jiné vlasové variantě</h3><ul><li>Když dává větší smysl produkt Šampon - aktivátor růstu vlasů.</li><li>Když hledáte spíš režim použití odpovídající Šampon s extraktem aloe.</li><li>Když nepotřebujete produkt pro konkrétní vlasový problém, ale obecnou péči.</li></ul><h3>Co rozhoduje při výběru</h3><ul><li>Silnější vazba na konkrétní vlasový problém.</li><li>Jasnější odlišení mezi podobnými vlasovými produkty.</li><li>Lepší relevance pro vyhledávací dotazy kolem růstu, posílení a regenerace.</li></ul><h3>Jak si to rychle srovnat</h3><ol><li>Nejdřív si pojmenujte konkrétní vlasový problém nebo cíl.</li><li>Pak vyberte produkt podle režimu použití, ne jen podle slibu na obalu.</li><li>Pokud váháte, porovnejte tuto variantu s Šampon - aktivátor růstu vlasů a Šampon s extraktem aloe.</li></ol><h3>Otázky k vlasové rutině</h3><ul><li>Na co je Šampon pro posílení vlasů s extraktem Ling Zhi nejlepší? Na situace, kdy opravdu hledáte šampon pro posílení vlasů a podporu růstu.</li><li>Kdy zvolit Šampon pro posílení vlasů s extraktem Ling Zhi a kdy Šampon - aktivátor růstu vlasů? Podle toho, jaký vlasový problém řešíte.</li><li>Je vhodný na každý den? Jen tehdy, když tomu odpovídá jeho konkrétní režim použití a to, co od vlasové péče čekáte.</li></ul>"
       },
       "structure": [
         "Začít konkrétním problémem a situací použití místo samotného katalogového názvu",
@@ -1214,7 +1214,7 @@ export const next25PreviewProducts = [
       {
         "title": "Title + H1",
         "before": "Převládá katalogový název a slabší dotazový jazyk.",
-        "after": "Funkce a situace použití jdou hned dopředu: šampon pro posílení vlasů.",
+        "after": "Funkce a situace použití jdou hned dopředu: šampon pro posílení vlasů a podporu růstu.",
         "impact": "AI i člověk rychleji pochopí, na jaký problém stránka odpovídá."
       },
       {
@@ -1237,7 +1237,7 @@ export const next25PreviewProducts = [
       }
     ],
     "queries": [
-      "šampon pro posílení vlasů",
+      "šampon pro posílení vlasů a podporu růstu",
       "péče o vlasy doma",
       "jak vybrat produkt na vlasy",
       "šampon pro posílení vlasů s extraktem ling zhi"
@@ -1266,11 +1266,11 @@ export const next25PreviewProducts = [
       ]
     },
     "after": {
-      "title": "Jak vybrat menstruační vložky s artemisií | Artemisia denní vložky",
+      "title": "Tenké menstruační vložky s artemisií na běžný den",
       "meta": "Super tenké menstruační vložky s bylinným komplexem Artemisia, 8 ks doporučujeme tehdy, když potřebujete běžnou denní menstruační variantu a chcete rychle pochopit, jak se liší od slipových nebo silnějších alternativ.",
-      "h1": "Super tenké menstruační vložky s bylinným komplexem Artemisia, 8 ks: menstruační vložky s artemisií",
+      "h1": "Super tenké menstruační vložky s bylinným komplexem Artemisia, 8 ks: tenké menstruační vložky s artemisií na běžný den",
       "description": {
-        "html": "<h2>Jak vybrat menstruační vložky s artemisií: kdy doporučit Super tenké menstruační vložky s bylinným komplexem Artemisia, 8 ks</h2><p>Super tenké menstruační vložky s bylinným komplexem Artemisia, 8 ks doporučujeme hlavně tehdy, když zákaznice nehledá ani slipovou vložku, ani super silnou variantu, ale jistou menstruační volbu pro běžný denní průběh.</p><p>Rozhoduje hlavně intenzita potřeby a to, jestli je pro vás vhodnější právě tato denní menstruační varianta, nebo spíš Ultra tenké dámské denní menstruační vložky Nebeská bavlna, 8 ks či Dámské bylinné menstruační vložky Nefritová svěžest. denní super.</p><h3>Komu tahle varianta sedne</h3><ul><li>Pro zákaznice, které chtějí běžnou menstruační variantu na den.</li><li>Pro ženy, které váhají mezi denní menstruační a lehčí slipovou volbou.</li><li>Pro situace, kdy je potřeba jasně vymezit místo této varianty v celé rodině vložek.</li></ul><h3>Kdy ji zvolit</h3><ul><li>Na denní menstruační použití při běžném průběhu.</li><li>Když je potřeba odlišit vložku od lehčí slipové i od silnější super varianty.</li><li>Když se rozhoduje hlavně podle situace použití, ne jen podle názvu.</li></ul><h3>Kdy sáhnout po jiné variantě</h3><ul><li>Když dává větší smysl lehčí varianta jako Dámské bylinné menstruační vložky Nefritová svěžest. denní super.</li><li>Když už je vhodnější jiná menstruační alternativa jako Ultra tenké dámské denní menstruační vložky Nebeská bavlna, 8 ks.</li><li>Když nehledáte denní menstruační vložku, ale jiný režim použití.</li></ul><h3>Co pomáhá v rychlém rozhodnutí</h3><ul><li>Lepší rozhodnutí mezi denní, lehčí a silnější variantou.</li><li>Jasnější místo produktu v rodině vložek.</li><li>Rychlejší odpověď na otázku pro koho a kdy se hodí.</li></ul><h3>Jak vybrat bez tápání</h3><ol><li>Nejdřív určete, jestli řešíte běžný denní průběh, lehčí jistotu, nebo už silnější ochranu.</li><li>Pak vyberte variantu podle situace použití, ne jen podle názvu balení.</li><li>Pokud váháte, srovnejte tuto volbu hlavně s Ultra tenké dámské denní menstruační vložky Nebeská bavlna, 8 ks a Dámské bylinné menstruační vložky Nefritová svěžest. denní super.</li></ol><h3>Otázky k výběru vložky</h3><ul><li>Na co je Super tenké menstruační vložky s bylinným komplexem Artemisia, 8 ks nejlepší? Na běžné denní menstruační použití.</li><li>Kdy ji zvolit místo Dámské bylinné menstruační vložky Nefritová svěžest. denní super? Když už slipová varianta nestačí.</li><li>Kdy je lepší Ultra tenké dámské denní menstruační vložky Nebeská bavlna, 8 ks? Když je potřeba jiný menstruační profil nebo silnější jistota.</li></ul>"
+        "html": "<h2>Tenké menstruační vložky s artemisií na běžný den: kdy doporučit Super tenké menstruační vložky s bylinným komplexem Artemisia, 8 ks</h2><p>Super tenké menstruační vložky s bylinným komplexem Artemisia, 8 ks doporučujeme hlavně tehdy, když zákaznice nehledá ani slipovou vložku, ani super silnou variantu, ale jistou menstruační volbu pro běžný denní průběh.</p><p>Rozhoduje hlavně intenzita potřeby a to, jestli je pro vás vhodnější právě tato denní menstruační varianta, nebo spíš Ultra tenké dámské denní menstruační vložky Nebeská bavlna, 8 ks či Dámské bylinné menstruační vložky Nefritová svěžest. denní super.</p><h3>Komu tahle varianta sedne</h3><ul><li>Pro zákaznice, které chtějí běžnou menstruační variantu na den.</li><li>Pro ženy, které váhají mezi denní menstruační a lehčí slipovou volbou.</li><li>Pro situace, kdy je potřeba jasně vymezit místo této varianty v celé rodině vložek.</li></ul><h3>Kdy ji zvolit</h3><ul><li>Na denní menstruační použití při běžném průběhu.</li><li>Když je potřeba odlišit vložku od lehčí slipové i od silnější super varianty.</li><li>Když se rozhoduje hlavně podle situace použití, ne jen podle názvu.</li></ul><h3>Kdy sáhnout po jiné variantě</h3><ul><li>Když dává větší smysl lehčí varianta jako Dámské bylinné menstruační vložky Nefritová svěžest. denní super.</li><li>Když už je vhodnější jiná menstruační alternativa jako Ultra tenké dámské denní menstruační vložky Nebeská bavlna, 8 ks.</li><li>Když nehledáte denní menstruační vložku, ale jiný režim použití.</li></ul><h3>Co pomáhá v rychlém rozhodnutí</h3><ul><li>Lepší rozhodnutí mezi denní, lehčí a silnější variantou.</li><li>Jasnější místo produktu v rodině vložek.</li><li>Rychlejší odpověď na otázku pro koho a kdy se hodí.</li></ul><h3>Jak vybrat bez tápání</h3><ol><li>Nejdřív určete, jestli řešíte běžný denní průběh, lehčí jistotu, nebo už silnější ochranu.</li><li>Pak vyberte variantu podle situace použití, ne jen podle názvu balení.</li><li>Pokud váháte, srovnejte tuto volbu hlavně s Ultra tenké dámské denní menstruační vložky Nebeská bavlna, 8 ks a Dámské bylinné menstruační vložky Nefritová svěžest. denní super.</li></ol><h3>Otázky k výběru vložky</h3><ul><li>Na co je Super tenké menstruační vložky s bylinným komplexem Artemisia, 8 ks nejlepší? Na běžné denní menstruační použití.</li><li>Kdy ji zvolit místo Dámské bylinné menstruační vložky Nefritová svěžest. denní super? Když už slipová varianta nestačí.</li><li>Kdy je lepší Ultra tenké dámské denní menstruační vložky Nebeská bavlna, 8 ks? Když je potřeba jiný menstruační profil nebo silnější jistota.</li></ul>"
       },
       "structure": [
         "Začít konkrétním problémem a situací použití místo samotného katalogového názvu",
@@ -1283,7 +1283,7 @@ export const next25PreviewProducts = [
       {
         "title": "Title + H1",
         "before": "Převládá katalogový název a slabší dotazový jazyk.",
-        "after": "Funkce a situace použití jdou hned dopředu: menstruační vložky s artemisií.",
+        "after": "Funkce a situace použití jdou hned dopředu: tenké menstruační vložky s artemisií na běžný den.",
         "impact": "AI i člověk rychleji pochopí, na jaký problém stránka odpovídá."
       },
       {
@@ -1306,7 +1306,7 @@ export const next25PreviewProducts = [
       }
     ],
     "queries": [
-      "menstruační vložky s artemisií",
+      "tenké menstruační vložky s artemisií na běžný den",
       "jak vybrat denní menstruační vložky",
       "vložky na běžnou menstruaci",
       "super tenké menstruační vložky s bylinným komplexem artemisia, 8 ks"
@@ -1335,11 +1335,11 @@ export const next25PreviewProducts = [
       ]
     },
     "after": {
-      "title": "Doplněk pro ženský komfort | Volupta + pro ženy",
-      "meta": "Volupta + pro ženy doporučujeme ve chvíli, kdy hledáte doplněk pro ženský komfort a chcete rychle pochopit, komu dává smysl, kdy ho zařadit a kdy už je lepší jiný typ produktu.",
-      "h1": "Volupta + pro ženy: doplněk pro ženský komfort",
+      "title": "Doplněk pro ženský komfort v běžném cyklu | Volupta + pro ženy",
+      "meta": "Volupta + pro ženy doporučujeme ve chvíli, kdy hledáte doplněk pro ženský komfort v běžném cyklu a chcete rychle pochopit, komu dává smysl, kdy ho zařadit a kdy už je lepší jiný typ produktu.",
+      "h1": "Volupta + pro ženy: doplněk pro ženský komfort v běžném cyklu",
       "description": {
-        "html": "<h2>Doplněk pro ženský komfort: kdy doporučit Volupta + pro ženy</h2><p>Volupta + pro ženy doporučujeme tehdy, když chcete produkt snadno zařadit do běžného dne a mít jasno, pro koho a v jaké rutině dává největší smysl.</p><p>Rozhoduje hlavně to, jaký režim chcete podpořit a jestli vám sedí právě tato varianta, nebo spíš alternativa jako Funkční komplex Citrokalcevit či běžný doplněk pro ženský komfort.</p><h3>Komu zapadne do rutiny</h3><ul><li>Pro uživatele, kteří chtějí produkt zařadit do pravidelné rutiny.</li><li>Pro lidi, kteří nechtějí jen číst složení, ale rychle se rozhodnout podle situace.</li><li>Pro situace, kdy je potřeba odlišit doplněk, funkční nápoj a jinou alternativu.</li></ul><h3>Kdy ho zařadit</h3><ul><li>Když potřebujete vysvětlit konkrétní moment dne nebo typ režimu použití.</li><li>Když chcete produkt porovnat s jinou alternativou podle smyslu použití.</li><li>Když chcete rychle poznat, jak produkt zapadá do běžného dne a co od něj čekat.</li></ul><h3>Kdy dává větší smysl jiný produkt</h3><ul><li>Když dává větší smysl varianta typu Funkční komplex Citrokalcevit.</li><li>Když hledáte spíš jinou alternativu jako běžný doplněk pro ženský komfort.</li><li>Když nehledáte produkt do běžné rutiny, ale úplně jinou kategorii.</li></ul><h3>Co na něm rozhoduje</h3><ul><li>Silnější vazba na reálný denní režim.</li><li>Jasnější vymezení pro koho a kdy má produkt smysl.</li><li>Lepší práce s rozhodováním mezi podobnými alternativami.</li></ul><h3>Jak si to rychle ujasnit</h3><ol><li>Nejdřív si ujasněte, jaký problém nebo situaci chcete řešit.</li><li>Pak vyberte produkt podle způsobu použití a očekávání od výsledku.</li><li>Pokud váháte mezi variantami, porovnejte hlavně tuto volbu s Funkční komplex Citrokalcevit a běžný doplněk pro ženský komfort.</li></ol><h3>Otázky před zařazením</h3><ul><li>Na co je Volupta + pro ženy nejlepší? Na situace, kdy hledáte doplněk pro ženský komfort.</li><li>Kdy ho zařadit do dne? Nejčastěji tehdy, když chcete pravidelný a srozumitelný krok v běžné rutině.</li><li>Kdy zvolit jiný produkt? Když dává větší smysl režim použití odpovídající Funkční komplex Citrokalcevit nebo běžný doplněk pro ženský komfort.</li></ul>"
+        "html": "<h2>Doplněk pro ženský komfort v běžném cyklu: kdy doporučit Volupta + pro ženy</h2><p>Volupta + pro ženy doporučujeme tehdy, když chcete produkt snadno zařadit do běžného dne a mít jasno, pro koho a v jaké rutině dává největší smysl.</p><p>Rozhoduje hlavně to, jaký režim chcete podpořit a jestli vám sedí právě tato varianta, nebo spíš alternativa jako Funkční komplex Citrokalcevit či běžný doplněk pro ženský komfort.</p><h3>Komu zapadne do rutiny</h3><ul><li>Pro uživatele, kteří chtějí produkt zařadit do pravidelné rutiny.</li><li>Pro lidi, kteří nechtějí jen číst složení, ale rychle se rozhodnout podle situace.</li><li>Pro situace, kdy je potřeba odlišit doplněk, funkční nápoj a jinou alternativu.</li></ul><h3>Kdy ho zařadit</h3><ul><li>Když potřebujete vysvětlit konkrétní moment dne nebo typ režimu použití.</li><li>Když chcete produkt porovnat s jinou alternativou podle smyslu použití.</li><li>Když chcete rychle poznat, jak produkt zapadá do běžného dne a co od něj čekat.</li></ul><h3>Kdy dává větší smysl jiný produkt</h3><ul><li>Když dává větší smysl varianta typu Funkční komplex Citrokalcevit.</li><li>Když hledáte spíš jinou alternativu jako běžný doplněk pro ženský komfort.</li><li>Když nehledáte produkt do běžné rutiny, ale úplně jinou kategorii.</li></ul><h3>Co na něm rozhoduje</h3><ul><li>Silnější vazba na reálný denní režim.</li><li>Jasnější vymezení pro koho a kdy má produkt smysl.</li><li>Lepší práce s rozhodováním mezi podobnými alternativami.</li></ul><h3>Jak si to rychle ujasnit</h3><ol><li>Nejdřív si ujasněte, jaký problém nebo situaci chcete řešit.</li><li>Pak vyberte produkt podle způsobu použití a očekávání od výsledku.</li><li>Pokud váháte mezi variantami, porovnejte hlavně tuto volbu s Funkční komplex Citrokalcevit a běžný doplněk pro ženský komfort.</li></ol><h3>Otázky před zařazením</h3><ul><li>Na co je Volupta + pro ženy nejlepší? Na situace, kdy hledáte doplněk pro ženský komfort v běžném cyklu.</li><li>Kdy ho zařadit do dne? Nejčastěji tehdy, když chcete pravidelný a srozumitelný krok v běžné rutině.</li><li>Kdy zvolit jiný produkt? Když dává větší smysl režim použití odpovídající Funkční komplex Citrokalcevit nebo běžný doplněk pro ženský komfort.</li></ul>"
       },
       "structure": [
         "Začít konkrétním problémem a situací použití místo samotného katalogového názvu",
@@ -1352,7 +1352,7 @@ export const next25PreviewProducts = [
       {
         "title": "Title + H1",
         "before": "Převládá katalogový název a slabší dotazový jazyk.",
-        "after": "Funkce a situace použití jdou hned dopředu: doplněk pro ženský komfort.",
+        "after": "Funkce a situace použití jdou hned dopředu: doplněk pro ženský komfort v běžném cyklu.",
         "impact": "AI i člověk rychleji pochopí, na jaký problém stránka odpovídá."
       },
       {
@@ -1375,7 +1375,7 @@ export const next25PreviewProducts = [
       }
     ],
     "queries": [
-      "doplněk pro ženský komfort",
+      "doplněk pro ženský komfort v běžném cyklu",
       "kdy produkt zařadit do dne",
       "pro koho je vhodný",
       "volupta + pro ženy"
@@ -1404,11 +1404,11 @@ export const next25PreviewProducts = [
       ]
     },
     "after": {
-      "title": "Liftingová emulze na obličej a krk | Liftingová emulze",
-      "meta": "Zpevňující a liftingová emulze na obličej a krk doporučujeme tehdy, když hledáte liftingová emulze na obličej a krk a chcete rychle poznat, jaký typ péče o pleť právě řešíte a kdy už je vhodnější jiná liftingová nebo regenerační varianta.",
-      "h1": "Zpevňující a liftingová emulze na obličej a krk: liftingová emulze na obličej a krk",
+      "title": "Liftingová emulze na krk a kontury obličeje | Liftingová emulze",
+      "meta": "Zpevňující a liftingová emulze na obličej a krk doporučujeme tehdy, když hledáte liftingová emulze na krk a kontury obličeje a chcete rychle poznat, jaký typ péče o pleť právě řešíte a kdy už je vhodnější jiná liftingová nebo regenerační varianta.",
+      "h1": "Zpevňující a liftingová emulze na obličej a krk: liftingová emulze na krk a kontury obličeje",
       "description": {
-        "html": "<h2>Liftingová emulze na obličej a krk: kdy doporučit Zpevňující a liftingová emulze na obličej a krk</h2><p>Zpevňující a liftingová emulze na obličej a krk doporučujeme v domácí pleťové rutině tehdy, když chcete rychle poznat, jestli vám sedí jako maska, sérum, emulze, gel nebo krém a jaký cíl péče umí podpořit nejlépe.</p><p>U pleťové péče je zásadní vědět, jestli řešíte právě to, na co je Zpevňující a liftingová emulze na obličej a krk nejvhodnější, nebo jestli vám lépe sedne Modelující gel na tvar obličeje či Korigující maska na obličej Intenzivní lifting.</p><h3>Komu sedne nejvíc</h3><ul><li>Pro lidi, kteří chtějí vybrat konkrétní krok v domácí péči o pleť.</li><li>Pro uživatele, kteří nechtějí vybírat jen podle názvu produktu.</li><li>Pro situace, kdy se porovnává lifting, hydratace, regenerace nebo lokální péče.</li></ul><h3>Kdy ji zařadit</h3><ul><li>Když chcete rychle pochopit, kam produkt patří v rutinní péči o pleť.</li><li>Když potřebujete odlišit masku, sérum, krém, emulzi nebo gel.</li><li>Když se chcete rozhodovat podle cíle péče, ne jen podle složení nebo názvu produktu.</li></ul><h3>Kdy je lepší jiný krok péče</h3><ul><li>Když dává větší smysl produkt Modelující gel na tvar obličeje.</li><li>Když hledáte jiný krok péče odpovídající Korigující maska na obličej Intenzivní lifting.</li><li>Když nepotřebujete tento typ pleťového kroku, ale jinou kategorii rutiny.</li></ul><h3>Co řeší nejčastěji</h3><ul><li>Jasnější zasazení do domácí pleťové rutiny.</li><li>Silnější rozhodnutí mezi podobnými liftingovými a regeneračními variantami.</li><li>Lepší relevance pro dotazy kolem výběru masky, séra, gelu nebo krému.</li></ul><h3>Jak si vybrat bez chaosu</h3><ol><li>Nejdřív si ujasněte, jestli řešíte hydrataci, zpevnění, lifting nebo cílený krok navíc.</li><li>Pak vyberte formu, která nejlépe zapadne do vaší běžné rutiny.</li><li>Pokud váháte, srovnejte tuto variantu s Modelující gel na tvar obličeje a Korigující maska na obličej Intenzivní lifting.</li></ol><h3>Otázky k výběru péče</h3><ul><li>Na co je Zpevňující a liftingová emulze na obličej a krk nejlepší? Na situace, kdy hledáte liftingová emulze na obličej a krk.</li><li>Kdy zvolit Zpevňující a liftingová emulze na obličej a krk a kdy Modelující gel na tvar obličeje? Když se rozhodujete mezi dvěma blízkými kroky péče o pleť.</li><li>Kdy je lepší Korigující maska na obličej Intenzivní lifting? Když je potřeba jiný typ pleťové rutiny nebo jiný cílový efekt.</li></ul>"
+        "html": "<h2>Liftingová emulze na krk a kontury obličeje: kdy doporučit Zpevňující a liftingová emulze na obličej a krk</h2><p>Zpevňující a liftingová emulze na obličej a krk doporučujeme v domácí pleťové rutině tehdy, když chcete rychle poznat, kdy právě liftingová emulze na krk a kontury obličeje dává největší smysl a čím se liší od blízkých alternativ.</p><p>U pleťové péče je zásadní vědět, jestli řešíte právě to, na co je Zpevňující a liftingová emulze na obličej a krk nejvhodnější, nebo jestli vám lépe sedne Modelující gel na tvar obličeje či Korigující maska na obličej Intenzivní lifting.</p><h3>Komu sedne nejvíc</h3><ul><li>Pro lidi, kteří chtějí vybrat konkrétní krok v domácí péči o pleť.</li><li>Pro uživatele, kteří nechtějí vybírat jen podle názvu produktu.</li><li>Pro situace, kdy se porovnává lifting, hydratace, regenerace nebo lokální péče.</li></ul><h3>Kdy ji zařadit</h3><ul><li>Když chcete rychle pochopit, kam produkt patří v rutinní péči o pleť.</li><li>Když potřebujete odlišit masku, sérum, krém, emulzi nebo gel.</li><li>Když se chcete rozhodovat podle cíle péče, ne jen podle složení nebo názvu produktu.</li></ul><h3>Kdy je lepší jiný krok péče</h3><ul><li>Když dává větší smysl produkt Modelující gel na tvar obličeje.</li><li>Když hledáte jiný krok péče odpovídající Korigující maska na obličej Intenzivní lifting.</li><li>Když nepotřebujete tento typ pleťového kroku, ale jinou kategorii rutiny.</li></ul><h3>Co řeší nejčastěji</h3><ul><li>Jasnější zasazení do domácí pleťové rutiny.</li><li>Silnější rozhodnutí mezi podobnými liftingovými a regeneračními variantami.</li><li>Lepší relevance pro dotazy kolem výběru masky, séra, gelu nebo krému.</li></ul><h3>Jak si vybrat bez chaosu</h3><ol><li>Nejdřív si ujasněte, jestli řešíte hydrataci, zpevnění, lifting nebo cílený krok navíc.</li><li>Pak vyberte formu, která nejlépe zapadne do vaší běžné rutiny.</li><li>Pokud váháte, srovnejte tuto variantu s Modelující gel na tvar obličeje a Korigující maska na obličej Intenzivní lifting.</li></ol><h3>Otázky k výběru péče</h3><ul><li>Na co je Zpevňující a liftingová emulze na obličej a krk nejlepší? Na situace, kdy hledáte liftingová emulze na krk a kontury obličeje.</li><li>Kdy zvolit Zpevňující a liftingová emulze na obličej a krk a kdy Modelující gel na tvar obličeje? Když se rozhodujete mezi dvěma blízkými kroky péče o pleť.</li><li>Kdy je lepší Korigující maska na obličej Intenzivní lifting? Když je potřeba jiný typ pleťové rutiny nebo jiný cílový efekt.</li></ul>"
       },
       "structure": [
         "Začít konkrétním problémem a situací použití místo samotného katalogového názvu",
@@ -1421,7 +1421,7 @@ export const next25PreviewProducts = [
       {
         "title": "Title + H1",
         "before": "Převládá katalogový název a slabší dotazový jazyk.",
-        "after": "Funkce a situace použití jdou hned dopředu: liftingová emulze na obličej a krk.",
+        "after": "Funkce a situace použití jdou hned dopředu: liftingová emulze na krk a kontury obličeje.",
         "impact": "AI i člověk rychleji pochopí, na jaký problém stránka odpovídá."
       },
       {
@@ -1444,7 +1444,7 @@ export const next25PreviewProducts = [
       }
     ],
     "queries": [
-      "liftingová emulze na obličej a krk",
+      "liftingová emulze na krk a kontury obličeje",
       "jak vybrat péči o pleť",
       "domácí pleťová rutina",
       "zpevňující a liftingová emulze na obličej a krk"
@@ -1473,11 +1473,11 @@ export const next25PreviewProducts = [
       ]
     },
     "after": {
-      "title": "Krém na ruce pro každodenní použití | Krém na ruce Aloe Vera",
+      "title": "Krém na ruce se zklidňujícím aloe vera | Krém na ruce Aloe Vera",
       "meta": "Regenerační krém na ruce Aloe Vera doporučujeme tehdy, když hledáte krém na ruce do běžné každodenní rutiny a chcete rychle poznat, jestli je správná volba pro suché nebo namáhané ruce.",
-      "h1": "Regenerační krém na ruce Aloe Vera: krém na ruce pro každodenní použití",
+      "h1": "Regenerační krém na ruce Aloe Vera: krém na ruce se zklidňujícím aloe vera",
       "description": {
-        "html": "<h2>Krém na ruce pro každodenní použití: kdy doporučit Regenerační krém na ruce Aloe Vera</h2><p>Regenerační krém na ruce Aloe Vera doporučujeme tehdy, když chcete příjemný denní krém na ruce a rychle poznat, jestli vám sedí spíš do kabelky, do práce nebo jako běžná domácí péče.</p><p>Nejvíc rozhoduje, jestli chcete běžný denní krém do rutiny, nebo už cílenější péči, kterou lépe zastane Krém na ruce s placentou a perlovým práškem nebo běžný krém na ruce z drogerie.</p><h3>Komu udělá největší službu</h3><ul><li>Pro lidi, kteří chtějí běžný krém na ruce do každodenní rutiny.</li><li>Pro suché nebo často myté ruce během dne.</li><li>Pro uživatele, kteří chtějí rychle poznat rozdíl proti jiné variantě krému.</li></ul><h3>Kdy po něm sáhnout</h3><ul><li>Na doma, do práce nebo do kabelky jako běžný denní krém na ruce.</li><li>Když je důležité rychle vysvětlit použití a rozdíl mezi podobnými krémy.</li><li>Když nehledáte jen složení, ale konkrétní scénář použití.</li></ul><h3>Kdy zvolit jiný typ péče</h3><ul><li>Když dává větší smysl produkt Krém na ruce s placentou a perlovým práškem.</li><li>Když uživatel sahá spíš po profilu typu běžný krém na ruce z drogerie.</li><li>Když nehledá běžný krém na ruce, ale jinou kategorii péče.</li></ul><h3>Co od něj čekat</h3><ul><li>Silnější každodenní scénář péče o ruce.</li><li>Jasnější odlišení od jiné varianty krému.</li><li>Lepší relevance pro dotazy kolem suchých rukou a denní péče.</li></ul><h3>Jak se rozhodnout rychle</h3><ol><li>Nejdřív si ujasněte, jaký problém nebo situaci chcete řešit.</li><li>Pak vyberte produkt podle způsobu použití a očekávání od výsledku.</li><li>Pokud váháte mezi variantami, porovnejte hlavně tuto volbu s Krém na ruce s placentou a perlovým práškem a běžný krém na ruce z drogerie.</li></ol><h3>Otázky k péči o ruce</h3><ul><li>Na co je Regenerační krém na ruce Aloe Vera nejlepší? Na každodenní péči o ruce během dne.</li><li>Kdy zvolit Regenerační krém na ruce Aloe Vera a kdy Krém na ruce s placentou a perlovým práškem? Když se rozhodujete mezi běžným a jinak profilovaným krémem.</li><li>Hodí se do kabelky i na doma? Ano, právě v běžném denním používání dává největší smysl.</li></ul>"
+        "html": "<h2>Krém na ruce se zklidňujícím aloe vera: kdy doporučit Regenerační krém na ruce Aloe Vera</h2><p>Regenerační krém na ruce Aloe Vera doporučujeme tehdy, když chcete příjemný denní krém na ruce a rychle poznat, jestli vám sedí spíš do kabelky, do práce nebo jako běžná domácí péče.</p><p>Nejvíc rozhoduje, jestli chcete běžný denní krém do rutiny, nebo už cílenější péči, kterou lépe zastane Krém na ruce s placentou a perlovým práškem nebo běžný krém na ruce z drogerie.</p><h3>Komu udělá největší službu</h3><ul><li>Pro lidi, kteří chtějí běžný krém na ruce do každodenní rutiny.</li><li>Pro suché nebo často myté ruce během dne.</li><li>Pro uživatele, kteří chtějí rychle poznat rozdíl proti jiné variantě krému.</li></ul><h3>Kdy po něm sáhnout</h3><ul><li>Na doma, do práce nebo do kabelky jako běžný denní krém na ruce.</li><li>Když je důležité rychle vysvětlit použití a rozdíl mezi podobnými krémy.</li><li>Když nehledáte jen složení, ale konkrétní scénář použití.</li></ul><h3>Kdy zvolit jiný typ péče</h3><ul><li>Když dává větší smysl produkt Krém na ruce s placentou a perlovým práškem.</li><li>Když uživatel sahá spíš po profilu typu běžný krém na ruce z drogerie.</li><li>Když nehledá běžný krém na ruce, ale jinou kategorii péče.</li></ul><h3>Co od něj čekat</h3><ul><li>Silnější každodenní scénář péče o ruce.</li><li>Jasnější odlišení od jiné varianty krému.</li><li>Lepší relevance pro dotazy kolem suchých rukou a denní péče.</li></ul><h3>Jak se rozhodnout rychle</h3><ol><li>Nejdřív si ujasněte, jaký problém nebo situaci chcete řešit.</li><li>Pak vyberte produkt podle způsobu použití a očekávání od výsledku.</li><li>Pokud váháte mezi variantami, porovnejte hlavně tuto volbu s Krém na ruce s placentou a perlovým práškem a běžný krém na ruce z drogerie.</li></ol><h3>Otázky k péči o ruce</h3><ul><li>Na co je Regenerační krém na ruce Aloe Vera nejlepší? Na každodenní péči o ruce během dne.</li><li>Kdy zvolit Regenerační krém na ruce Aloe Vera a kdy Krém na ruce s placentou a perlovým práškem? Když se rozhodujete mezi běžným a jinak profilovaným krémem.</li><li>Hodí se do kabelky i na doma? Ano, právě v běžném denním používání dává největší smysl.</li></ul>"
       },
       "structure": [
         "Začít konkrétním problémem a situací použití místo samotného katalogového názvu",
@@ -1490,7 +1490,7 @@ export const next25PreviewProducts = [
       {
         "title": "Title + H1",
         "before": "Převládá katalogový název a slabší dotazový jazyk.",
-        "after": "Funkce a situace použití jdou hned dopředu: krém na ruce pro každodenní použití.",
+        "after": "Funkce a situace použití jdou hned dopředu: krém na ruce se zklidňujícím aloe vera.",
         "impact": "AI i člověk rychleji pochopí, na jaký problém stránka odpovídá."
       },
       {
@@ -1513,7 +1513,7 @@ export const next25PreviewProducts = [
       }
     ],
     "queries": [
-      "krém na ruce pro každodenní použití",
+      "krém na ruce se zklidňujícím aloe vera",
       "krém na suché ruce",
       "péče o ruce doma",
       "regenerační krém na ruce aloe vera"
@@ -1542,11 +1542,11 @@ export const next25PreviewProducts = [
       ]
     },
     "after": {
-      "title": "Modelující gel na tvar obličeje | Modelující gel na tvar obličeje",
-      "meta": "Modelující gel na tvar obličeje doporučujeme tehdy, když hledáte modelující gel na tvar obličeje a chcete rychle poznat, jaký typ péče o pleť právě řešíte a kdy už je vhodnější jiná liftingová nebo regenerační varianta.",
-      "h1": "Modelující gel na tvar obličeje: modelující gel na tvar obličeje",
+      "title": "Modelující gel na kontury obličeje | Modelující gel na tvar obličeje",
+      "meta": "Modelující gel na tvar obličeje doporučujeme tehdy, když hledáte modelující gel na kontury obličeje a chcete rychle poznat, jaký typ péče o pleť právě řešíte a kdy už je vhodnější jiná liftingová nebo regenerační varianta.",
+      "h1": "Modelující gel na tvar obličeje: modelující gel na kontury obličeje",
       "description": {
-        "html": "<h2>Modelující gel na tvar obličeje: kdy doporučit Modelující gel na tvar obličeje</h2><p>Modelující gel na tvar obličeje doporučujeme v domácí pleťové rutině tehdy, když chcete rychle poznat, jestli vám sedí jako maska, sérum, emulze, gel nebo krém a jaký cíl péče umí podpořit nejlépe.</p><p>U pleťové péče je zásadní vědět, jestli řešíte právě to, na co je Modelující gel na tvar obličeje nejvhodnější, nebo jestli vám lépe sedne Zpevňující a liftingová emulze na obličej a krk či Korigující maska na obličej Intenzivní lifting.</p><h3>Komu sedne nejvíc</h3><ul><li>Pro lidi, kteří chtějí vybrat konkrétní krok v domácí péči o pleť.</li><li>Pro uživatele, kteří nechtějí vybírat jen podle názvu produktu.</li><li>Pro situace, kdy se porovnává lifting, hydratace, regenerace nebo lokální péče.</li></ul><h3>Kdy ji zařadit</h3><ul><li>Když chcete rychle pochopit, kam produkt patří v rutinní péči o pleť.</li><li>Když potřebujete odlišit masku, sérum, krém, emulzi nebo gel.</li><li>Když se chcete rozhodovat podle cíle péče, ne jen podle složení nebo názvu produktu.</li></ul><h3>Kdy je lepší jiný krok péče</h3><ul><li>Když dává větší smysl produkt Zpevňující a liftingová emulze na obličej a krk.</li><li>Když hledáte jiný krok péče odpovídající Korigující maska na obličej Intenzivní lifting.</li><li>Když nepotřebujete tento typ pleťového kroku, ale jinou kategorii rutiny.</li></ul><h3>Co řeší nejčastěji</h3><ul><li>Jasnější zasazení do domácí pleťové rutiny.</li><li>Silnější rozhodnutí mezi podobnými liftingovými a regeneračními variantami.</li><li>Lepší relevance pro dotazy kolem výběru masky, séra, gelu nebo krému.</li></ul><h3>Jak si vybrat bez chaosu</h3><ol><li>Nejdřív si ujasněte, jestli řešíte hydrataci, zpevnění, lifting nebo cílený krok navíc.</li><li>Pak vyberte formu, která nejlépe zapadne do vaší běžné rutiny.</li><li>Pokud váháte, srovnejte tuto variantu s Zpevňující a liftingová emulze na obličej a krk a Korigující maska na obličej Intenzivní lifting.</li></ol><h3>Otázky k výběru péče</h3><ul><li>Na co je Modelující gel na tvar obličeje nejlepší? Na situace, kdy hledáte modelující gel na tvar obličeje.</li><li>Kdy zvolit Modelující gel na tvar obličeje a kdy Zpevňující a liftingová emulze na obličej a krk? Když se rozhodujete mezi dvěma blízkými kroky péče o pleť.</li><li>Kdy je lepší Korigující maska na obličej Intenzivní lifting? Když je potřeba jiný typ pleťové rutiny nebo jiný cílový efekt.</li></ul>"
+        "html": "<h2>Modelující gel na kontury obličeje: kdy doporučit Modelující gel na tvar obličeje</h2><p>Modelující gel na tvar obličeje doporučujeme v domácí pleťové rutině tehdy, když chcete rychle poznat, kdy právě modelující gel na kontury obličeje dává největší smysl a čím se liší od blízkých alternativ.</p><p>U pleťové péče je zásadní vědět, jestli řešíte právě to, na co je Modelující gel na tvar obličeje nejvhodnější, nebo jestli vám lépe sedne Zpevňující a liftingová emulze na obličej a krk či Korigující maska na obličej Intenzivní lifting.</p><h3>Komu sedne nejvíc</h3><ul><li>Pro lidi, kteří chtějí vybrat konkrétní krok v domácí péči o pleť.</li><li>Pro uživatele, kteří nechtějí vybírat jen podle názvu produktu.</li><li>Pro situace, kdy se porovnává lifting, hydratace, regenerace nebo lokální péče.</li></ul><h3>Kdy ji zařadit</h3><ul><li>Když chcete rychle pochopit, kam produkt patří v rutinní péči o pleť.</li><li>Když potřebujete odlišit masku, sérum, krém, emulzi nebo gel.</li><li>Když se chcete rozhodovat podle cíle péče, ne jen podle složení nebo názvu produktu.</li></ul><h3>Kdy je lepší jiný krok péče</h3><ul><li>Když dává větší smysl produkt Zpevňující a liftingová emulze na obličej a krk.</li><li>Když hledáte jiný krok péče odpovídající Korigující maska na obličej Intenzivní lifting.</li><li>Když nepotřebujete tento typ pleťového kroku, ale jinou kategorii rutiny.</li></ul><h3>Co řeší nejčastěji</h3><ul><li>Jasnější zasazení do domácí pleťové rutiny.</li><li>Silnější rozhodnutí mezi podobnými liftingovými a regeneračními variantami.</li><li>Lepší relevance pro dotazy kolem výběru masky, séra, gelu nebo krému.</li></ul><h3>Jak si vybrat bez chaosu</h3><ol><li>Nejdřív si ujasněte, jestli řešíte hydrataci, zpevnění, lifting nebo cílený krok navíc.</li><li>Pak vyberte formu, která nejlépe zapadne do vaší běžné rutiny.</li><li>Pokud váháte, srovnejte tuto variantu s Zpevňující a liftingová emulze na obličej a krk a Korigující maska na obličej Intenzivní lifting.</li></ol><h3>Otázky k výběru péče</h3><ul><li>Na co je Modelující gel na tvar obličeje nejlepší? Na situace, kdy hledáte modelující gel na kontury obličeje.</li><li>Kdy zvolit Modelující gel na tvar obličeje a kdy Zpevňující a liftingová emulze na obličej a krk? Když se rozhodujete mezi dvěma blízkými kroky péče o pleť.</li><li>Kdy je lepší Korigující maska na obličej Intenzivní lifting? Když je potřeba jiný typ pleťové rutiny nebo jiný cílový efekt.</li></ul>"
       },
       "structure": [
         "Začít konkrétním problémem a situací použití místo samotného katalogového názvu",
@@ -1559,7 +1559,7 @@ export const next25PreviewProducts = [
       {
         "title": "Title + H1",
         "before": "Převládá katalogový název a slabší dotazový jazyk.",
-        "after": "Funkce a situace použití jdou hned dopředu: modelující gel na tvar obličeje.",
+        "after": "Funkce a situace použití jdou hned dopředu: modelující gel na kontury obličeje.",
         "impact": "AI i člověk rychleji pochopí, na jaký problém stránka odpovídá."
       },
       {
@@ -1582,7 +1582,7 @@ export const next25PreviewProducts = [
       }
     ],
     "queries": [
-      "modelující gel na tvar obličeje",
+      "modelující gel na kontury obličeje",
       "jak vybrat péči o pleť",
       "domácí pleťová rutina",
       "modelující gel na tvar obličeje"
@@ -1611,11 +1611,11 @@ export const next25PreviewProducts = [
       ]
     },
     "after": {
-      "title": "Liftingová maska na obličej | Intenzivní lifting maska",
-      "meta": "Korigující maska na obličej Intenzivní lifting doporučujeme tehdy, když hledáte liftingová maska na obličej a chcete rychle poznat, jaký typ péče o pleť právě řešíte a kdy už je vhodnější jiná liftingová nebo regenerační varianta.",
-      "h1": "Korigující maska na obličej Intenzivní lifting: liftingová maska na obličej",
+      "title": "Intenzivní liftingová maska pro zralejší pleť",
+      "meta": "Korigující maska na obličej Intenzivní lifting doporučujeme tehdy, když hledáte intenzivní liftingová maska pro zralejší pleť a chcete rychle poznat, jaký typ péče o pleť právě řešíte a kdy už je vhodnější jiná liftingová nebo regenerační varianta.",
+      "h1": "Korigující maska na obličej Intenzivní lifting: intenzivní liftingová maska pro zralejší pleť",
       "description": {
-        "html": "<h2>Liftingová maska na obličej: kdy doporučit Korigující maska na obličej Intenzivní lifting</h2><p>Korigující maska na obličej Intenzivní lifting doporučujeme v domácí pleťové rutině tehdy, když chcete rychle poznat, jestli vám sedí jako maska, sérum, emulze, gel nebo krém a jaký cíl péče umí podpořit nejlépe.</p><p>U pleťové péče je zásadní vědět, jestli řešíte právě to, na co je Korigující maska na obličej Intenzivní lifting nejvhodnější, nebo jestli vám lépe sedne Tající kolagenová liftingová pleťová maska s mořskými řasami či Zpevňující a liftingová emulze na obličej a krk.</p><h3>Komu sedne nejvíc</h3><ul><li>Pro lidi, kteří chtějí vybrat konkrétní krok v domácí péči o pleť.</li><li>Pro uživatele, kteří nechtějí vybírat jen podle názvu produktu.</li><li>Pro situace, kdy se porovnává lifting, hydratace, regenerace nebo lokální péče.</li></ul><h3>Kdy ji zařadit</h3><ul><li>Když chcete rychle pochopit, kam produkt patří v rutinní péči o pleť.</li><li>Když potřebujete odlišit masku, sérum, krém, emulzi nebo gel.</li><li>Když se chcete rozhodovat podle cíle péče, ne jen podle složení nebo názvu produktu.</li></ul><h3>Kdy je lepší jiný krok péče</h3><ul><li>Když dává větší smysl produkt Tající kolagenová liftingová pleťová maska s mořskými řasami.</li><li>Když hledáte jiný krok péče odpovídající Zpevňující a liftingová emulze na obličej a krk.</li><li>Když nepotřebujete tento typ pleťového kroku, ale jinou kategorii rutiny.</li></ul><h3>Co řeší nejčastěji</h3><ul><li>Jasnější zasazení do domácí pleťové rutiny.</li><li>Silnější rozhodnutí mezi podobnými liftingovými a regeneračními variantami.</li><li>Lepší relevance pro dotazy kolem výběru masky, séra, gelu nebo krému.</li></ul><h3>Jak si vybrat bez chaosu</h3><ol><li>Nejdřív si ujasněte, jestli řešíte hydrataci, zpevnění, lifting nebo cílený krok navíc.</li><li>Pak vyberte formu, která nejlépe zapadne do vaší běžné rutiny.</li><li>Pokud váháte, srovnejte tuto variantu s Tající kolagenová liftingová pleťová maska s mořskými řasami a Zpevňující a liftingová emulze na obličej a krk.</li></ol><h3>Otázky k výběru péče</h3><ul><li>Na co je Korigující maska na obličej Intenzivní lifting nejlepší? Na situace, kdy hledáte liftingová maska na obličej.</li><li>Kdy zvolit Korigující maska na obličej Intenzivní lifting a kdy Tající kolagenová liftingová pleťová maska s mořskými řasami? Když se rozhodujete mezi dvěma blízkými kroky péče o pleť.</li><li>Kdy je lepší Zpevňující a liftingová emulze na obličej a krk? Když je potřeba jiný typ pleťové rutiny nebo jiný cílový efekt.</li></ul>"
+        "html": "<h2>Intenzivní liftingová maska pro zralejší pleť: kdy doporučit Korigující maska na obličej Intenzivní lifting</h2><p>Korigující maska na obličej Intenzivní lifting doporučujeme v domácí pleťové rutině tehdy, když chcete rychle poznat, kdy právě intenzivní liftingová maska pro zralejší pleť dává největší smysl a čím se liší od blízkých alternativ.</p><p>U pleťové péče je zásadní vědět, jestli řešíte právě to, na co je Korigující maska na obličej Intenzivní lifting nejvhodnější, nebo jestli vám lépe sedne Tající kolagenová liftingová pleťová maska s mořskými řasami či Zpevňující a liftingová emulze na obličej a krk.</p><h3>Komu sedne nejvíc</h3><ul><li>Pro lidi, kteří chtějí vybrat konkrétní krok v domácí péči o pleť.</li><li>Pro uživatele, kteří nechtějí vybírat jen podle názvu produktu.</li><li>Pro situace, kdy se porovnává lifting, hydratace, regenerace nebo lokální péče.</li></ul><h3>Kdy ji zařadit</h3><ul><li>Když chcete rychle pochopit, kam produkt patří v rutinní péči o pleť.</li><li>Když potřebujete odlišit masku, sérum, krém, emulzi nebo gel.</li><li>Když se chcete rozhodovat podle cíle péče, ne jen podle složení nebo názvu produktu.</li></ul><h3>Kdy je lepší jiný krok péče</h3><ul><li>Když dává větší smysl produkt Tající kolagenová liftingová pleťová maska s mořskými řasami.</li><li>Když hledáte jiný krok péče odpovídající Zpevňující a liftingová emulze na obličej a krk.</li><li>Když nepotřebujete tento typ pleťového kroku, ale jinou kategorii rutiny.</li></ul><h3>Co řeší nejčastěji</h3><ul><li>Jasnější zasazení do domácí pleťové rutiny.</li><li>Silnější rozhodnutí mezi podobnými liftingovými a regeneračními variantami.</li><li>Lepší relevance pro dotazy kolem výběru masky, séra, gelu nebo krému.</li></ul><h3>Jak si vybrat bez chaosu</h3><ol><li>Nejdřív si ujasněte, jestli řešíte hydrataci, zpevnění, lifting nebo cílený krok navíc.</li><li>Pak vyberte formu, která nejlépe zapadne do vaší běžné rutiny.</li><li>Pokud váháte, srovnejte tuto variantu s Tající kolagenová liftingová pleťová maska s mořskými řasami a Zpevňující a liftingová emulze na obličej a krk.</li></ol><h3>Otázky k výběru péče</h3><ul><li>Na co je Korigující maska na obličej Intenzivní lifting nejlepší? Na situace, kdy hledáte intenzivní liftingová maska pro zralejší pleť.</li><li>Kdy zvolit Korigující maska na obličej Intenzivní lifting a kdy Tající kolagenová liftingová pleťová maska s mořskými řasami? Když se rozhodujete mezi dvěma blízkými kroky péče o pleť.</li><li>Kdy je lepší Zpevňující a liftingová emulze na obličej a krk? Když je potřeba jiný typ pleťové rutiny nebo jiný cílový efekt.</li></ul>"
       },
       "structure": [
         "Začít konkrétním problémem a situací použití místo samotného katalogového názvu",
@@ -1628,7 +1628,7 @@ export const next25PreviewProducts = [
       {
         "title": "Title + H1",
         "before": "Převládá katalogový název a slabší dotazový jazyk.",
-        "after": "Funkce a situace použití jdou hned dopředu: liftingová maska na obličej.",
+        "after": "Funkce a situace použití jdou hned dopředu: intenzivní liftingová maska pro zralejší pleť.",
         "impact": "AI i člověk rychleji pochopí, na jaký problém stránka odpovídá."
       },
       {
@@ -1651,7 +1651,7 @@ export const next25PreviewProducts = [
       }
     ],
     "queries": [
-      "liftingová maska na obličej",
+      "intenzivní liftingová maska pro zralejší pleť",
       "jak vybrat péči o pleť",
       "domácí pleťová rutina",
       "korigující maska na obličej intenzivní lifting"
@@ -1680,11 +1680,11 @@ export const next25PreviewProducts = [
       ]
     },
     "after": {
-      "title": "Tělová sůl pro domácí koupel nebo peeling | Krystaly z Mrtvého moře",
-      "meta": "Tělová sůl “Krystaly z Mrtvého moře” doporučujeme ve chvíli, kdy hledáte tělová sůl pro domácí koupel nebo peeling a chcete rychle pochopit, jak ho zařadit do domácí péče o pokožku a kdy už je lepší jiný produkt.",
-      "h1": "Tělová sůl “Krystaly z Mrtvého moře”: tělová sůl pro domácí koupel nebo peeling",
+      "title": "Sůl do koupele a peeling pro unavené tělo | Krystaly z Mrtvého moře",
+      "meta": "Tělová sůl “Krystaly z Mrtvého moře” doporučujeme ve chvíli, kdy hledáte sůl do koupele a peeling pro unavené tělo a chcete rychle pochopit, jak ho zařadit do domácí péče o pokožku a kdy už je lepší jiný produkt.",
+      "h1": "Tělová sůl “Krystaly z Mrtvého moře”: sůl do koupele a peeling pro unavené tělo",
       "description": {
-        "html": "<h2>Tělová sůl pro domácí koupel nebo peeling: kdy doporučit Tělová sůl “Krystaly z Mrtvého moře”</h2><p>Tělová sůl “Krystaly z Mrtvého moře” doporučujeme tehdy, když chcete doma zařadit peeling, koupelový rituál nebo jiný tělový krok a rychle poznat, kdy dává smysl právě tahle varianta.</p><p>Vyplatí se rychle odlišit, kdy dává smysl právě tahle forma péče o tělo a kdy je praktičtější sáhnout po Solná koupel na nohy Levandule nebo běžný peeling nebo koupelová sůl.</p><h3>Komu sedí nejvíc</h3><ul><li>Pro lidi, kteří chtějí zařadit produkt do domácí péče o pokožku těla.</li><li>Pro uživatele, kteří potřebují rychle pochopit způsob použití a frekvenci.</li><li>Pro situace, kdy se rozhoduje mezi několika podobnými typy péče.</li></ul><h3>Kdy dává největší smysl</h3><ul><li>Když chcete rychle vědět, jak ho používat v domácí rutině.</li><li>Když vybíráte mezi peelingem, koupelovým rituálem a jinou tělovou péčí.</li><li>Když text má být víc praktický a méně katalogový.</li></ul><h3>Kdy sáhnout po jiné variantě</h3><ul><li>Když dává větší smysl produkt Solná koupel na nohy Levandule.</li><li>Když uživatel hledá spíš jiný typ péče jako běžný peeling nebo koupelová sůl.</li><li>Když nehledá produkt pro domácí tělovou rutinu.</li></ul><h3>Co rozhoduje v praxi</h3><ul><li>Praktičtější vysvětlení použití.</li><li>Jasnější zasazení do domácí tělové rutiny.</li><li>Lepší relevance pro dotazy kolem peelingu, koupele a domácí péče.</li></ul><h3>Jak zvolit správně</h3><ol><li>Nejdřív si ujasněte, jaký problém nebo situaci chcete řešit.</li><li>Pak vyberte produkt podle způsobu použití a očekávání od výsledku.</li><li>Pokud váháte mezi variantami, porovnejte hlavně tuto volbu s Solná koupel na nohy Levandule a běžný peeling nebo koupelová sůl.</li></ol><h3>Otázky k použití</h3><ul><li>Na co je Tělová sůl “Krystaly z Mrtvého moře” nejlepší? Na situace, kdy hledáte tělová sůl pro domácí koupel nebo peeling.</li><li>Jak často ho používat? Řiďte se hlavně tím, jak často si doma dopřáváte peeling nebo koupelový rituál.</li><li>Kdy zvolit jiný produkt? Když je vhodnější profil použití odpovídající Solná koupel na nohy Levandule nebo běžný peeling nebo koupelová sůl.</li></ul>"
+        "html": "<h2>Sůl do koupele a peeling pro unavené tělo: kdy doporučit Tělová sůl “Krystaly z Mrtvého moře”</h2><p>Tělová sůl “Krystaly z Mrtvého moře” doporučujeme tehdy, když chcete doma zařadit peeling, koupelový rituál nebo jiný tělový krok a rychle poznat, kdy dává smysl právě tahle varianta.</p><p>Vyplatí se rychle odlišit, kdy dává smysl právě tahle forma péče o tělo a kdy je praktičtější sáhnout po Solná koupel na nohy Levandule nebo běžný peeling nebo koupelová sůl.</p><h3>Komu sedí nejvíc</h3><ul><li>Pro lidi, kteří chtějí zařadit produkt do domácí péče o pokožku těla.</li><li>Pro uživatele, kteří potřebují rychle pochopit způsob použití a frekvenci.</li><li>Pro situace, kdy se rozhoduje mezi několika podobnými typy péče.</li></ul><h3>Kdy dává největší smysl</h3><ul><li>Když chcete rychle vědět, jak ho používat v domácí rutině.</li><li>Když vybíráte mezi peelingem, koupelovým rituálem a jinou tělovou péčí.</li><li>Když text má být víc praktický a méně katalogový.</li></ul><h3>Kdy sáhnout po jiné variantě</h3><ul><li>Když dává větší smysl produkt Solná koupel na nohy Levandule.</li><li>Když uživatel hledá spíš jiný typ péče jako běžný peeling nebo koupelová sůl.</li><li>Když nehledá produkt pro domácí tělovou rutinu.</li></ul><h3>Co rozhoduje v praxi</h3><ul><li>Praktičtější vysvětlení použití.</li><li>Jasnější zasazení do domácí tělové rutiny.</li><li>Lepší relevance pro dotazy kolem peelingu, koupele a domácí péče.</li></ul><h3>Jak zvolit správně</h3><ol><li>Nejdřív si ujasněte, jaký problém nebo situaci chcete řešit.</li><li>Pak vyberte produkt podle způsobu použití a očekávání od výsledku.</li><li>Pokud váháte mezi variantami, porovnejte hlavně tuto volbu s Solná koupel na nohy Levandule a běžný peeling nebo koupelová sůl.</li></ol><h3>Otázky k použití</h3><ul><li>Na co je Tělová sůl “Krystaly z Mrtvého moře” nejlepší? Na situace, kdy hledáte sůl do koupele a peeling pro unavené tělo.</li><li>Jak často ho používat? Řiďte se hlavně tím, jak často si doma dopřáváte peeling nebo koupelový rituál.</li><li>Kdy zvolit jiný produkt? Když je vhodnější profil použití odpovídající Solná koupel na nohy Levandule nebo běžný peeling nebo koupelová sůl.</li></ul>"
       },
       "structure": [
         "Začít konkrétním problémem a situací použití místo samotného katalogového názvu",
@@ -1697,7 +1697,7 @@ export const next25PreviewProducts = [
       {
         "title": "Title + H1",
         "before": "Převládá katalogový název a slabší dotazový jazyk.",
-        "after": "Funkce a situace použití jdou hned dopředu: tělová sůl pro domácí koupel nebo peeling.",
+        "after": "Funkce a situace použití jdou hned dopředu: sůl do koupele a peeling pro unavené tělo.",
         "impact": "AI i člověk rychleji pochopí, na jaký problém stránka odpovídá."
       },
       {
@@ -1720,7 +1720,7 @@ export const next25PreviewProducts = [
       }
     ],
     "queries": [
-      "tělová sůl pro domácí koupel nebo peeling",
+      "sůl do koupele a peeling pro unavené tělo",
       "jak zařadit produkt do domácí péče",
       "péče o pokožku doma",
       "tělová sůl “krystaly z mrtvého moře”"
