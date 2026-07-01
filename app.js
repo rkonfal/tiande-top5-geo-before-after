@@ -1,25 +1,36 @@
 import { products } from "./products.js";
 import { previewProducts } from "./preview-products.js";
 import { upgradePreviewProducts } from "./upgrade-preview.js";
+import { next25PreviewProducts } from "./next25-preview.js";
 
 const heroStats = document.querySelector("#hero-stats");
 const liveRoot = document.querySelector("#products-root");
 const previewRoot = document.querySelector("#preview-products-root");
 const upgradeRoot = document.querySelector("#upgrade-preview-root");
+const next25Root = document.querySelector("#next25-preview-root");
 
-const allProducts = [...products, ...previewProducts];
+const allProducts = [...products, ...previewProducts, ...next25PreviewProducts];
 const totalUnits = allProducts.reduce((sum, product) => sum + product.ytdUnits, 0);
 const totalDiffBlocks = allProducts.reduce((sum, product) => sum + product.blockDiffs.length, 0);
 const productCodes = allProducts.map((product) => product.code).join(", ");
 
 heroStats.innerHTML = [
   statCard("Nasazeno", "25 produktů", "Všechna SKU v této microsite už jsou v produkci"),
+  statCard("Další vlna", `${next25PreviewProducts.length} produktů`, "Dalších 25 kusů připravených k náhledu"),
   statCard("Silnější upgrade", `${upgradePreviewProducts.length} produktů`, "Decision-page pattern nasazený na celé sadě"),
   statCard("Součet prodejů", formatNumber(totalUnits), "Kusy za rok 2026 v aktuálním okně"),
   statCard("Rozšířené bloky", `${totalDiffBlocks} změn`, "Rozpad po sekcích pro content tým"),
   statCard("Kódy", productCodes, "Produkty v ukázce")
 ].join("");
 
+next25Root.innerHTML = next25PreviewProducts
+  .map((product) =>
+    renderProduct(product, {
+      badge: "Další vlna k náhledu · směr 10/10",
+      afterLabel: "navržený finální GEO upgrade"
+    })
+  )
+  .join("");
 liveRoot.innerHTML = products
   .map((product) =>
     renderProduct(product, {
