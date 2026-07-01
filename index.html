@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="cs">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>TOP5 GEO popisy: před a po</title>
+    <meta
+      name="description"
+      content="Přehled TOP5 produktů TianDe podle YTD prodejů s ukázkou aktuálního stavu popisu a navrženého GEO přepisu pro AI doporučování."
+    >
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Manrope:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    >
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="hero">
+        <p class="eyebrow">Království TianDe • GEO / AI content audit</p>
+        <h1>TOP5 produktů: jak má vypadat popis před a po úpravě pro AI doporučování</h1>
+        <p class="hero-copy">
+          Výběr je dělaný podle YTD prodaných kusů. U každého produktu je vidět aktuální
+          stav, navržená nová textace a konkrétní vysvětlení, co se má změnit, aby stránka
+          lépe fungovala v klasickém SEO i v AI odpovědích.
+        </p>
+
+        <div class="hero-stats" id="hero-stats"></div>
+      </header>
+
+      <main>
+        <section class="principles">
+          <div class="section-head">
+            <p class="section-kicker">Co se mění napříč všemi popisy</p>
+            <h2>Nový pattern pro GEO</h2>
+          </div>
+
+          <div class="principles-grid">
+            <article class="principle-card">
+              <h3>1. Odpověď hned v úvodu</h3>
+              <p>
+                První dvě věty musí říct co to je, pro koho to je a kdy to doporučit.
+                Ne jen navodit atmosféru.
+              </p>
+            </article>
+            <article class="principle-card">
+              <h3>2. Query-first slovník</h3>
+              <p>
+                Do title, H1 i úvodu se dostávají formulace typu
+                <span class="inline-tag">gel na unavené nohy</span> nebo
+                <span class="inline-tag">intimní gel pro každodenní hygienu</span>.
+              </p>
+            </article>
+            <article class="principle-card">
+              <h3>3. Srovnání variant</h3>
+              <p>
+                U podobných produktů se explicitně popisuje rozdíl mezi variantami, aby AI
+                uměla správně vybírat.
+              </p>
+            </article>
+            <article class="principle-card">
+              <h3>4. Bloky pro doporučení</h3>
+              <p>
+                Každý produkt by měl mít jasné sekce
+                <span class="inline-tag">pro koho</span>,
+                <span class="inline-tag">kdy zvolit</span>,
+                <span class="inline-tag">kdy nezvolit</span> a krátké FAQ.
+              </p>
+            </article>
+          </div>
+        </section>
+
+        <section class="products-section">
+          <div class="section-head">
+            <p class="section-kicker">Ukázka na reálných bestsellerech</p>
+            <h2>TOP5 před a po</h2>
+          </div>
+          <div id="products-root" class="products-root"></div>
+        </section>
+      </main>
+    </div>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>
