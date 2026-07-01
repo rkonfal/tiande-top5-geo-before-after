@@ -13,10 +13,11 @@ const allProducts = [...products, ...previewProducts, ...next25PreviewProducts];
 const totalUnits = allProducts.reduce((sum, product) => sum + product.ytdUnits, 0);
 const totalDiffBlocks = allProducts.reduce((sum, product) => sum + product.blockDiffs.length, 0);
 const productCodes = allProducts.map((product) => product.code).join(", ");
+const deployedCount = products.length + previewProducts.length + next25PreviewProducts.length;
 
 heroStats.innerHTML = [
-  statCard("Nasazeno", "25 produktů", "Všechna SKU v této microsite už jsou v produkci"),
-  statCard("Další vlna", `${next25PreviewProducts.length} produktů`, "Dalších 25 kusů připravených k náhledu"),
+  statCard("Nasazeno", `${deployedCount} produktů`, "Všechna SKU v této microsite už jsou v produkci"),
+  statCard("Poslední vlna", `${next25PreviewProducts.length} produktů`, "Dalších 25 kusů už je nově nasazených v e-shopu"),
   statCard("Silnější upgrade", `${upgradePreviewProducts.length} produktů`, "Decision-page pattern nasazený na celé sadě"),
   statCard("Součet prodejů", formatNumber(totalUnits), "Kusy za rok 2026 v aktuálním okně"),
   statCard("Rozšířené bloky", `${totalDiffBlocks} změn`, "Rozpad po sekcích pro content tým"),
@@ -26,8 +27,8 @@ heroStats.innerHTML = [
 next25Root.innerHTML = next25PreviewProducts
   .map((product) =>
     renderProduct(product, {
-      badge: "Další vlna k náhledu · směr 10/10",
-      afterLabel: "navržený finální GEO upgrade"
+      badge: "Hotovo v produkci · finální GEO upgrade",
+      afterLabel: "finální produkční copy po ručním passu"
     })
   )
   .join("");
