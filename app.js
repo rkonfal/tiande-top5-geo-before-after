@@ -1,9 +1,11 @@
 import { products } from "./products.js";
 import { previewProducts } from "./preview-products.js";
+import { upgradePreviewProducts } from "./upgrade-preview.js";
 
 const heroStats = document.querySelector("#hero-stats");
 const liveRoot = document.querySelector("#products-root");
 const previewRoot = document.querySelector("#preview-products-root");
+const upgradeRoot = document.querySelector("#upgrade-preview-root");
 
 const allProducts = [...products, ...previewProducts];
 const totalUnits = allProducts.reduce((sum, product) => sum + product.ytdUnits, 0);
@@ -19,6 +21,7 @@ heroStats.innerHTML = [
 
 liveRoot.innerHTML = products.map((product) => renderProduct(product, "live")).join("");
 previewRoot.innerHTML = previewProducts.map((product) => renderProduct(product, "preview")).join("");
+upgradeRoot.innerHTML = upgradePreviewProducts.map((product) => renderProduct(product, "preview")).join("");
 
 function statCard(label, value, note) {
   return `
