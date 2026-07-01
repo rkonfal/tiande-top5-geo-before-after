@@ -4,12 +4,13 @@ const heroStats = document.querySelector("#hero-stats");
 const root = document.querySelector("#products-root");
 
 const totalUnits = products.reduce((sum, product) => sum + product.ytdUnits, 0);
+const totalDiffBlocks = products.reduce((sum, product) => sum + product.blockDiffs.length, 0);
 const productCodes = products.map((product) => product.code).join(", ");
 
 heroStats.innerHTML = [
   statCard("TOP výběr", "5 produktů", "Vybráno čistě podle YTD prodaných kusů"),
   statCard("Součet prodejů", formatNumber(totalUnits), "Kusy za rok 2026 v aktuálním okně"),
-  statCard("Největší problém", "varianty", "Hlavně u řady Nefritová svěžest"),
+  statCard("Rozšířené bloky", `${totalDiffBlocks} změn`, "Rozpad po sekcích pro content tým"),
   statCard("Kódy", productCodes, "Produkty v ukázce")
 ].join("");
 
@@ -37,7 +38,7 @@ function renderProduct(product) {
               <span class="pill">${formatNumber(product.ytdUnits)} ks YTD</span>
               <span class="pill">${product.price}</span>
             </div>
-            <h3>${product.title}</h3>
+            <h3>${escapeHtml(product.title)}</h3>
             <a class="product-link" href="${product.url}" target="_blank" rel="noreferrer">
               Otevřít aktuální produktovou stránku
             </a>
@@ -45,44 +46,70 @@ function renderProduct(product) {
         </div>
       </div>
 
-      <div class="product-columns">
-        <section class="product-column before">
-          <div class="column-head">
-            <h3>Před</h3>
-            <span class="mini-label">aktuální stav</span>
-          </div>
+      <section class="section-stack">
+        <div class="section-subhead">
+          <p class="section-kicker">SEO vrstva</p>
+          <h4>Title, meta, H1 a rozšířený popis</h4>
+        </div>
 
-          ${textBlock("Title", product.before.title)}
-          ${textBlock("Meta description", product.before.meta)}
-          ${textBlock("H1", product.before.h1)}
-          ${textBlock("Úvodní odstavec", product.before.intro)}
-        </section>
+        <div class="product-columns seo-columns">
+          <section class="product-column before">
+            <div class="column-head">
+              <h3>Před</h3>
+              <span class="mini-label">aktuální live web</span>
+            </div>
+            ${textBlock("Title", product.before.title)}
+            ${textBlock("Meta description", product.before.meta)}
+            ${textBlock("H1", product.before.h1)}
+          </section>
 
-        <section class="product-column after">
-          <div class="column-head">
-            <h3>Po</h3>
-            <span class="mini-label">navržený GEO přepis</span>
-          </div>
+          <section class="product-column after">
+            <div class="column-head">
+              <h3>Po</h3>
+              <span class="mini-label">navržený GEO přepis</span>
+            </div>
+            ${textBlock("Nový title", product.after.title)}
+            ${textBlock("Nová meta description", product.after.meta)}
+            ${textBlock("Nový H1", product.after.h1)}
+          </section>
+        </div>
+      </section>
 
-          ${textBlock("Nový title", product.after.title)}
-          ${textBlock("Nová meta description", product.after.meta)}
-          ${textBlock("Nový H1", product.after.h1)}
-          ${textBlock("Nový úvod", product.after.intro)}
-        </section>
-      </div>
+      <section class="section-stack">
+        <div class="section-subhead">
+          <p class="section-kicker">Rozšířený popis</p>
+          <h4>Celý blok product-description před a po</h4>
+        </div>
+
+        <div class="product-columns description-columns">
+          ${descriptionCard("Před", "aktuální product-description", "before", product.before.description)}
+          ${descriptionCard("Po", "navržený rozšířený popis", "after", product.after.description)}
+        </div>
+      </section>
+
+      <section class="section-stack">
+        <div class="section-subhead">
+          <p class="section-kicker">Blokový diff</p>
+          <h4>Co se má změnit po jednotlivých sekcích</h4>
+        </div>
+
+        <div class="diff-grid">
+          ${product.blockDiffs.map(renderDiffCard).join("")}
+        </div>
+      </section>
 
       <div class="change-grid">
         <section class="change-panel">
-          <h3>Co se má změnit</h3>
+          <h3>Co je dnes problém</h3>
           <ul class="change-list">
-            ${product.before.issues.map((item) => `<li>${item}</li>`).join("")}
+            ${product.before.issues.map((item) => `<li>${escapeHtml(item)}</li>`).join("")}
           </ul>
         </section>
 
         <section class="change-panel">
           <h3>Co nově přidat na stránku</h3>
           <ul class="structure-list">
-            ${product.after.structure.map((item) => `<li>${item}</li>`).join("")}
+            ${product.after.structure.map((item) => `<li>${escapeHtml(item)}</li>`).join("")}
           </ul>
         </section>
       </div>
@@ -90,9 +117,101 @@ function renderProduct(product) {
       <section class="change-panel">
         <h3>Dotazy, které má produkt nově lépe pokrýt</h3>
         <ul class="chips">
-          ${product.queries.map((query) => `<li>${query}</li>`).join("")}
+          ${product.queries.map((query) => `<li>${escapeHtml(query)}</li>`).join("")}
         </ul>
       </section>
+    </article>
+  `;
+}
+
+function descriptionCard(title, label, tone, description) {
+  return `
+    <section class="product-column ${tone}">
+      <div class="column-head">
+        <h3>${title}</h3>
+        <span class="mini-label">${label}</span>
+      </div>
+
+      <article class="description-sheet">
+        <header class="description-header">
+          <div class="description-headline">${escapeHtml(description.headline)}</div>
+          <p>${escapeHtml(description.intro)}</p>
+        </header>
+
+        <div class="description-sections">
+          ${description.sections.map(renderDescriptionSection).join("")}
+        </div>
+      </article>
+    </section>
+  `;
+}
+
+function renderDescriptionSection(section) {
+  const paragraphs = (section.paragraphs ?? [])
+    .map((paragraph) => `<p>${escapeHtml(paragraph)}</p>`)
+    .join("");
+  const bullets = renderList(section.bullets);
+  const ordered = renderOrderedList(section.ordered);
+  const note = section.note ? `<div class="section-note">${escapeHtml(section.note)}</div>` : "";
+
+  return `
+    <section class="description-section">
+      <h4>${escapeHtml(section.title)}</h4>
+      ${paragraphs}
+      ${bullets}
+      ${ordered}
+      ${note}
+    </section>
+  `;
+}
+
+function renderList(items = []) {
+  if (!items.length) {
+    return "";
+  }
+
+  return `
+    <ul class="section-list">
+      ${items.map((item) => `<li>${escapeHtml(item)}</li>`).join("")}
+    </ul>
+  `;
+}
+
+function renderOrderedList(items = []) {
+  if (!items.length) {
+    return "";
+  }
+
+  return `
+    <ol class="section-ordered">
+      ${items.map((item) => `<li>${escapeHtml(item)}</li>`).join("")}
+    </ol>
+  `;
+}
+
+function renderDiffCard(diff) {
+  return `
+    <article class="diff-card">
+      <div class="diff-card-top">
+        <span class="mini-label">Blok</span>
+        <h4>${escapeHtml(diff.title)}</h4>
+      </div>
+
+      <div class="diff-lines">
+        <div class="diff-line">
+          <span>Před</span>
+          <p>${escapeHtml(diff.before)}</p>
+        </div>
+        <div class="diff-line after-line">
+          <span>Po</span>
+          <p>${escapeHtml(diff.after)}</p>
+        </div>
+      </div>
+
+      <div class="diff-impact">
+        <span class="mini-label">Dopad</span>
+        <p>${escapeHtml(diff.impact)}</p>
+      </div>
     </article>
   `;
 }

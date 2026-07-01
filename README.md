@@ -4,6 +4,7 @@ Statická GitHub Pages microsite s ukázkou TOP5 produktů TianDe:
 
 - aktuální stav popisu
 - navržený GEO přepis
-- stručné vysvětlení, co se má změnit
+- celý rozšířený blok `product-description`
+- blokové vysvětlení, co se má změnit
 
 Výběr je dělaný podle YTD prodaných kusů z lokálních reportovacích dat.
