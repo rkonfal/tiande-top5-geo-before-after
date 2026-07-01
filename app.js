@@ -1,20 +1,24 @@
 import { products } from "./products.js";
+import { previewProducts } from "./preview-products.js";
 
 const heroStats = document.querySelector("#hero-stats");
-const root = document.querySelector("#products-root");
+const liveRoot = document.querySelector("#products-root");
+const previewRoot = document.querySelector("#preview-products-root");
 
-const totalUnits = products.reduce((sum, product) => sum + product.ytdUnits, 0);
-const totalDiffBlocks = products.reduce((sum, product) => sum + product.blockDiffs.length, 0);
-const productCodes = products.map((product) => product.code).join(", ");
+const allProducts = [...products, ...previewProducts];
+const totalUnits = allProducts.reduce((sum, product) => sum + product.ytdUnits, 0);
+const totalDiffBlocks = allProducts.reduce((sum, product) => sum + product.blockDiffs.length, 0);
+const productCodes = allProducts.map((product) => product.code).join(", ");
 
 heroStats.innerHTML = [
-  statCard("TOP výběr", "5 produktů", "Vybráno čistě podle YTD prodaných kusů"),
+  statCard("Live + preview", `${products.length} + ${previewProducts.length}`, "TOP5 už řešená + dalších 20 k náhledu"),
   statCard("Součet prodejů", formatNumber(totalUnits), "Kusy za rok 2026 v aktuálním okně"),
   statCard("Rozšířené bloky", `${totalDiffBlocks} změn`, "Rozpad po sekcích pro content tým"),
   statCard("Kódy", productCodes, "Produkty v ukázce")
 ].join("");
 
-root.innerHTML = products.map(renderProduct).join("");
+liveRoot.innerHTML = products.map((product) => renderProduct(product, "live")).join("");
+previewRoot.innerHTML = previewProducts.map((product) => renderProduct(product, "preview")).join("");
 
 function statCard(label, value, note) {
   return `
@@ -26,7 +30,12 @@ function statCard(label, value, note) {
   `;
 }
 
-function renderProduct(product) {
+function renderProduct(product, mode) {
+  const previewBadge =
+    mode === "preview" && product.previewLabel
+      ? `<span class="pill preview-pill">${escapeHtml(product.previewLabel)}</span>`
+      : "";
+
   return `
     <article class="product-card" id="product-${product.code}">
       <div class="product-topbar">
@@ -37,6 +46,7 @@ function renderProduct(product) {
               <span class="pill">Kód ${product.code}</span>
               <span class="pill">${formatNumber(product.ytdUnits)} ks YTD</span>
               <span class="pill">${product.price}</span>
+              ${previewBadge}
             </div>
             <h3>${escapeHtml(product.title)}</h3>
             <a class="product-link" href="${product.url}" target="_blank" rel="noreferrer">
@@ -125,13 +135,9 @@ function renderProduct(product) {
 }
 
 function descriptionCard(title, label, tone, description) {
-  return `
-    <section class="product-column ${tone}">
-      <div class="column-head">
-        <h3>${title}</h3>
-        <span class="mini-label">${label}</span>
-      </div>
-
+  const content = description.html
+    ? `<article class="description-sheet raw-html">${description.html}</article>`
+    : `
       <article class="description-sheet">
         <header class="description-header">
           <div class="description-headline">${escapeHtml(description.headline)}</div>
@@ -142,6 +148,15 @@ function descriptionCard(title, label, tone, description) {
           ${description.sections.map(renderDescriptionSection).join("")}
         </div>
       </article>
+    `;
+
+  return `
+    <section class="product-column ${tone}">
+      <div class="column-head">
+        <h3>${title}</h3>
+        <span class="mini-label">${label}</span>
+      </div>
+      ${content}
     </section>
   `;
 }
