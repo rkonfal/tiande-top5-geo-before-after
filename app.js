@@ -13,15 +13,37 @@ const totalDiffBlocks = allProducts.reduce((sum, product) => sum + product.block
 const productCodes = allProducts.map((product) => product.code).join(", ");
 
 heroStats.innerHTML = [
-  statCard("Live + preview", `${products.length} + ${previewProducts.length}`, "TOP5 už řešená + dalších 20 k náhledu"),
+  statCard("Nasazeno", "25 produktů", "Všechna SKU v této microsite už jsou v produkci"),
+  statCard("Silnější upgrade", `${upgradePreviewProducts.length} produktů`, "Decision-page pattern nasazený na celé sadě"),
   statCard("Součet prodejů", formatNumber(totalUnits), "Kusy za rok 2026 v aktuálním okně"),
   statCard("Rozšířené bloky", `${totalDiffBlocks} změn`, "Rozpad po sekcích pro content tým"),
   statCard("Kódy", productCodes, "Produkty v ukázce")
 ].join("");
 
-liveRoot.innerHTML = products.map((product) => renderProduct(product, "live")).join("");
-previewRoot.innerHTML = previewProducts.map((product) => renderProduct(product, "preview")).join("");
-upgradeRoot.innerHTML = upgradePreviewProducts.map((product) => renderProduct(product, "preview")).join("");
+liveRoot.innerHTML = products
+  .map((product) =>
+    renderProduct(product, {
+      badge: "Hotovo v produkci",
+      afterLabel: "první nasazená GEO verze"
+    })
+  )
+  .join("");
+previewRoot.innerHTML = previewProducts
+  .map((product) =>
+    renderProduct(product, {
+      badge: "Hotovo v produkci",
+      afterLabel: "finální produkční copy"
+    })
+  )
+  .join("");
+upgradeRoot.innerHTML = upgradePreviewProducts
+  .map((product) =>
+    renderProduct(product, {
+      badge: "Hotovo v produkci · finální upgrade",
+      afterLabel: "silnější verze nasazená v produkci"
+    })
+  )
+  .join("");
 
 function statCard(label, value, note) {
   return `
@@ -33,11 +55,11 @@ function statCard(label, value, note) {
   `;
 }
 
-function renderProduct(product, mode) {
-  const previewBadge =
-    mode === "preview" && product.previewLabel
-      ? `<span class="pill preview-pill">${escapeHtml(product.previewLabel)}</span>`
-      : "";
+function renderProduct(product, options = {}) {
+  const statusBadge = options.badge
+    ? `<span class="pill preview-pill">${escapeHtml(options.badge)}</span>`
+    : "";
+  const afterLabel = options.afterLabel ?? "navržený GEO přepis";
 
   return `
     <article class="product-card" id="product-${product.code}">
@@ -49,7 +71,7 @@ function renderProduct(product, mode) {
               <span class="pill">Kód ${product.code}</span>
               <span class="pill">${formatNumber(product.ytdUnits)} ks YTD</span>
               <span class="pill">${product.price}</span>
-              ${previewBadge}
+              ${statusBadge}
             </div>
             <h3>${escapeHtml(product.title)}</h3>
             <a class="product-link" href="${product.url}" target="_blank" rel="noreferrer">
@@ -79,7 +101,7 @@ function renderProduct(product, mode) {
           <section class="product-column after">
             <div class="column-head">
               <h3>Po</h3>
-              <span class="mini-label">navržený GEO přepis</span>
+              <span class="mini-label">${escapeHtml(afterLabel)}</span>
             </div>
             ${textBlock("Nový title", product.after.title)}
             ${textBlock("Nová meta description", product.after.meta)}
@@ -96,7 +118,7 @@ function renderProduct(product, mode) {
 
         <div class="product-columns description-columns">
           ${descriptionCard("Před", "aktuální product-description", "before", product.before.description)}
-          ${descriptionCard("Po", "navržený rozšířený popis", "after", product.after.description)}
+          ${descriptionCard("Po", afterLabel, "after", product.after.description)}
         </div>
       </section>
 
