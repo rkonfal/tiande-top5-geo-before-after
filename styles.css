@@ -212,6 +212,53 @@ h4 {
   gap: 20px;
 }
 
+.deployed-section {
+  opacity: 0.96;
+}
+
+.deployed-toggle {
+  border: 1px solid var(--line);
+  border-radius: 28px;
+  background: rgba(255, 255, 255, 0.56);
+  box-shadow: var(--shadow);
+  overflow: hidden;
+}
+
+.deployed-toggle summary {
+  list-style: none;
+  cursor: pointer;
+  padding: 24px 26px;
+  display: grid;
+  gap: 8px;
+  background: linear-gradient(180deg, rgba(102, 114, 79, 0.06), rgba(255, 255, 255, 0.72));
+}
+
+.deployed-toggle summary::-webkit-details-marker {
+  display: none;
+}
+
+.deployed-toggle summary::after {
+  content: "Rozbalit";
+  justify-self: start;
+  margin-top: 4px;
+  padding: 8px 12px;
+  border-radius: 999px;
+  background: var(--olive-soft);
+  color: var(--olive);
+  font-size: 0.82rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.deployed-toggle[open] summary::after {
+  content: "Sbalit";
+}
+
+.deployed-body {
+  padding: 0 0 4px;
+}
+
 .product-card {
   padding: 24px;
   border-radius: 30px;
